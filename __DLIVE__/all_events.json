@@ -1021,33 +1021,17 @@
     },
     {
         "visible": true,
-        "category": "Football",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
-        "eventName": "Trendyol Süper Lig",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "teamAName": "Samsunspor",
-        "teamBName": "Gaziantep FK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3053/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5138/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "17:00:00",
-        "end_date": "01/03/2026",
-        "end_time": "19:00:00",
-        "link_names": [
-            "TFLIX SD"
-        ],
-        "links": "pro/VHJlbmR5b2xTw7xwZXJMaWctU2Ftc3Vuc3Bvci12cy1HYXppYW50ZXBGSw.json",
-        "slug": "pro/VHJlbmR5b2xTw7xwZXJMaWctU2Ftc3Vuc3Bvci12cy1HYXppYW50ZXBGSw.json",
-        "links_id": "4332",
-        "stream_details": [
-            {
-                "name": "TFLIX SD",
-                "link": "http://205.237.104.40/hls/alllqq.m3u8|Referer=http://www.fawanews.sc/",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "category": "Basketball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
+        "eventName": "NBA",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamAName": "Golden State Warriors",
+        "teamBName": "Los Angeles Clippers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+        "date": "03/03/2026",
+        "time": "03:00:00",
+        "links": "pro/TkJBLUdvbGRlblN0YXRlV2FycmlvcnMtdnMtTG9zQW5nZWxlc0NsaXBwZXJz.json"
     },
     {
         "visible": true,
@@ -1055,633 +1039,55 @@
         "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
         "eventName": "NBA",
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamAName": "Brooklyn Nets",
-        "teamBName": "Cleveland Cavaliers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "20:30:00",
-        "end_date": "01/03/2026",
-        "end_time": "23:00:00",
-        "link_names": [
-            "NBA FHD",
-            "NBA SD"
-        ],
-        "links": "pro/TkJBLUJyb29rbHluTmV0cy12cy1DbGV2ZWxhbmRDYXZhbGllcnM.json",
-        "slug": "pro/TkJBLUJyb29rbHluTmV0cy12cy1DbGV2ZWxhbmRDYXZhbGllcnM.json",
-        "links_id": "4335",
-        "stream_details": [
-            {
-                "name": "NBA FHD",
-                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NBA SD",
-                "link": "http://origin.thetvapp.to/hls/NBA03/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Basketball",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
-        "eventName": "NBA",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamAName": "Denver Nuggets",
-        "teamBName": "Minnesota Timberwolves",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "20:30:00",
-        "end_date": "01/03/2026",
-        "end_time": "23:00:00",
-        "link_names": [
-            "NBA FHD",
-            "NBA SD"
-        ],
-        "links": "pro/TkJBLURlbnZlck51Z2dldHMtdnMtTWlubmVzb3RhVGltYmVyd29sdmVz.json",
-        "slug": "pro/TkJBLURlbnZlck51Z2dldHMtdnMtTWlubmVzb3RhVGltYmVyd29sdmVz.json",
-        "links_id": "4336",
-        "stream_details": [
-            {
-                "name": "NBA FHD",
-                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NBA SD",
-                "link": "http://origin.thetvapp.to/hls/WABCDT1/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Basketball",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
-        "eventName": "NBA",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamAName": "Chicago Bulls",
-        "teamBName": "Milwaukee Bucks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "20:30:00",
-        "end_date": "01/03/2026",
-        "end_time": "23:00:00",
-        "link_names": [
-            "NBA FHD",
-            "NBA SD"
-        ],
-        "links": "pro/TkJBLUNoaWNhZ29CdWxscy12cy1NaWx3YXVrZWVCdWNrcw.json",
-        "slug": "pro/TkJBLUNoaWNhZ29CdWxscy12cy1NaWx3YXVrZWVCdWNrcw.json",
-        "links_id": "4337",
-        "stream_details": [
-            {
-                "name": "NBA FHD",
-                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba3.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NBA SD",
-                "link": "http://origin.thetvapp.to/hls/NBA02/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Basketball",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
-        "eventName": "NBA",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamAName": "Dallas Mavericks",
-        "teamBName": "Oklahoma City Thunder",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-        "priority": -1,
-        "date": "02/03/2026",
-        "time": "01:00:00",
-        "end_date": "02/03/2026",
-        "end_time": "03:30:00",
-        "link_names": [
-            "NBA FHD",
-            "NBA SD"
-        ],
-        "links": "pro/TkJBLURhbGxhc01hdmVyaWNrcy12cy1Pa2xhaG9tYUNpdHlUaHVuZGVy.json",
-        "slug": "pro/TkJBLURhbGxhc01hdmVyaWNrcy12cy1Pa2xhaG9tYUNpdHlUaHVuZGVy.json",
-        "links_id": "4338",
-        "stream_details": [
-            {
-                "name": "NBA FHD",
-                "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/nba9.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NBA SD",
-                "link": "http://origin.thetvapp.to/hls/NBA09/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Basketball",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
-        "eventName": "NBA",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamAName": "Indiana Pacers",
-        "teamBName": "Memphis Grizzlies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "22:00:00",
-        "end_date": "02/03/2026",
-        "end_time": "00:30:00",
-        "link_names": [
-            "NBA FHD",
-            "NBA SD"
-        ],
-        "links": "pro/TkJBLUluZGlhbmFQYWNlcnMtdnMtTWVtcGhpc0dyaXp6bGllcw.json",
-        "slug": "pro/TkJBLUluZGlhbmFQYWNlcnMtdnMtTWVtcGhpc0dyaXp6bGllcw.json",
-        "links_id": "4339",
-        "stream_details": [
-            {
-                "name": "NBA FHD",
-                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nba5.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NBA SD",
-                "link": "http://origin.thetvapp.to/hls/NBA04/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Basketball",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
-        "eventName": "NBA",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamAName": "Boston Celtics",
-        "teamBName": "Philadelphia 76ers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image",
-        "priority": -1,
-        "date": "02/03/2026",
-        "time": "01:00:00",
-        "end_date": "02/03/2026",
-        "end_time": "03:30:00",
-        "link_names": [
-            "NBA FHD",
-            "NBA SD"
-        ],
-        "links": "pro/TkJBLUJvc3RvbkNlbHRpY3MtdnMtUGhpbGFkZWxwaGlhNzZlcnM.json",
-        "slug": "pro/TkJBLUJvc3RvbkNlbHRpY3MtdnMtUGhpbGFkZWxwaGlhNzZlcnM.json",
-        "links_id": "4340",
-        "stream_details": [
-            {
-                "name": "NBA FHD",
-                "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/nba8.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NBA SD",
-                "link": "http://origin.thetvapp.to/hls/NBA08/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Basketball",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
-        "eventName": "NBA",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamAName": "Orlando Magic",
-        "teamBName": "Detroit Pistons",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "23:00:00",
-        "end_date": "02/03/2026",
-        "end_time": "01:30:00",
-        "link_names": [
-            "NBA FHD",
-            "NBA SD"
-        ],
-        "links": "pro/TkJBLU9ybGFuZG9NYWdpYy12cy1EZXRyb2l0UGlzdG9ucw.json",
-        "slug": "pro/TkJBLU9ybGFuZG9NYWdpYy12cy1EZXRyb2l0UGlzdG9ucw.json",
-        "links_id": "4341",
-        "stream_details": [
-            {
-                "name": "NBA FHD",
-                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NBA SD",
-                "link": "http://origin.thetvapp.to/hls/NBA07/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Basketball",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
-        "eventName": "NBA",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamAName": "Atlanta Hawks",
-        "teamBName": "Portland Trail Blazers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "23:00:00",
-        "end_date": "02/03/2026",
-        "end_time": "01:30:00",
-        "link_names": [
-            "NBA FHD",
-            "NBA SD"
-        ],
-        "links": "pro/TkJBLUF0bGFudGFIYXdrcy12cy1Qb3J0bGFuZFRyYWlsQmxhemVycw.json",
-        "slug": "pro/TkJBLUF0bGFudGFIYXdrcy12cy1Qb3J0bGFuZFRyYWlsQmxhemVycw.json",
-        "links_id": "4342",
-        "stream_details": [
-            {
-                "name": "NBA FHD",
-                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba6.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NBA SD",
-                "link": "http://origin.thetvapp.to/hls/NBA06/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Basketball",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
-        "eventName": "NBA",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamAName": "Los Angeles Lakers",
-        "teamBName": "Sacramento Kings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-        "priority": -1,
-        "date": "02/03/2026",
-        "time": "02:30:00",
-        "end_date": "02/03/2026",
-        "end_time": "05:00:00",
-        "link_names": [
-            "NBA FHD",
-            "NBA FHD 2",
-            "NBA SD"
-        ],
-        "links": "pro/TkJBLUxvc0FuZ2VsZXNMYWtlcnMtdnMtU2FjcmFtZW50b0tpbmdz.json",
-        "slug": "pro/TkJBLUxvc0FuZ2VsZXNMYWtlcnMtdnMtU2FjcmFtZW50b0tpbmdz.json",
-        "links_id": "4343",
-        "stream_details": [
-            {
-                "name": "NBA FHD",
-                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba4.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NBA FHD 2",
-                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba11.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NBA SD",
-                "link": "http://origin.thetvapp.to/hls/NBA11/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Basketball",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
-        "eventName": "NBA",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "teamAName": "Los Angeles Clippers",
-        "teamBName": "New Orleans Pelicans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5539/image",
-        "priority": -1,
-        "date": "02/03/2026",
+        "teamAName": "Utah Jazz",
+        "teamBName": "Denver Nuggets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "date": "03/03/2026",
         "time": "02:00:00",
-        "end_date": "02/03/2026",
-        "end_time": "04:30:00",
-        "link_names": [
-            "NBA FHD",
-            "NBA SD"
-        ],
-        "links": "pro/TkJBLUxvc0FuZ2VsZXNDbGlwcGVycy12cy1OZXdPcmxlYW5zUGVsaWNhbnM.json",
-        "slug": "pro/TkJBLUxvc0FuZ2VsZXNDbGlwcGVycy12cy1OZXdPcmxlYW5zUGVsaWNhbnM.json",
-        "links_id": "4344",
-        "stream_details": [
-            {
-                "name": "NBA FHD",
-                "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/nba5.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NBA SD",
-                "link": "http://origin.thetvapp.to/hls/NBA10/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "links": "pro/TkJBLVV0YWhKYXp6LXZzLURlbnZlck51Z2dldHM.json"
     },
     {
         "visible": true,
-        "category": "Ice hockey",
-        "categoryLogo": "no",
-        "eventName": "NHL",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamAName": "New York Islanders",
-        "teamBName": "Florida Panthers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3703/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "23:30:00",
-        "end_date": "02/03/2026",
-        "end_time": "01:30:00",
-        "link_names": [
-            "NHL HD",
-            "NHL FHD",
-            "NHL SD"
-        ],
-        "links": "pro/TkhMLU5ld1lvcmtJc2xhbmRlcnMtdnMtRmxvcmlkYVBhbnRoZXJz.json",
-        "slug": "pro/TkhMLU5ld1lvcmtJc2xhbmRlcnMtdnMtRmxvcmlkYVBhbnRoZXJz.json",
-        "links_id": "4345",
-        "stream_details": [
-            {
-                "name": "NHL HD",
-                "link": "http://watcharena.xyz/hls/172.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NHL FHD",
-                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl5.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NHL SD",
-                "link": "http://origin.thetvapp.to/hls/ESPN/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "category": "Basketball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
+        "eventName": "NBA",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamAName": "Washington Wizards",
+        "teamBName": "Houston Rockets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+        "date": "03/03/2026",
+        "time": "00:00:00",
+        "links": "pro/TkJBLVdhc2hpbmd0b25XaXphcmRzLXZzLUhvdXN0b25Sb2NrZXRz.json"
     },
     {
         "visible": true,
-        "category": "Ice hockey",
-        "categoryLogo": "no",
-        "eventName": "NHL",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamAName": "Anaheim Ducks",
-        "teamBName": "Calgary Flames",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-        "priority": -1,
+        "category": "Basketball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
+        "eventName": "NBA",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamAName": "Milwaukee Bucks",
+        "teamBName": "Boston Celtics",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+        "date": "03/03/2026",
+        "time": "00:30:00",
+        "links": "pro/TkJBLU1pbHdhdWtlZUJ1Y2tzLXZzLUJvc3RvbkNlbHRpY3M.json"
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "Texas Rangers",
+        "teamBName": "Cleveland Guardians",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
         "date": "02/03/2026",
-        "time": "01:00:00",
-        "end_date": "02/03/2026",
-        "end_time": "03:00:00",
-        "link_names": [
-            "NHL HD",
-            "NHL FHD",
-            "NHL SD"
-        ],
-        "links": "pro/TkhMLUFuYWhlaW1EdWNrcy12cy1DYWxnYXJ5RmxhbWVz.json",
-        "slug": "pro/TkhMLUFuYWhlaW1EdWNrcy12cy1DYWxnYXJ5RmxhbWVz.json",
-        "links_id": "4346",
-        "stream_details": [
-            {
-                "name": "NHL HD",
-                "link": "http://watcharena.xyz/hls/90.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NHL FHD",
-                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl6.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NHL SD",
-                "link": "http://origin.thetvapp.to/hls/NHL20/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Ice hockey",
-        "categoryLogo": "no",
-        "eventName": "NHL",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamAName": "Utah Mammoth",
-        "teamBName": "Chicago Blackhawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "21:00:00",
-        "end_date": "01/03/2026",
-        "end_time": "23:00:00",
-        "link_names": [
-            "NHL HD",
-            "NHL FHD",
-            "NHL SD"
-        ],
-        "links": "pro/TkhMLVV0YWhNYW1tb3RoLXZzLUNoaWNhZ29CbGFja2hhd2tz.json",
-        "slug": "pro/TkhMLVV0YWhNYW1tb3RoLXZzLUNoaWNhZ29CbGFja2hhd2tz.json",
-        "links_id": "4347",
-        "stream_details": [
-            {
-                "name": "NHL HD",
-                "link": "http://watcharena.xyz/hls/89.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NHL FHD",
-                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl2.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NHL SD",
-                "link": "http://origin.thetvapp.to/hls/NHL03/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Ice hockey",
-        "categoryLogo": "no",
-        "eventName": "NHL",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamAName": "Minnesota Wild",
-        "teamBName": "St. Louis Blues",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "22:00:00",
-        "end_date": "02/03/2026",
-        "end_time": "00:00:00",
-        "link_names": [
-            "NHL HD",
-            "NHL FHD",
-            "NHL SD"
-        ],
-        "links": "pro/TkhMLU1pbm5lc290YVdpbGQtdnMtU3QuTG91aXNCbHVlcw.json",
-        "slug": "pro/TkhMLU1pbm5lc290YVdpbGQtdnMtU3QuTG91aXNCbHVlcw.json",
-        "links_id": "4348",
-        "stream_details": [
-            {
-                "name": "NHL HD",
-                "link": "http://watcharena.xyz/hls/105.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NHL FHD",
-                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl4.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NHL SD",
-                "link": "http://origin.thetvapp.to/hls/NHL06/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Ice hockey",
-        "categoryLogo": "no",
-        "eventName": "NHL",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamAName": "Pittsburgh Penguins",
-        "teamBName": "Vegas Golden Knights",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "18:00:00",
-        "end_date": "01/03/2026",
-        "end_time": "20:20:00",
-        "link_names": [
-            "NHL HD",
-            "NHL SD"
-        ],
-        "links": "pro/TkhMLVBpdHRzYnVyZ2hQZW5ndWlucy12cy1WZWdhc0dvbGRlbktuaWdodHM.json",
-        "slug": "pro/TkhMLVBpdHRzYnVyZ2hQZW5ndWlucy12cy1WZWdhc0dvbGRlbktuaWdodHM.json",
-        "links_id": "4349",
-        "stream_details": [
-            {
-                "name": "NHL HD",
-                "link": "http://watcharena.xyz/hls/99.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NHL SD",
-                "link": "http://origin.thetvapp.to/hls/TNTEast/mono.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Ice hockey",
-        "categoryLogo": "no",
-        "eventName": "NHL",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "teamAName": "San Jose Sharks",
-        "teamBName": "Winnipeg Jets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "21:00:00",
-        "end_date": "02/03/2026",
-        "end_time": "00:00:00",
-        "link_names": [
-            "NHL HD",
-            "NHL FHD",
-            "NHL SD"
-        ],
-        "links": "pro/TkhMLVNhbkpvc2VTaGFya3MtdnMtV2lubmlwZWdKZXRz.json",
-        "slug": "pro/TkhMLVNhbkpvc2VTaGFya3MtdnMtV2lubmlwZWdKZXRz.json",
-        "links_id": "4350",
-        "stream_details": [
-            {
-                "name": "NHL HD",
-                "link": "http://watcharena.xyz/hls/103.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NHL FHD",
-                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl3.m3u8|Referer=https://roxiestreams.info/",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "NHL SD",
-                "link": "http://origin.thetvapp.to/hls/NHL04/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "time": "20:05:00",
+        "links": "pro/TUxCLFByZXNlYXNvbi1UZXhhc1JhbmdlcnMtdnMtQ2xldmVsYW5kR3VhcmRpYW5z.json"
     },
     {
         "visible": true,
@@ -1689,36 +1095,13 @@
         "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
         "eventName": "MLB, Preseason",
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
-        "teamAName": "New York Mets",
-        "teamBName": "Houston Astros",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "18:10:00",
-        "end_date": "01/03/2026",
-        "end_time": "20:10:00",
-        "link_names": [
-            "MLB HD",
-            "MLB SD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1OZXdZb3JrTWV0cy12cy1Ib3VzdG9uQXN0cm9z.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1OZXdZb3JrTWV0cy12cy1Ib3VzdG9uQXN0cm9z.json",
-        "links_id": "4351",
-        "stream_details": [
-            {
-                "name": "MLB HD",
-                "link": "http://watcharena.xyz/hls/new/109.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "MLB SD",
-                "link": "http://origin.thetvapp.to/hls/MLB06/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "teamAName": "Cincinnati Reds",
+        "teamBName": "Chicago Cubs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+        "date": "02/03/2026",
+        "time": "20:05:00",
+        "links": "pro/TUxCLFByZXNlYXNvbi1DaW5jaW5uYXRpUmVkcy12cy1DaGljYWdvQ3Vicw.json"
     },
     {
         "visible": true,
@@ -1726,36 +1109,13 @@
         "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
         "eventName": "MLB, Preseason",
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
-        "teamAName": "Philadelphia Phillies",
-        "teamBName": "New York Yankees",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-        "priority": -1,
-        "date": "01/03/2026",
+        "teamAName": "Houston Astros",
+        "teamBName": "Washington Nationals",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+        "date": "02/03/2026",
         "time": "18:05:00",
-        "end_date": "01/03/2026",
-        "end_time": "20:05:00",
-        "link_names": [
-            "MLB HD",
-            "MLB SD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1QaGlsYWRlbHBoaWFQaGlsbGllcy12cy1OZXdZb3JrWWFua2Vlcw.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1QaGlsYWRlbHBoaWFQaGlsbGllcy12cy1OZXdZb3JrWWFua2Vlcw.json",
-        "links_id": "4352",
-        "stream_details": [
-            {
-                "name": "MLB HD",
-                "link": "http://watcharena.xyz/hls/new/114.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "MLB SD",
-                "link": "http://origin.thetvapp.to/hls/MLB05/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "links": "pro/TUxCLFByZXNlYXNvbi1Ib3VzdG9uQXN0cm9zLXZzLVdhc2hpbmd0b25OYXRpb25hbHM.json"
     },
     {
         "visible": true,
@@ -1763,36 +1123,13 @@
         "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
         "eventName": "MLB, Preseason",
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
-        "teamAName": "Minnesota Twins",
-        "teamBName": "Atlanta Braves",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "18:05:00",
-        "end_date": "01/03/2026",
-        "end_time": "20:05:00",
-        "link_names": [
-            "MLB HD",
-            "MLB SD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1NaW5uZXNvdGFUd2lucy12cy1BdGxhbnRhQnJhdmVz.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1NaW5uZXNvdGFUd2lucy12cy1BdGxhbnRhQnJhdmVz.json",
-        "links_id": "4353",
-        "stream_details": [
-            {
-                "name": "MLB HD",
-                "link": "http://watcharena.xyz/hls/new/121.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "MLB SD",
-                "link": "http://origin.thetvapp.to/hls/MLB04/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "teamAName": "San Diego Padres",
+        "teamBName": "Athletics",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+        "date": "02/03/2026",
+        "time": "20:10:00",
+        "links": "pro/TUxCLFByZXNlYXNvbi1TYW5EaWVnb1BhZHJlcy12cy1BdGhsZXRpY3M.json"
     },
     {
         "visible": true,
@@ -1800,66 +1137,13 @@
         "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
         "eventName": "MLB, Preseason",
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
-        "teamAName": "St. Louis Cardinals",
-        "teamBName": "Pittsburgh Pirates",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "18:05:00",
-        "end_date": "01/03/2026",
-        "end_time": "20:10:00",
-        "link_names": [
-            "MLB HD",
-            "MLB SD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1TdC5Mb3Vpc0NhcmRpbmFscy12cy1QaXR0c2J1cmdoUGlyYXRlcw.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1TdC5Mb3Vpc0NhcmRpbmFscy12cy1QaXR0c2J1cmdoUGlyYXRlcw.json",
-        "links_id": "4354",
-        "stream_details": [
-            {
-                "name": "MLB HD",
-                "link": "http://watcharena.xyz/hls/new/132.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "MLB SD",
-                "link": "http://origin.thetvapp.to/hls/MLB36/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Baseball",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
-        "eventName": "MLB, Preseason",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
-        "teamAName": "Boston Red Sox",
-        "teamBName": "Baltimore Orioles",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "18:05:00",
-        "end_date": "01/03/2026",
-        "end_time": "20:10:00",
-        "link_names": [
-            "MLB SD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1Cb3N0b25SZWRTb3gtdnMtQmFsdGltb3JlT3Jpb2xlcw.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1Cb3N0b25SZWRTb3gtdnMtQmFsdGltb3JlT3Jpb2xlcw.json",
-        "links_id": "4355",
-        "stream_details": [
-            {
-                "name": "MLB SD",
-                "link": "http://origin.thetvapp.to/hls/MLB02/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "teamAName": "Chicago White Sox",
+        "teamBName": "San Francisco Giants",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+        "date": "02/03/2026",
+        "time": "20:05:00",
+        "links": "pro/TUxCLFByZXNlYXNvbi1DaGljYWdvV2hpdGVTb3gtdnMtU2FuRnJhbmNpc2NvR2lhbnRz.json"
     },
     {
         "visible": true,
@@ -1868,35 +1152,12 @@
         "eventName": "MLB, Preseason",
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
         "teamAName": "Detroit Tigers",
-        "teamBName": "Toronto Blue Jays",
+        "teamBName": "Atlanta Braves",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-        "priority": -1,
-        "date": "01/03/2026",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+        "date": "02/03/2026",
         "time": "18:05:00",
-        "end_date": "01/03/2026",
-        "end_time": "20:05:00",
-        "link_names": [
-            "MLB HD",
-            "MLB SD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1EZXRyb2l0VGlnZXJzLXZzLVRvcm9udG9CbHVlSmF5cw.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1EZXRyb2l0VGlnZXJzLXZzLVRvcm9udG9CbHVlSmF5cw.json",
-        "links_id": "4356",
-        "stream_details": [
-            {
-                "name": "MLB HD",
-                "link": "http://watcharena.xyz/hls/new/122.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "MLB SD",
-                "link": "http://origin.thetvapp.to/hls/MLB03/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "links": "pro/TUxCLFByZXNlYXNvbi1EZXRyb2l0VGlnZXJzLXZzLUF0bGFudGFCcmF2ZXM.json"
     },
     {
         "visible": true,
@@ -1904,36 +1165,13 @@
         "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
         "eventName": "MLB, Preseason",
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
-        "teamAName": "Washington Nationals",
+        "teamAName": "St. Louis Cardinals",
         "teamBName": "Miami Marlins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-        "priority": -1,
-        "date": "01/03/2026",
+        "date": "02/03/2026",
         "time": "18:05:00",
-        "end_date": "01/03/2026",
-        "end_time": "20:05:00",
-        "link_names": [
-            "MLB HD",
-            "MLB SD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1XYXNoaW5ndG9uTmF0aW9uYWxzLXZzLU1pYW1pTWFybGlucw.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1XYXNoaW5ndG9uTmF0aW9uYWxzLXZzLU1pYW1pTWFybGlucw.json",
-        "links_id": "4357",
-        "stream_details": [
-            {
-                "name": "MLB HD",
-                "link": "http://watcharena.xyz/hls/new/112.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "MLB SD",
-                "link": "http://origin.thetvapp.to/hls/MLB20/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "links": "pro/TUxCLFByZXNlYXNvbi1TdC5Mb3Vpc0NhcmRpbmFscy12cy1NaWFtaU1hcmxpbnM.json"
     },
     {
         "visible": true,
@@ -1941,36 +1179,13 @@
         "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
         "eventName": "MLB, Preseason",
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
-        "teamAName": "Cleveland Guardians",
-        "teamBName": "Colorado Rockies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "20:05:00",
-        "end_date": "28/02/2026",
-        "end_time": "22:10:00",
-        "link_names": [
-            "MLB HD",
-            "MLB SD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1DbGV2ZWxhbmRHdWFyZGlhbnMtdnMtQ29sb3JhZG9Sb2NraWVz.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1DbGV2ZWxhbmRHdWFyZGlhbnMtdnMtQ29sb3JhZG9Sb2NraWVz.json",
-        "links_id": "4363",
-        "stream_details": [
-            {
-                "name": "MLB HD",
-                "link": "http://watcharena.xyz/hls/new/108.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "MLB SD",
-                "link": "http://origin.thetvapp.to/hls/MLB07/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "teamAName": "Toronto Blue Jays",
+        "teamBName": "Boston Red Sox",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+        "date": "02/03/2026",
+        "time": "18:07:00",
+        "links": "pro/TUxCLFByZXNlYXNvbi1Ub3JvbnRvQmx1ZUpheXMtdnMtQm9zdG9uUmVkU294.json"
     },
     {
         "visible": true,
@@ -1978,36 +1193,13 @@
         "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
         "eventName": "MLB, Preseason",
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
-        "teamAName": "Seattle Mariners",
-        "teamBName": "Texas Rangers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-        "priority": -1,
-        "date": "01/03/2026",
+        "teamAName": "Los Angeles Angels",
+        "teamBName": "Kansas City Royals",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+        "date": "02/03/2026",
         "time": "20:10:00",
-        "end_date": "01/03/2026",
-        "end_time": "22:10:00",
-        "link_names": [
-            "MLB HD",
-            "MLB SD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1TZWF0dGxlTWFyaW5lcnMtdnMtVGV4YXNSYW5nZXJz.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1TZWF0dGxlTWFyaW5lcnMtdnMtVGV4YXNSYW5nZXJz.json",
-        "links_id": "4358",
-        "stream_details": [
-            {
-                "name": "MLB HD",
-                "link": "http://watcharena.xyz/hls/new/110.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "MLB SD",
-                "link": "http://origin.thetvapp.to/hls/MLB11/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "links": "pro/TUxCLFByZXNlYXNvbi1Mb3NBbmdlbGVzQW5nZWxzLXZzLUthbnNhc0NpdHlSb3lhbHM.json"
     },
     {
         "visible": true,
@@ -2015,140 +1207,13 @@
         "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
         "eventName": "MLB, Preseason",
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
-        "teamAName": "Los Angeles Dodgers",
-        "teamBName": "Los Angeles Angels",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "20:05:00",
-        "end_date": "01/03/2026",
-        "end_time": "22:10:00",
-        "link_names": [
-            "MLB HD",
-            "MLB SD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1Mb3NBbmdlbGVzRG9kZ2Vycy12cy1Mb3NBbmdlbGVzQW5nZWxz.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1Mb3NBbmdlbGVzRG9kZ2Vycy12cy1Mb3NBbmdlbGVzQW5nZWxz.json",
-        "links_id": "4359",
-        "stream_details": [
-            {
-                "name": "MLB HD",
-                "link": "http://watcharena.xyz/hls/new/133.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "MLB SD",
-                "link": "http://origin.thetvapp.to/hls/MLB08/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Baseball",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
-        "eventName": "MLB, Preseason",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
-        "teamAName": "Kansas City Royals",
-        "teamBName": "Milwaukee Brewers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "20:05:00",
-        "end_date": "01/03/2026",
-        "end_time": "22:05:00",
-        "link_names": [
-            "MLB HD",
-            "MLB SD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1LYW5zYXNDaXR5Um95YWxzLXZzLU1pbHdhdWtlZUJyZXdlcnM.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1LYW5zYXNDaXR5Um95YWxzLXZzLU1pbHdhdWtlZUJyZXdlcnM.json",
-        "links_id": "4360",
-        "stream_details": [
-            {
-                "name": "MLB HD",
-                "link": "http://watcharena.xyz/hls/new/117.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "MLB SD",
-                "link": "http://origin.thetvapp.to/hls/MLB21/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Baseball",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
-        "eventName": "MLB, Preseason",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
-        "teamAName": "San Francisco Giants",
-        "teamBName": "San Diego Padres",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "20:05:00",
-        "end_date": "01/03/2026",
-        "end_time": "22:05:00",
-        "link_names": [
-            "MLB HD",
-            "MLB SD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1TYW5GcmFuY2lzY29HaWFudHMtdnMtU2FuRGllZ29QYWRyZXM.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1TYW5GcmFuY2lzY29HaWFudHMtdnMtU2FuRGllZ29QYWRyZXM.json",
-        "links_id": "4362",
-        "stream_details": [
-            {
-                "name": "MLB HD",
-                "link": "http://watcharena.xyz/hls/new/107.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "MLB SD",
-                "link": "http://origin.thetvapp.to/hls/MLB09/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
-    },
-    {
-        "visible": true,
-        "category": "Baseball",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
-        "eventName": "MLB, Preseason",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
-        "teamAName": "Arizona Diamondbacks",
-        "teamBName": "Cleveland Guardians",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-        "priority": -1,
-        "date": "01/03/2026",
+        "teamAName": "Colorado Rockies",
+        "teamBName": "Los Angeles Dodgers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+        "date": "02/03/2026",
         "time": "20:10:00",
-        "end_date": "01/03/2026",
-        "end_time": "22:10:00",
-        "link_names": [
-            "MLB HD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1Bcml6b25hRGlhbW9uZGJhY2tzLXZzLUNsZXZlbGFuZEd1YXJkaWFucw.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1Bcml6b25hRGlhbW9uZGJhY2tzLXZzLUNsZXZlbGFuZEd1YXJkaWFucw.json",
-        "links_id": "4365",
-        "stream_details": [
-            {
-                "name": "MLB HD",
-                "link": "http://watcharena.xyz/hls/new/134.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "links": "pro/TUxCLFByZXNlYXNvbi1Db2xvcmFkb1JvY2tpZXMtdnMtTG9zQW5nZWxlc0RvZGdlcnM.json"
     },
     {
         "visible": true,
@@ -2156,72 +1221,96 @@
         "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
         "eventName": "MLB, Preseason",
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
-        "teamAName": "Chicago Cubs",
-        "teamBName": "Chicago White Sox",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "20:05:00",
-        "end_date": "01/03/2026",
-        "end_time": "22:05:00",
-        "link_names": [
-            "MLB HD",
-            "MLB SD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1DaGljYWdvQ3Vicy12cy1DaGljYWdvV2hpdGVTb3g.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1DaGljYWdvQ3Vicy12cy1DaGljYWdvV2hpdGVTb3g.json",
-        "links_id": "4364",
-        "stream_details": [
-            {
-                "name": "MLB HD",
-                "link": "http://watcharena.xyz/hls/new/131.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "MLB SD",
-                "link": "http://origin.thetvapp.to/hls/MLB10/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "teamAName": "Pittsburgh Pirates",
+        "teamBName": "Tampa Bay Rays",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+        "date": "02/03/2026",
+        "time": "18:05:00",
+        "links": "pro/TUxCLFByZXNlYXNvbi1QaXR0c2J1cmdoUGlyYXRlcy12cy1UYW1wYUJheVJheXM.json"
     },
     {
         "visible": true,
-        "category": "Baseball",
-        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
-        "eventName": "MLB, Preseason",
-        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
-        "teamAName": "Athletics",
-        "teamBName": "Cincinnati Reds",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-        "priority": -1,
-        "date": "01/03/2026",
-        "time": "20:05:00",
-        "end_date": "01/03/2026",
-        "end_time": "22:05:00",
-        "link_names": [
-            "MLB HD",
-            "MLB SD"
-        ],
-        "links": "pro/TUxCLFByZXNlYXNvbi1BdGhsZXRpY3MtdnMtQ2luY2lubmF0aVJlZHM.json",
-        "slug": "pro/TUxCLFByZXNlYXNvbi1BdGhsZXRpY3MtdnMtQ2luY2lubmF0aVJlZHM.json",
-        "links_id": "4361",
-        "stream_details": [
-            {
-                "name": "MLB HD",
-                "link": "http://watcharena.xyz/hls/new/128.m3u8|Referer=http://volokit.xyz",
-                "api": "",
-                "tokenApi": ""
-            },
-            {
-                "name": "MLB SD",
-                "link": "http://origin.thetvapp.to/hls/MLB33/mono.m3u8",
-                "api": "",
-                "tokenApi": ""
-            }
-        ]
+        "category": "Ice hockey",
+        "categoryLogo": "no",
+        "eventName": "NHL",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamAName": "Toronto Maple Leafs",
+        "teamBName": "Philadelphia Flyers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+        "date": "03/03/2026",
+        "time": "00:30:00",
+        "links": "pro/TkhMLVRvcm9udG9NYXBsZUxlYWZzLXZzLVBoaWxhZGVscGhpYUZseWVycw.json"
+    },
+    {
+        "visible": true,
+        "category": "Ice hockey",
+        "categoryLogo": "no",
+        "eventName": "NHL",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamAName": "Seattle Kraken",
+        "teamBName": "Carolina Hurricanes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+        "date": "03/03/2026",
+        "time": "03:00:00",
+        "links": "pro/TkhMLVNlYXR0bGVLcmFrZW4tdnMtQ2Fyb2xpbmFIdXJyaWNhbmVz.json"
+    },
+    {
+        "visible": true,
+        "category": "Ice hockey",
+        "categoryLogo": "no",
+        "eventName": "NHL",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamAName": "New York Rangers",
+        "teamBName": "Columbus Blue Jackets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+        "date": "03/03/2026",
+        "time": "00:00:00",
+        "links": "pro/TkhMLU5ld1lvcmtSYW5nZXJzLXZzLUNvbHVtYnVzQmx1ZUphY2tldHM.json"
+    },
+    {
+        "visible": true,
+        "category": "Ice hockey",
+        "categoryLogo": "no",
+        "eventName": "NHL",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamAName": "Vancouver Canucks",
+        "teamBName": "Dallas Stars",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+        "date": "03/03/2026",
+        "time": "03:00:00",
+        "links": "pro/TkhMLVZhbmNvdXZlckNhbnVja3MtdnMtRGFsbGFzU3RhcnM.json"
+    },
+    {
+        "visible": true,
+        "category": "Ice hockey",
+        "categoryLogo": "no",
+        "eventName": "NHL",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamAName": "Los Angeles Kings",
+        "teamBName": "Colorado Avalanche",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+        "date": "03/03/2026",
+        "time": "03:30:00",
+        "links": "pro/TkhMLUxvc0FuZ2VsZXNLaW5ncy12cy1Db2xvcmFkb0F2YWxhbmNoZQ.json"
+    },
+    {
+        "visible": true,
+        "category": "Ice hockey",
+        "categoryLogo": "no",
+        "eventName": "NHL",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamAName": "Nashville Predators",
+        "teamBName": "Detroit Red Wings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+        "date": "02/03/2026",
+        "time": "19:00:00",
+        "links": "pro/TkhMLU5hc2h2aWxsZVByZWRhdG9ycy12cy1EZXRyb2l0UmVkV2luZ3M.json"
     }
 ]
