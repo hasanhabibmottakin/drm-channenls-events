@@ -33,5 +33,5 @@ jobs:
       - name: Commit and Push generated JSON files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update __DLIVE__ folder via GitHub Actions"
+          commit_message: "Auto-update drm-channels-events"
           branch: main
