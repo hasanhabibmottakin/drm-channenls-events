@@ -525,7 +525,6 @@
     },
     {
         "visible": true,
-        "priority": -1,
         "category": "Football",
         "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
         "eventName": "LaLiga",
@@ -534,6 +533,7 @@
         "teamBName": "Getafe",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+        "priority": -1,
         "date": "02/03/2026",
         "time": "20:00:00",
         "end_date": "02/03/2026",
@@ -542,11 +542,12 @@
             "LALIGA TV FHD",
             "beIN ENG AQ",
             "FANCODE FHD AQ",
-            "ESPN DEPORTS FHD"
+            "ESPN DEPORTS FHD",
+            "Premier Sports HD"
         ],
-        "links_id": "3993",
         "links": "pro/TGFMaWdhLVJlYWxNYWRyaWQtdnMtR2V0YWZl.json",
         "slug": "pro/TGFMaWdhLVJlYWxNYWRyaWQtdnMtR2V0YWZl.json",
+        "links_id": "3993",
         "stream_details": [
             {
                 "name": "LALIGA TV FHD",
@@ -569,6 +570,12 @@
             {
                 "name": "ESPN DEPORTS FHD",
                 "link": "https://daffodil.serverbandel.sbs/dep.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Premier Sports HD",
+                "link": "https://lb.buzztip.site/la/tracks-v1a1/mono.m3u8",
                 "api": "",
                 "tokenApi": ""
             }
@@ -722,7 +729,6 @@
     },
     {
         "visible": true,
-        "priority": -1,
         "category": "Football",
         "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
         "eventName": "Serie A",
@@ -731,6 +737,7 @@
         "teamBName": "Bologna",
         "teamAFlag": "https://image-service.onefootball.com/transform?w=256&dpr=2&image=https://images.onefootball.com/icons/teams/164/1209.png",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+        "priority": -1,
         "date": "02/03/2026",
         "time": "17:30:00",
         "end_date": "02/03/2026",
@@ -738,13 +745,12 @@
         "link_names": [
             "beIN ENG AQ",
             "DAZN IT FHD",
-            "Sport 1 CZ AQ",
-            "Fox Deportes AQ",
-            "ONE SOCCER"
+            "beIN Sports FHD",
+            "Sport 1 CZ AQ"
         ],
-        "links_id": "3996",
         "links": "pro/U2VyaWVBLVBpc2EtdnMtQm9sb2duYQ.json",
         "slug": "pro/U2VyaWVBLVBpc2EtdnMtQm9sb2duYQ.json",
+        "links_id": "3996",
         "stream_details": [
             {
                 "name": "beIN ENG AQ",
@@ -754,7 +760,13 @@
             },
             {
                 "name": "DAZN IT FHD",
-                "link": "https://liveant.cdnbacklive.xyz/live/3317/index.m3u8|Referer=https://antsports.tv/",
+                "link": "https://liveant.cdnbacklive.xyz/live/3335/index.m3u8|Referer=https://antsports.tv/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports FHD",
+                "link": "https://daffodil.833577.xyz/bein.m3u8|Referer=https://roxiestreams.info/",
                 "api": "",
                 "tokenApi": ""
             },
@@ -762,18 +774,6 @@
                 "name": "Sport 1 CZ AQ",
                 "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
                 "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-                "tokenApi": ""
-            },
-            {
-                "name": "Fox Deportes AQ",
-                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-                "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-                "tokenApi": ""
-            },
-            {
-                "name": "ONE SOCCER",
-                "link": "https://lb.buzztip.site/os/tracks-v1a1/mono.m3u8",
-                "api": "",
                 "tokenApi": ""
             }
         ]
@@ -1021,7 +1021,6 @@
     },
     {
         "visible": true,
-        "priority": -1,
         "category": "Basketball",
         "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
         "eventName": "NBA",
@@ -1030,20 +1029,30 @@
         "teamBName": "Los Angeles Clippers",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+        "priority": -1,
         "date": "03/03/2026",
         "time": "03:00:00",
         "end_date": "03/03/2026",
         "end_time": "05:30:00",
         "link_names": [
-            "Link 1"
+            "NBA FHD",
+            "NBA SD"
         ],
-        "links_id": "4374",
         "links": "pro/TkJBLUdvbGRlblN0YXRlV2FycmlvcnMtdnMtTG9zQW5nZWxlc0NsaXBwZXJz.json",
         "slug": "pro/TkJBLUdvbGRlblN0YXRlV2FycmlvcnMtdnMtTG9zQW5nZWxlc0NsaXBwZXJz.json",
+        "links_id": "4374",
         "stream_details": [
             {
-                "name": "Link 1",
-                "link": "https://no.link"
+                "name": "NBA FHD",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/NBA05/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
             }
         ]
     },
@@ -1057,9 +1066,32 @@
         "teamBName": "Denver Nuggets",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "priority": -1,
         "date": "03/03/2026",
         "time": "02:00:00",
-        "links": "pro/TkJBLVV0YWhKYXp6LXZzLURlbnZlck51Z2dldHM.json"
+        "end_date": "03/03/2026",
+        "end_time": "04:30:00",
+        "link_names": [
+            "NBA FHD",
+            "NBA SD"
+        ],
+        "links": "pro/TkJBLVV0YWhKYXp6LXZzLURlbnZlck51Z2dldHM.json",
+        "slug": "pro/TkJBLVV0YWhKYXp6LXZzLURlbnZlck51Z2dldHM.json",
+        "links_id": "4375",
+        "stream_details": [
+            {
+                "name": "NBA FHD",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba3.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/NBA02/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1071,9 +1103,32 @@
         "teamBName": "Houston Rockets",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+        "priority": -1,
         "date": "03/03/2026",
         "time": "00:00:00",
-        "links": "pro/TkJBLVdhc2hpbmd0b25XaXphcmRzLXZzLUhvdXN0b25Sb2NrZXRz.json"
+        "end_date": "03/03/2026",
+        "end_time": "02:30:00",
+        "link_names": [
+            "NBA FHD",
+            "NBA SD"
+        ],
+        "links": "pro/TkJBLVdhc2hpbmd0b25XaXphcmRzLXZzLUhvdXN0b25Sb2NrZXRz.json",
+        "slug": "pro/TkJBLVdhc2hpbmd0b25XaXphcmRzLXZzLUhvdXN0b25Sb2NrZXRz.json",
+        "links_id": "4376",
+        "stream_details": [
+            {
+                "name": "NBA FHD",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/NBA01/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1085,9 +1140,32 @@
         "teamBName": "Boston Celtics",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+        "priority": -1,
         "date": "03/03/2026",
         "time": "00:30:00",
-        "links": "pro/TkJBLU1pbHdhdWtlZUJ1Y2tzLXZzLUJvc3RvbkNlbHRpY3M.json"
+        "end_date": "03/03/2026",
+        "end_time": "03:00:00",
+        "link_names": [
+            "NBA FHD",
+            "NBA SD"
+        ],
+        "links": "pro/TkJBLU1pbHdhdWtlZUJ1Y2tzLXZzLUJvc3RvbkNlbHRpY3M.json",
+        "slug": "pro/TkJBLU1pbHdhdWtlZUJ1Y2tzLXZzLUJvc3RvbkNlbHRpY3M.json",
+        "links_id": "4377",
+        "stream_details": [
+            {
+                "name": "NBA FHD",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/NBATV/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
