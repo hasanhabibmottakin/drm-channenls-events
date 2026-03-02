@@ -2,8 +2,11 @@ name: Auto Fetch drm-channels-events
 
 on:
   schedule:
-    - cron: '*/30 * * * *' 
-  workflow_dispatch: 
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   fetch_and_update:
@@ -14,6 +17,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v4
