@@ -1,0 +1,2737 @@
+[
+    {
+        "name": "TNT Sports",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/tnt-sports.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-TNTSports.json",
+        "is_playlist": false,
+        "link_names": [
+            "TNT Sports 1 - AQ",
+            "TNT Sports 2 - AQ",
+            "TNT Sports 3 - AQ",
+            "TNT Sports 4 - AQ",
+            "TNT Sports 5 - AQ",
+            "TNT USA HD"
+        ],
+        "stream_details": [
+            {
+                "name": "TNT Sports 1 - AQ",
+                "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+                "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+                "tokenApi": ""
+            },
+            {
+                "name": "TNT Sports 2 - AQ",
+                "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+                "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+                "tokenApi": ""
+            },
+            {
+                "name": "TNT Sports 3 - AQ",
+                "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+                "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
+                "tokenApi": ""
+            },
+            {
+                "name": "TNT Sports 4 - AQ",
+                "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+                "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+                "tokenApi": ""
+            },
+            {
+                "name": "TNT Sports 5 - AQ",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
+                "api": "60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b",
+                "tokenApi": ""
+            },
+            {
+                "name": "TNT USA HD",
+                "link": "http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/1102/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "SKY Sports UK",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/sky-sports.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-SKYSportsUK.json",
+        "is_playlist": false,
+        "link_names": [
+            "PremierLeague",
+            "Football",
+            "MainEvent",
+            "Cricket",
+            "Action",
+            "Mix",
+            "Arena",
+            "Tennis",
+            "F1",
+            "NEWS",
+            "Racing",
+            "Golf",
+            "SS Premier League FHD",
+            "SS Football FHD",
+            "SS Cricket FHD",
+            "SS Main Event FHD",
+            "SS F1 FHD",
+            "SS Mix FHD",
+            "SS Golf FHD",
+            "SS Racing FHD",
+            "Sky Sports NFL",
+            "SS Tennis FHD",
+            "Sky Sports+ FHD",
+            "Sky Sports News"
+        ],
+        "stream_details": [
+            {
+                "name": "PremierLeague",
+                "link": "https://v.antsports.tv/live/24/index.m3u8|Referer=https://antsports.tv/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Football",
+                "link": "https://v.antsports.tv/live/22/index.m3u8|Referer=https://antsports.tv/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MainEvent",
+                "link": "https://v.antsports.tv/live/20/index.m3u8|Referer=https://antsports.tv/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Cricket",
+                "link": "https://v.antsports.tv/live/18/index.m3u8|Referer=https://antsports.tv/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Action",
+                "link": "https://v.antsports.tv/live/16/index.m3u8|Referer=https://antsports.tv/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Mix",
+                "link": "https://v.antsports.tv/live/25/index.m3u8|Referer=https://antsports.tv/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Arena",
+                "link": "https://v.antsports.tv/live/17/index.m3u8|Referer=https://antsports.tv/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Tennis",
+                "link": "https://v.antsports.tv/live/28/index.m3u8|Referer=https://antsports.tv/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "F1",
+                "link": "https://drmstream.online/toptest/live.m3u8?id=SkySportsF1[UK]",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NEWS",
+                "link": "https://v.antsports.tv/live/26/index.m3u8|Referer=https://antsports.tv/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Racing",
+                "link": "https://v.antsports.tv/live/27/index.m3u8|Referer=https://antsports.tv/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Golf",
+                "link": "https://v.antsports.tv/live/23/index.m3u8|Referer=https://antsports.tv/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS Premier League FHD",
+                "link": "https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/skysportepl.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS Football FHD",
+                "link": "https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/skysportfootball.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS Cricket FHD",
+                "link": "http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=10526&extension=m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS Main Event FHD",
+                "link": "https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/skysportmain.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS F1 FHD",
+                "link": "http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=10525&extension=m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS Mix FHD",
+                "link": "https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/skysportmix.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS Golf FHD",
+                "link": "http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=10515&extension=m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS Racing FHD",
+                "link": "https://topstream.space/daddy/stream.php?id=554&srv=1&format=.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sports NFL",
+                "link": "http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=10524&extension=m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS Tennis FHD",
+                "link": "https://topstream.space/daddy/stream.php?id=46&srv=1&format=.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sports+ FHD",
+                "link": "https://topstream.space/daddy/stream.php?id=36&srv=1&format=.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sports News",
+                "link": "http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=10528&extension=m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "CBS",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/cbs-sports.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-CBS.json",
+        "is_playlist": false,
+        "link_names": [
+            "CBS Sports Golazo - AQ ",
+            "CBS SPORTS HD",
+            "CBS SPORTS - Server 2"
+        ],
+        "stream_details": [
+            {
+                "name": "CBS Sports Golazo - AQ ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "tokenApi": ""
+            },
+            {
+                "name": "CBS SPORTS HD",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7324/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "CBS SPORTS - Server 2",
+                "link": "http://fl6.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "USA Network",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/usa-network.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-USANetwork.json",
+        "is_playlist": false,
+        "link_names": [
+            "USA NETWROK SD",
+            "USA Network East - AQ",
+            "USA West - AQ",
+            "USA Network East 2 - AQ",
+            "USA NETWORK - Server 2"
+        ],
+        "stream_details": [
+            {
+                "name": "USA Network East - AQ",
+                "link": "https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-external-dash-primary-v1/Content/DASH_DASH_ENC/Live/channel(4e41f6af-4b86-2aac-c351-c1250b14b344)/master.mpd",
+                "api": "6fe4b567ec9b467a888a089600c93f55:b8612265451c8c462fb6b55ad3a6b6d8",
+                "tokenApi": ""
+            },
+            {
+                "name": "USA West - AQ",
+                "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd",
+                "api": "7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500",
+                "tokenApi": ""
+            },
+            {
+                "name": "USA Network East 2 - AQ",
+                "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(usa-east)/master.mpd",
+                "api": "043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e",
+                "tokenApi": ""
+            },
+            {
+                "name": "USA NETWORK - Server 2",
+                "link": "https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "TSN",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/tsn.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-TSN.json",
+        "is_playlist": false,
+        "link_names": [
+            "TSN 1 - AQ",
+            "TSN 2 - AQ",
+            "TSN 3 - AQ",
+            "TSN 4 - AQ",
+            "TSN 5 - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "TSN 1 - AQ",
+                "link": "https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd",
+                "api": "7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc",
+                "tokenApi": ""
+            },
+            {
+                "name": "TSN 2 - AQ",
+                "link": "https://abm5x5xaaaaaaaampie4zrlukq55o.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd",
+                "api": "362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42",
+                "tokenApi": ""
+            },
+            {
+                "name": "TSN 3 - AQ",
+                "link": "https://abm5x5xaaaaaaaamfnzlkys25m7a5.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd",
+                "api": "d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8",
+                "tokenApi": ""
+            },
+            {
+                "name": "TSN 4 - AQ",
+                "link": "https://abm5x5xaaaaaaaampk3nj4fzz34qg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd",
+                "api": "e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449",
+                "tokenApi": ""
+            },
+            {
+                "name": "TSN 5 - AQ",
+                "link": "https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/cqqofdluoh/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd\t",
+                "api": "8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Fox Sports - MX",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/fox-sports.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-FoxSports-MX.json",
+        "is_playlist": false,
+        "link_names": [
+            "Fox Sports 1 - AQ",
+            "Fox Sports 2 - AQ",
+            "Fox Sports 3 - AQ",
+            "Fox Sports Premium - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "Fox Sports 1 - AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+                "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+                "tokenApi": ""
+            },
+            {
+                "name": "Fox Sports 2 - AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+                "api": "8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621",
+                "tokenApi": ""
+            },
+            {
+                "name": "Fox Sports 3 - AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
+                "api": "11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063",
+                "tokenApi": ""
+            },
+            {
+                "name": "Fox Sports Premium - AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+                "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Formula 1",
+        "logo": "https://brandlogos.net/wp-content/uploads/2022/04/formula_1-logo-brandlogos.net_.png",
+        "visible": true,
+        "links": "pro/Sports-Formula1.json",
+        "is_playlist": false,
+        "link_names": [
+            "Sky Sports F1 FHD",
+            "Sky Sport F1 IT",
+            "Sky Sport F1"
+        ],
+        "stream_details": [
+            {
+                "name": "Sky Sports F1 FHD",
+                "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/f1.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport F1 IT",
+                "link": "https://bbb.exoadash.com/TVD201/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport F1",
+                "link": "https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=cRTSQR0_aAkgSRFZx-X5PQ&e=2071398907&scheme=https",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "BBC ",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/bbc-sport.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-BBC.json",
+        "is_playlist": false,
+        "link_names": [
+            "BBC 1 - AQ",
+            "BBC 2 - AQ",
+            "BBC 3 - AQ",
+            "BBC 4 - AQ",
+            "BBC One HD",
+            "BBC Two HD",
+            "BBC Three HD",
+            "BBC Four HD"
+        ],
+        "stream_details": [
+            {
+                "name": "BBC 1 - AQ",
+                "link": "https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd",
+                "api": "859e0fc9638e4f7f848412736bcc8bb9:ff4fcc6c04f31a1eaced59d91940c9a7",
+                "tokenApi": ""
+            },
+            {
+                "name": "BBC 2 - AQ",
+                "link": "https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd",
+                "api": "aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238",
+                "tokenApi": ""
+            },
+            {
+                "name": "BBC 3 - AQ",
+                "link": "https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd",
+                "api": "9cc344f5df584c77b9f10d04b7281df7:37020f567d14e9bb8df8d1be0263c3a6",
+                "tokenApi": ""
+            },
+            {
+                "name": "BBC 4 - AQ",
+                "link": "https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd",
+                "api": "a76ba7bf50494381beca9e2f7e3be96f:c0a14394f5518ec810656323d3fe9903",
+                "tokenApi": ""
+            },
+            {
+                "name": "BBC One HD",
+                "link": "https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c_output_0.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "BBC Two HD",
+                "link": "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "BBC Three HD",
+                "link": "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "BBC Four HD",
+                "link": "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "FANCODE",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/fancode.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-FANCODE.json",
+        "is_playlist": false,
+        "link_names": [
+            "FC 1 - AQ",
+            "FC 2 - AQ",
+            "FANCODE 3 - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "FC 1 - AQ",
+                "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+                "tokenApi": ""
+            },
+            {
+                "name": "FC 2 - AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+                "tokenApi": ""
+            },
+            {
+                "name": "FANCODE 3 - AQ",
+                "link": "https://abaggkzaaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "beIN Australia",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lh617emtPalUlqeSykDgOymjfE6nvmgxdRpSbBOMf1qwE=s900-c-k-c0x00ffffff-no-rj",
+        "visible": true,
+        "links": "pro/Sports-beINAustralia.json",
+        "is_playlist": false,
+        "link_names": [
+            "BeIN Sports 1 - AQ",
+            "BeIN Sports 2 - AQ",
+            "BeIN Sports 3 - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "BeIN Sports 1 - AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+                "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                "tokenApi": ""
+            },
+            {
+                "name": "BeIN Sports 2 - AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "tokenApi": ""
+            },
+            {
+                "name": "BeIN Sports 3 - AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "TV4 SPORT",
+        "logo": "https://pbs.twimg.com/profile_images/1690845743647481856/Vt6GNzKR_400x400.jpg",
+        "visible": true,
+        "links": "pro/Sports-TV4SPORT.json",
+        "is_playlist": false,
+        "link_names": [
+            "TV4 Football AQ",
+            "TV4 Kanalen AQ",
+            "TV4 Tennis AQ",
+            "TV4 Hockey AQ",
+            "TV4 Live 1 AQ",
+            "TV4 Live 2 AQ",
+            "TV4 Live 3 AQ",
+            "TV4 Live 4 AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "TV4 Football AQ",
+                "link": "https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd",
+                "api": "a518c629bd683a4eba5f2a793bcb48d6:49642d2151ac6c3f8453bbfc4b3fdfc0",
+                "tokenApi": ""
+            },
+            {
+                "name": "TV4 Kanalen AQ",
+                "link": "https://live.streaming.a2d.tv/asset/20465728.isml/dash.mpd",
+                "api": "20f9a036eabc3930b2b1d124778090e6:b557b2e61b73935ef74bfa22d8ea2c34",
+                "tokenApi": ""
+            },
+            {
+                "name": "TV4 Tennis AQ",
+                "link": "https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd",
+                "api": "bd32ad608e8c35368dbb0acbfa94d8e0:957b32508fecaf1a7f842e9d89bc7537",
+                "tokenApi": ""
+            },
+            {
+                "name": "TV4 Hockey AQ",
+                "link": "https://live.streaming.a2d.tv/asset/20465723.isml/dash.mpd",
+                "api": "4acd16b6b6933abca01a66f865eef7c1:b2a4e27e05d34e98dd7c09fadd96ab09",
+                "tokenApi": ""
+            },
+            {
+                "name": "TV4 Live 1 AQ",
+                "link": "https://live.streaming.a2d.tv/asset/20465729.isml/dash.mpd",
+                "api": "6c2908a6d85d35fd9a33db46d6b157b2:2327be90af966a52a164cc46e18b35f5",
+                "tokenApi": ""
+            },
+            {
+                "name": "TV4 Live 2 AQ",
+                "link": "https://live.streaming.a2d.tv/asset/20465730.isml/dash.mpd",
+                "api": "729e43e22f86327ea9cbfd859b6e50e9:bbd3b6b123a10cb4cdfd79751f56b0af",
+                "tokenApi": ""
+            },
+            {
+                "name": "TV4 Live 3 AQ",
+                "link": "https://live.streaming.a2d.tv/asset/20465731.isml/dash.mpd",
+                "api": "4e30426a0a5c36359b1606dd7bc90937:508fb8a6038bf24a216c27e3efe3d9cf",
+                "tokenApi": ""
+            },
+            {
+                "name": "TV4 Live 4 AQ",
+                "link": "https://live.streaming.a2d.tv/asset/20465732.isml/dash.mpd",
+                "api": "08c544c527b93252a34932c4890903a1:86a3d7e41bd51161039cfc80d880c746",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Fox Sports USA",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/fs.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-FoxSportsUSA.json",
+        "is_playlist": false,
+        "link_names": [
+            "FS1 - AQ",
+            "FS2 - AQ",
+            "Fox Sports USA - AQ",
+            "FS1 HD",
+            "FS2 HD",
+            "Fox Deportes - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "FS1 - AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+                "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+                "tokenApi": ""
+            },
+            {
+                "name": "FS2 - AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+                "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+                "tokenApi": ""
+            },
+            {
+                "name": "Fox Sports USA - AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fgqixpubhc/out/v1/990c7d2741f34d17a5be1924e4be5489/cenc.mpd",
+                "api": "7b5aba4e4c5aa60aee265b94c356b584:62c230b563591aa096a179c1943554f4",
+                "tokenApi": ""
+            },
+            {
+                "name": "FS1 HD",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7322/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FS2 HD",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7323/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Fox Deportes - AQ",
+                "link": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Premier Sports",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/premier-sports.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-PremierSports.json",
+        "is_playlist": false,
+        "link_names": [
+            "Premier Sports 1 - AQ",
+            "Premier Sports 2 - AQ",
+            "Premier Sports Rugby - AQ",
+            "Premier Sports 1 HD",
+            "Premier Sports 2 HD"
+        ],
+        "stream_details": [
+            {
+                "name": "Premier Sports 1 - AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+                "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                "tokenApi": ""
+            },
+            {
+                "name": "Premier Sports 2 - AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+                "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                "tokenApi": ""
+            },
+            {
+                "name": "Premier Sports Rugby - AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd",
+                "api": "4751472d3ac45e95e44b5e75480e53de:5f989e3de354630ec7973980f129ed01",
+                "tokenApi": ""
+            },
+            {
+                "name": "Premier Sports 1 HD",
+                "link": "http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/6555/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Premier Sports 2 HD",
+                "link": "http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/2069/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "BeIN Sports - Other",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/bein-sports.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-BeINSports-Other.json",
+        "is_playlist": false,
+        "link_names": [
+            "beIN Sports 1 Türk",
+            "beIN Sports 2 Türk",
+            "beIN Sports 3 Türk",
+            "beIN Sports 4 Türk",
+            "beIN Sports 1 Max - Türk",
+            "beIN Sports 2 Max - Türk",
+            "beIN Sports 1 FR",
+            "beIN Sports 2 FR",
+            "beIN Sports 3 FR",
+            "beIN Sports 4 Max FR",
+            "beIN Sports 5 Max FR",
+            "beIN Sports 6 Max FR",
+            "beIN Sports 7 Max FR",
+            "beIN Sports 8 Max FR",
+            "beIN Sports 9 Max FR",
+            "beIN Sports 10 Max FR"
+        ],
+        "stream_details": [
+            {
+                "name": "beIN Sports 1 Türk",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/beinsports1turkey.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 2 Türk",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/beinsports2turkey.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 3 Türk",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/beinsports3turkey.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 4 Türk",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/beinsports4turkey.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 1 Max - Türk",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/beinsportsmax1turkey.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 2 Max - Türk",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/beinsportsmax2turkey.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 1 FR",
+                "link": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein1hd-fr.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 2 FR",
+                "link": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein2hd-fr.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 3 FR",
+                "link": "https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein3hd-fr.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 4 Max FR",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/beinsports4max-fr.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 5 Max FR",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/beinsports5max-fr.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 6 Max FR",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/beinsports6max-fr.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 7 Max FR",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/beinsports7max-fr.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 8 Max FR",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/beinsports8max-fr.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 9 Max FR",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/beinsports9max-fr.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 10 Max FR",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/beinsports10max-fr.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "BeIN Sports - Arabic",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/bein-sports.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-BeINSports-Arabic.json",
+        "is_playlist": false,
+        "link_names": [
+            "Bein 1 AQ",
+            "Bein 2 AQ",
+            "Bein 3 AQ",
+            "Bein 4 AQ",
+            "Bein 5 AQ",
+            "Bein 6 AQ",
+            "Bein 7 AQ",
+            "Bein 8 AQ",
+            "Bein 9 AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "Bein 1 AQ",
+                "link": "https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b1.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Bein 2 AQ",
+                "link": "https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b2.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Bein 3 AQ",
+                "link": "https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b3.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Bein 4 AQ",
+                "link": "https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b4.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Bein 5 AQ",
+                "link": "https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b5.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Bein 6 AQ",
+                "link": "https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b6.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Bein 7 AQ",
+                "link": "https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b7.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Bein 8 AQ",
+                "link": "https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b8.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Bein 9 AQ",
+                "link": "https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b9.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "iTV UK",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/itv.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-iTVUK.json",
+        "is_playlist": false,
+        "link_names": [
+            "ITV1 AQ",
+            "ITV2 AQ",
+            "ITV3 AQ",
+            "ITV4 AQ",
+            "ITV Quiz AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "ITV1 AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/yfsmgtnygz/out/v1/272d43358d1f41feb4dc2e9c61733628/cenc.mpd",
+                "api": "a0763c867523cdae498b2ad5a8ed66c4:fbca9fa0d6d784be974170f82c155938",
+                "tokenApi": ""
+            },
+            {
+                "name": "ITV2 AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/ohco2pjbag/out/v1/725e28ffa3db45c28ffaf2a5f7c7ada6/cenc.mpd",
+                "api": "564d1245ac142340a374f344ed525949:9798052b55dbb1f30775532a7c50cc1c",
+                "tokenApi": ""
+            },
+            {
+                "name": "ITV3 AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/ikdjzawwkr/out/v1/ac2bffaa68e94464a4288168f4485239/cenc.mpd",
+                "api": "7cb98cea130568cc17ef325093f445b5:b85a1c7ab79763c742bd1bd19a60fa16",
+                "tokenApi": ""
+            },
+            {
+                "name": "ITV4 AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/ze8mlq7soh/out/v1/e517a8b1bede4a0d9c0cf48f591a2222/cenc.mpd",
+                "api": "7a5135975978757b3458bb5b3b9dbf5e:eab16719fa7727ab371bd75aeaca9229",
+                "tokenApi": ""
+            },
+            {
+                "name": "ITV Quiz AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/botsrafwwp/out/v1/ce583e2b92574917a29e3dac8e286d41/cenc.mpd",
+                "api": "aa7ff363a4ffdb07d6d25b21c21344e8:85fcd24824028f15bd3a08d430daafcd",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "beIN Singapore",
+        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFjklvp1ZTO8A/company-logo_200_200/company-logo_200_200/0/1631312701696?e=2147483647&v=beta&t=XI3qdYM4x97uVTSJJyIO2RWU7g6BOjCLKy8UKjXo6sk",
+        "visible": true,
+        "links": "pro/Sports-beINSingapore.json",
+        "is_playlist": false,
+        "link_names": [
+            "beIN Sports 1 AQ",
+            "beIN Sports 2 AQ",
+            "beIN Sports 3 AQ",
+            "beIN Sports MAX"
+        ],
+        "stream_details": [
+            {
+                "name": "beIN Sports 1 AQ",
+                "link": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd",
+                "api": "d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 2 AQ",
+                "link": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd",
+                "api": "efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports 3 AQ",
+                "link": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd",
+                "api": "816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports MAX",
+                "link": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/master.mpd",
+                "api": "d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "FUBO SPORTS",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/fubo-sports.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-FUBOSPORTS.json",
+        "is_playlist": false,
+        "link_names": [
+            "Fubo Sports 1 - AQ",
+            "Fubo Sports 2 - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "Fubo Sports 1 - AQ",
+                "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+                "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+                "tokenApi": ""
+            },
+            {
+                "name": "Fubo Sports 2 - AQ",
+                "link": "https://abm5x5xaaaaaaaamcqsg3izt3pszd.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
+                "api": "3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "STAR SPORTS",
+        "logo": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/mam-images/2013/11/11/SS_logo.JPG",
+        "visible": true,
+        "links": "pro/Sports-STARSPORTS.json",
+        "is_playlist": false,
+        "link_names": [
+            "SS 1 FHD",
+            "SS HIN 1 FHD",
+            "SS 2 FHD",
+            "SS 3 HD",
+            "SS SELECT 1 FHD",
+            "SS SELECT 2 FHD"
+        ],
+        "stream_details": [
+            {
+                "name": "SS 1 FHD",
+                "link": "http://116.90.120.152:8000/play/a0gs/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS HIN 1 FHD",
+                "link": "http://116.90.120.152:8000/play/a0je/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS 2 FHD",
+                "link": "http://116.90.120.152:8000/play/a0jo/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS 3 HD",
+                "link": "http://116.90.120.152:8000/play/a0js/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS SELECT 1 FHD",
+                "link": "http://116.90.120.152:8000/play/a0h9/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS SELECT 2 FHD",
+                "link": "http://116.90.120.152:8000/play/a0ha/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "SPOTV",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/spotv.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-SPOTV.json",
+        "is_playlist": false,
+        "link_names": [
+            "SPOTV 1 - AQ",
+            "SPOTV 2 - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "SPOTV 1 - AQ",
+                "link": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spoTV)/master.mpd",
+                "api": "5b593bd530f1403a8f3eb9b2cd9236c8:d07c6a7f0b37a4090341e6380ff85060",
+                "tokenApi": ""
+            },
+            {
+                "name": "SPOTV 2 - AQ",
+                "link": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spoTV2)/master.mpd",
+                "api": "1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Ziggo Sport",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/ziggo-sports.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-ZiggoSport.json",
+        "is_playlist": false,
+        "link_names": [
+            "ZS 1 - AQ",
+            "ZS 2 - AQ",
+            "ZS 3 - AQ",
+            "ZS 5 - AQ",
+            "ZS 6 - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "ZS 1 - AQ",
+                "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621",
+                "api": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
+                "tokenApi": ""
+            },
+            {
+                "name": "ZS 2 - AQ",
+                "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
+                "api": "3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0",
+                "tokenApi": ""
+            },
+            {
+                "name": "ZS 3 - AQ",
+                "link": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
+                "api": "4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548",
+                "tokenApi": ""
+            },
+            {
+                "name": "ZS 5 - AQ",
+                "link": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
+                "api": "3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02",
+                "tokenApi": ""
+            },
+            {
+                "name": "ZS 6 - AQ",
+                "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,",
+                "api": "1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "RTE Sport",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/rte-sport.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-RTESport.json",
+        "link_names": [
+            "RTE 2 - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "RTE 2 - AQ",
+                "link": "https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd",
+                "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "ESPN",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/espn.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-ESPN.json",
+        "is_playlist": false,
+        "link_names": [
+            "ESPN 1 AR",
+            "ESPN 2 AR",
+            "ESPN 3 AR",
+            "ESPN 1 NL",
+            "ESPN 2 NL",
+            "ESPN 3 NL"
+        ],
+        "stream_details": [
+            {
+                "name": "ESPN 1 AR",
+                "link": "https://drmstream.online/zap/watch.php?id=AwNiYxp_&format=.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ESPN 2 AR",
+                "link": "https://drmstream.online/zap/watch.php?id=BQAzY0kp&format=.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ESPN 3 AR",
+                "link": "https://drmstream.online/zap/watch.php?id=BQAzY0sp&format=.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ESPN 1 NL",
+                "link": "https://drmstream.online/zap/watch.php?id=CgE0Yhtz&format=.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ESPN 2 NL",
+                "link": "https://drmstream.online/zap/watch.php?id=BVFiM0h8&format=.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ESPN 3 NL",
+                "link": "https://drmstream.online/zap/watch.php?id=AlxlMBws&format=.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "EUROSPORT",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/eurosport.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-EUROSPORT.json",
+        "is_playlist": false,
+        "link_names": [
+            "EUROSPORT 1 - AQ",
+            "EUROSPORT 2 - AQ",
+            "EUROSPORT 1 ES - AQ",
+            "EUROSPORT 2 ES - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "EUROSPORT 1 - AQ",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zitbm32cd4/out/v1/de17cb98c1cb42b5978948f04fe4b4c0/cenc.mpd",
+                "api": "0624b581c7e4722f46903c9aa032074d:f84f6e73237dd43770b3cb9c371441b3",
+                "tokenApi": ""
+            },
+            {
+                "name": "EUROSPORT 2 - AQ",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/to7i2ywspg/out/v1/2b9c64c6360947deaa5c824ebbd9aa83/cenc.mpd",
+                "api": "47a3de154c541c255c37989b6ac77538:b9f74118a06217f2c2746799ace2d84e",
+                "tokenApi": ""
+            },
+            {
+                "name": "EUROSPORT 1 ES - AQ",
+                "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "tokenApi": ""
+            },
+            {
+                "name": "EUROSPORT 2 ES - AQ",
+                "link": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "MUTV",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/mutv.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-MUTV.json",
+        "is_playlist": false,
+        "link_names": [
+            "Link 1",
+            "Link 2"
+        ],
+        "stream_details": [
+            {
+                "name": "Link 1",
+                "link": "https://get.perfecttv.net/mutv.mpd"
+            },
+            {
+                "name": "Link 2",
+                "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Real Madrid TV",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/ralmadrid-tv.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-RealMadridTV.json",
+        "is_playlist": false,
+        "link_names": [
+            "Real Madrid TV",
+            "Real Madrid TV - ES",
+            "Real Madrid TV - EN"
+        ],
+        "stream_details": [
+            {
+                "name": "Real Madrid TV",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/eaxjxvbdcz/out/v1/99a6478a7c5549e5ba1d94da6331bb3c/cenc.mpd",
+                "api": "6085eaa47c541382f370e4e0e7b6b859:36d133e6e70100a19c8c0c45e1904f11",
+                "tokenApi": ""
+            },
+            {
+                "name": "Real Madrid TV - ES",
+                "link": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Real Madrid TV - EN",
+                "link": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "name": "LFCTV",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/lfc-tv.png?raw=true",
+        "links": "pro/Sports-LFCTV.json",
+        "is_playlist": false,
+        "stream_details": [
+            {
+                "name": "Link 1",
+                "link": "https://raw.githubusercontent.com/mdumarfaruksuk/LFCTV/refs/heads/main/live.m3u8"
+            }
+        ]
+    },
+    {
+        "name": "Thmanyah",
+        "logo": "https://play-lh.googleusercontent.com/svd_fTyserjDx0iUmU0eB9VbtF1VDIER1wB8RA718EdPAj0XWh08KUbSAZfAuIZBsDI",
+        "visible": true,
+        "links": "pro/Sports-Thmanyah.json",
+        "is_playlist": false,
+        "link_names": [
+            "Thmanyah 1 - AQ",
+            "Thmanyah 2 - AQ",
+            "Thmanyah 3 - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "Thmanyah 1 - AQ",
+                "link": "https://bbb.exoadash.com/TVD1403/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Thmanyah 2 - AQ",
+                "link": "https://bbb.exoadash.com/TVD1451/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Thmanyah 3 - AQ",
+                "link": "https://bbb.exoadash.com/TVD6737/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Go3 SPORT",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Go3_Sport_1_Logo_2023.svg/640px-Go3_Sport_1_Logo_2023.svg.png",
+        "visible": true,
+        "links": "pro/Sports-Go3SPORT.json",
+        "is_playlist": false,
+        "link_names": [
+            "Go3 Sport 1 -AQ",
+            "Go3 Sport 2 -AQ",
+            "Go3 Sport 4 -AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "Go3 Sport 1 -AQ",
+                "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd",
+                "api": "f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e",
+                "tokenApi": ""
+            },
+            {
+                "name": "Go3 Sport 2 -AQ",
+                "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560505/index.mpd",
+                "api": "8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b",
+                "tokenApi": ""
+            },
+            {
+                "name": "Go3 Sport 4 -AQ",
+                "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+                "api": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "LaLiga TV",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/laliga-tv.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-LaLigaTV.json",
+        "is_playlist": false,
+        "link_names": [
+            "LaLiga TV - AQ",
+            "Sky LaLiga ES - AQ",
+            "Laliga Hypermotion ES - AQ",
+            "LaLiga Inside - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "LaLiga TV - AQ",
+                "link": "https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+                "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky LaLiga ES - AQ",
+                "link": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
+                "api": "c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
+                "tokenApi": ""
+            },
+            {
+                "name": "Laliga Hypermotion ES - AQ",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+                "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+                "tokenApi": ""
+            },
+            {
+                "name": "LaLiga Inside - AQ",
+                "link": "https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "NFL TV",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/nfl-tv.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-NFLTV.json",
+        "is_playlist": false,
+        "link_names": [
+            "NFL TV - AQ",
+            "NFL TV 2 - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "NFL TV - AQ",
+                "link": "https://abm5x5xaaaaaaaamnqoji7bfgac34.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/grfgykc72o/out/v1/3b99d95f4ec44db180e4016db60d82ea/cenc.mpd",
+                "api": "0a23d3a4fc1747364e0c21a2628c2527:a86b3696fd9a4710da046dcac8af0b3c",
+                "tokenApi": ""
+            },
+            {
+                "name": "NFL TV 2 - AQ",
+                "link": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd",
+                "api": "002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "name": "TUDN",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/tudn.png?raw=true",
+        "links": "pro/Sports-TUDN.json",
+        "is_playlist": false,
+        "stream_details": [
+            {
+                "name": "Link 1",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
+                "api": "cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48",
+                "scheme": 0
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "name": "WWE",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/wwe.png?raw=true",
+        "links": "pro/Sports-WWE.json",
+        "is_playlist": false,
+        "stream_details": [
+            {
+                "name": "Link 1",
+                "link": "https://shin.lolfile.xyz/lineardash/2603/default_primary.mpd?|Origin=https://idx.gdplayertv.to",
+                "api": "0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121",
+                "scheme": 0
+            }
+        ]
+    },
+    {
+        "name": "SONY SPORTS",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sony_Sports_Network.svg/1200px-Sony_Sports_Network.svg.png",
+        "visible": true,
+        "links": "pro/Sports-SONYSPORTS.json",
+        "is_playlist": false,
+        "link_names": [
+            "SONY SPORTS 1 - AQ",
+            "SONY SPORTS 2 - AQ",
+            "SONY SPORTS 3 - AQ",
+            "SONY SPORTS 4",
+            "SONY SPORTS 5 - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "SONY SPORTS 1 - AQ",
+                "link": "https://fancode.drmstream.online/sonyliv/stream.php?id=sony-ten-1-hd&format=.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SONY SPORTS 2 - AQ",
+                "link": "https://fancode.drmstream.online/sonyliv/stream.php?id=sony-ten-2-hd&format=.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SONY SPORTS 3 - AQ",
+                "link": "https://fancode.drmstream.online/sonyliv/stream.php?id=sony-ten-3-hd&format=.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SONY SPORTS 4",
+                "link": "https://fancode.drmstream.online/sonyliv/stream.php?id=sony-ten-4&format=.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SONY SPORTS 5 - AQ",
+                "link": "https://fancode.drmstream.online/sonyliv/stream.php?id=sony-ten-5-hd&format=.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "name": "PTV SPORTS",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/ptv-sports.png?raw=true",
+        "links": "pro/Sports-PTVSPORTS.json",
+        "is_playlist": false,
+        "stream_details": [
+            {
+                "name": "Link 1",
+                "link": "https://live.incableinternet.com/v/QCZ86p6-0oo.m3u8"
+            }
+        ]
+    },
+    {
+        "name": "TEN SPORTS",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/ten-sports.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-TENSPORTS.json",
+        "is_playlist": false,
+        "link_names": [
+            "sisu",
+            "Seraphim"
+        ],
+        "stream_details": [
+            {
+                "name": "sisu",
+                "link": "http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282025%29%201080p/Sisu-Road%20to%20Revenge%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Sisu%20Road%20to%20Revenge%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Seraphim",
+                "link": "http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282006%29/Seraphim%20Falls%20%282006%29%20720p/Seraphim%20Falls%20%282006%29%20720p%20BluRay%20x264%20AC3%205.1.mp4",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "name": "TENNIS CHANNEL",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/tennis-channel.png?raw=true",
+        "links": "pro/Sports-TENNISCHANNEL.json",
+        "is_playlist": false,
+        "stream_details": [
+            {
+                "name": "Link 1",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xdtb9aary1/out/v1/20d50a05c04f47479d55a051a1acd23b/cenc.mpd",
+                "api": "2b789a22d39f5dfc7393adf1ea709136:7fdcaf33725f39eaac262739ecebf6f6",
+                "scheme": 0
+            }
+        ]
+    },
+    {
+        "name": "FanDuel Sports",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/fan-duel-sports.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-FanDuelSports.json",
+        "is_playlist": false,
+        "link_names": [
+            "FDS Arizona",
+            "FDS Detroit ",
+            "FDS Detroit ",
+            "FDS Florida ",
+            "FDS Florida ",
+            "FDS Great Lakes",
+            "FDS Oklahoma ",
+            "FDS Southwest",
+            "FDS New Orleans",
+            "FDS North ",
+            "FDS Ohio ",
+            "FDS Ohio Cincinnati",
+            "FDS Ohio Cleveland",
+            "FDS San Diego",
+            "FDS SoCal ",
+            "FDS Southeast ",
+            "FDS Southwest Plus",
+            "FDS SUN",
+            "FDS West ",
+            "FDS West Plus",
+            "FDS Wisconsin "
+        ],
+        "stream_details": [
+            {
+                "name": "FDS Arizona",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31001/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS Detroit ",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31003/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS Detroit ",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31004/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS Florida ",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31005/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS Florida ",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31006/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS Great Lakes",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31007/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS Oklahoma ",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31008/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS Southwest",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31013/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS New Orleans",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31015/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS North ",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31017/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS Ohio ",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31019/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS Ohio Cincinnati",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31022/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS Ohio Cleveland",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31030/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS San Diego",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31032/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS SoCal ",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31034/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS Southeast ",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31035/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS Southwest Plus",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31039/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS SUN",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31041/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS West ",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31043/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS West Plus",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31044/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "FDS Wisconsin ",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31046/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "FIFA+",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/fifa.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-FIFA+.json",
+        "is_playlist": false,
+        "link_names": [
+            "Fifa+ 🇲🇽",
+            "Fifa+ BR"
+        ],
+        "stream_details": [
+            {
+                "name": "Fifa+ 🇲🇽",
+                "link": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Fifa+ BR",
+                "link": "https://9b663bb2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Star Sports",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/star%20sports.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-StarSports.json",
+        "is_playlist": false,
+        "link_names": [
+            "Star Sports 1",
+            "Star Sports 2",
+            "Star Sports Select 1",
+            "Star Sports Select 2"
+        ],
+        "stream_details": [
+            {
+                "name": "Star Sports 1",
+                "link": "http://thksmom.shop/IN_4009/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Star Sports 2",
+                "link": "http://thksmom.shop/IN_2ST/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Star Sports Hin",
+                "link": "http://thksmom.shop/In_Hin_1/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Star Sports Tamil ",
+                "link": "http://thksmom.shop/dd_s_t/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Star Sports 3",
+                "link": "http://thksmom.shop/ST3/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Star Sports Select 1",
+                "link": "http://thksmom.shop/SS1_IND/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Star Sports Select 2",
+                "link": "http://thksmom.shop/IND_SL2/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Sky Sport DE",
+        "logo": "https://yt3.googleusercontent.com/EwnwX-Chnqe3Jyxbyp6Nj5UWmxFSl9FVpAdXud-OxZdMB-_h_Mk0RohAt1pTmX0QFjHx_LHorQ=s900-c-k-c0x00ffffff-no-rj",
+        "visible": true,
+        "links": "pro/Sports-SkySportDE.json",
+        "is_playlist": false,
+        "link_names": [
+            "SS Premier League DE - AQ",
+            "Sky Sport Mix DE - AQ",
+            "Sky Sport F1 DE",
+            "SS Top Event DE - AQ",
+            "Sky Sport LaLiga DE - AQ",
+            "SKY SPORT F1 DE - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "SS Premier League DE - AQ",
+                "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd",
+                "api": "ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport Mix DE - AQ",
+                "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd",
+                "api": "3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport F1 DE",
+                "link": "http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19022/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SS Top Event DE - AQ",
+                "link": "https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
+                "api": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport LaLiga DE - AQ",
+                "link": "https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd",
+                "api": "c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
+                "tokenApi": ""
+            },
+            {
+                "name": "SKY SPORT F1 DE - AQ",
+                "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mayn9zpunj/out/v1/5623834d108749bebb71979abdfe7dd8/cenc.mpd",
+                "api": "62ac0f0c382a696058c8598821d6591d:75a5350cc5bc7eb38efeb694ec13e0a0",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "La 1 🇪🇸",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/1200px-Logo_La_1.svg.png",
+        "visible": true,
+        "links": "pro/Sports-La1🇪🇸.json",
+        "is_playlist": false,
+        "link_names": [
+            "La 1",
+            "La 2"
+        ],
+        "stream_details": [
+            {
+                "name": "La 1",
+                "link": "https://cors-proxy.cooks.fyi/https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "La 2",
+                "link": "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "SuperSport",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png/revision/latest?cb=20190309144550",
+        "visible": true,
+        "links": "pro/Sports-SuperSport.json",
+        "is_playlist": false,
+        "link_names": [
+            "SuperSport Action",
+            "SuperSport Cricket",
+            "SuperSport Golf",
+            "Supersport Football",
+            "SuperSport Grandstand",
+            "SuperSport LaLiga",
+            "SuperSport PSL",
+            "SuperSport Premier league",
+            "SuperSport Rugby",
+            "SuperSport Tennis",
+            "SuperSport Variety 1",
+            "SuperSport Variety 2",
+            "SuperSport Variety 3",
+            "SuperSport Variety 4",
+            "SuperSport MaXimo 1"
+        ],
+        "stream_details": [
+            {
+                "name": "SuperSport Action",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersportaction.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SuperSport Cricket",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersportcricket.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SuperSport Golf",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersportgolf.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Supersport Football",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersportfootball.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SuperSport Grandstand",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersportgrandstand.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SuperSport LaLiga",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersportlaliga.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SuperSport PSL",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersportpsl.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SuperSport Premier league",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersportpremierleague.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SuperSport Rugby",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersportrugby.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SuperSport Tennis",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersporttennis.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SuperSport Variety 1",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersportvariety1.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SuperSport Variety 2",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersportvariety2.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SuperSport Variety 3",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersportvariety3.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SuperSport Variety 4",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersportvariety4.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SuperSport MaXimo 1",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/supersportmaximo1.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Sport Digital",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/1280px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png",
+        "visible": true,
+        "links": "pro/Sports-SportDigital.json",
+        "is_playlist": false,
+        "link_names": [
+            "Link 1",
+            "SPORTDIGITAL FREE"
+        ],
+        "stream_details": [
+            {
+                "name": "Link 1",
+                "link": "https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/Sportdigital.m3u8"
+            },
+            {
+                "name": "SPORTDIGITAL FREE",
+                "link": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3af04d27-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "MONOMAX",
+        "logo": "https://img5.pic.in.th/file/secure-sv1/MONOMAX.jpg",
+        "visible": true,
+        "links": "pro/Sports-MONOMAX.json",
+        "is_playlist": false,
+        "link_names": [
+            "Monomax 1",
+            "Monomax 2",
+            "Monomax 3",
+            "Monomax 4",
+            "Monomax 5",
+            "Monomax 6",
+            "Monomax 7",
+            "Monomax 8",
+            "Monomax 9"
+        ],
+        "stream_details": [
+            {
+                "name": "Monomax 1",
+                "link": "https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD1.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Monomax 2",
+                "link": "https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD2.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Monomax 3",
+                "link": "https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD3.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Monomax 4",
+                "link": "https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD4.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Monomax 5",
+                "link": "https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD5.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Monomax 6",
+                "link": "https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD6.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Monomax 7",
+                "link": "https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD7.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Monomax 8",
+                "link": "https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD8.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Monomax 9",
+                "link": "https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/MonomaxHD9.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "SKY BUNDESLIGA",
+        "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_Bundesliga_2020.svg/2560px-Sky_Sport_Bundesliga_2020.svg.png",
+        "visible": true,
+        "links": "pro/Sports-SKYBUNDESLIGA.json",
+        "is_playlist": false,
+        "link_names": [
+            "Sky Sport Bundesliga 1",
+            "Sky Sport Bundesliga 2",
+            "Sky Sport Bundesliga 3",
+            "Sky Sport Bundesliga 4",
+            "Sky Sport Bundesliga 5",
+            "Sky Sport Bundesliga 6",
+            "Sky Sport Bundesliga 7"
+        ],
+        "stream_details": [
+            {
+                "name": "Sky Sport Bundesliga 1",
+                "link": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd",
+                "api": "a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport Bundesliga 2",
+                "link": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd",
+                "api": "7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport Bundesliga 3",
+                "link": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd",
+                "api": "561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport Bundesliga 4",
+                "link": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd",
+                "api": "a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport Bundesliga 5",
+                "link": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd",
+                "api": "6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport Bundesliga 6",
+                "link": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd",
+                "api": "ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport Bundesliga 7",
+                "link": "https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd",
+                "api": "d9e3024854648dd01714f781c1492c4c:9404541975d298f6787c591d2cc871b1",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Arena Sport",
+        "logo": "https://github.com/xmrt624/logo/blob/main/arena_sport_1.png?raw=true",
+        "visible": true,
+        "links": "pro/Sports-ArenaSport.json",
+        "is_playlist": false,
+        "link_names": [
+            "ArenaSport Premium 1",
+            "ArenaSport Premium 2",
+            "ArenaSport Premium 3",
+            "ARENA SPORT 1",
+            "ARENA SPORT 2",
+            "ARENA SPORT 3",
+            "ARENA SPORT 4"
+        ],
+        "stream_details": [
+            {
+                "name": "ArenaSport Premium 1",
+                "link": "https://drmstream.online/toptest/live.m3u8?id=ArenaPremium1[Serbia]",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ArenaSport Premium 2",
+                "link": "https://drmstream.online/toptest/live.m3u8?id=ArenaPremium2[Serbia]",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ArenaSport Premium 3",
+                "link": "https://drmstream.online/toptest/live.m3u8?id=ArenaPremium3[Serbia]",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ARENA SPORT 1",
+                "link": "https://drmstream.online/toptest/live.m3u8?id=ArenaSport1[Serbia]",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ARENA SPORT 2",
+                "link": "https://drmstream.online/toptest/live.m3u8?id=ArenaSport2[Serbia]",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ARENA SPORT 3",
+                "link": "https://drmstream.online/toptest/live.m3u8?id=ArenaSport3[Serbia]",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ARENA SPORT 4",
+                "link": "https://drmstream.online/toptest/live.m3u8?id=ArenaSport4[Serbia]",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Astro Sports",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_2012_logo.svg/revision/latest/scale-to-width-down/250?cb=20180831123004",
+        "visible": true,
+        "links": "pro/Sports-AstroSports.json",
+        "is_playlist": false,
+        "link_names": [
+            "Astro Grandstand",
+            "Astro Football",
+            "Astro Premier League",
+            "Astro Premier League 2"
+        ],
+        "stream_details": [
+            {
+                "name": "Astro Grandstand",
+                "link": "https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astrograndstand.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Astro Football",
+                "link": "https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astrofootball.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Astro Premier League",
+                "link": "https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astropremierleague.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Astro Premier League 2",
+                "link": "https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astropremierleague2.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "SPORT TV",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Cs7dxHXcagskPBvOccRnX-hakk7-ekJL7CBGa3cf0mvMPIvKmsIDTDfaJxCcp-pwj5c&usqp=CAU",
+        "visible": true,
+        "links": "pro/Sports-SPORTTV.json",
+        "is_playlist": false,
+        "link_names": [
+            "SPORT TV 1",
+            "SPORT TV 2",
+            "SPORT TV 3",
+            "SPORT TV 4",
+            "SPORT TV 5"
+        ],
+        "stream_details": [
+            {
+                "name": "SPORT TV 1",
+                "link": "https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/sporttv1.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SPORT TV 2",
+                "link": "https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/sporttv2.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SPORT TV 3",
+                "link": "https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/sporttv3.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SPORT TV 4",
+                "link": "https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/sporttv4.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SPORT TV 5",
+                "link": "https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/sporttv5.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Fox Cricket",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Cricket.png",
+        "visible": true,
+        "links": "pro/Sports-FoxCricket.json",
+        "is_playlist": false,
+        "link_names": [
+            "FOX Cricket FHD",
+            "Server 1"
+        ],
+        "stream_details": [
+            {
+                "name": "FOX Cricket FHD",
+                "link": "http://b734f0f9.russtv.net/iptv/PHNVV4ZCWRD3R87QXFHQBEVV/19146/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Server 1",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/foxsport501.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "name": "NBA TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",
+        "links": "pro/Sports-NBATV.json",
+        "is_playlist": false,
+        "stream_details": [
+            {
+                "name": "Link 1",
+                "link": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/NBAHD/default.mpd",
+                "api": "a5cd47bba986b233d3731297cb62fdf9:0d067e22a727ae9f264478f5c2ed903a",
+                "scheme": 0
+            }
+        ]
+    },
+    {
+        "name": "Channel 5 UK",
+        "logo": "https://yt3.googleusercontent.com/UU_E0F6gc9-g3zVn07zzDOxc0gzNDWOdv12a0zjpFzkq7auTeMw_M2Zu7FC1J4l5sgKtN74E=s900-c-k-c0x00ffffff-no-rj",
+        "visible": true,
+        "links": "pro/Sports-Channel5UK.json",
+        "is_playlist": false,
+        "link_names": [
+            "Channel 5 - AQ",
+            "Channel 4 - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "Channel 5 - AQ",
+                "link": "https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Channel 4 - AQ",
+                "link": "https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "ITV UK",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/ITV_plc_2025_logo.svg/1200px-ITV_plc_2025_logo.svg.png",
+        "visible": true,
+        "links": "pro/Sports-ITVUK.json",
+        "is_playlist": false,
+        "link_names": [
+            "iTV 1 - AQ",
+            "ITV2 - AQ",
+            "ITV3 - AQ",
+            "ITV4 - AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "iTV 1 - AQ",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/yfsmgtnygz/out/v1/272d43358d1f41feb4dc2e9c61733628/cenc.mpd",
+                "api": "a0763c867523cdae498b2ad5a8ed66c4:fbca9fa0d6d784be974170f82c155938",
+                "tokenApi": ""
+            },
+            {
+                "name": "ITV2 - AQ",
+                "link": "https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ITV3 - AQ",
+                "link": "https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ITV4 - AQ",
+                "link": "https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv4.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "SKY SPORT NZ ",
+        "logo": "https://yt3.googleusercontent.com/iohGetnAA6eGYzzawIWQyJRn_giT_OU4pZ7b9-8JHl5-zCiN970MNbz5qQ1XhogZkNj9WnbA=s900-c-k-c0x00ffffff-no-rj",
+        "visible": true,
+        "links": "pro/Sports-SKYSPORTNZ.json",
+        "is_playlist": false,
+        "link_names": [
+            "Sky Sport 1 NZ",
+            "Sky Sport 2 NZ",
+            "Sky Sport 3 NZ",
+            "Sky Sport 4 NZ",
+            "Sky Sport 5 NZ",
+            "Sky Sport 6 NZ",
+            "Sky Sport 7 NZ",
+            "Sky Sport 8 NZ"
+        ],
+        "stream_details": [
+            {
+                "name": "Sky Sport 1 NZ",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/skysport1_nz.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport 2 NZ",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/skysport2_nz.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport 3 NZ",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/skysport3_nz.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport 4 NZ",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/skysport4_nz.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport 5 NZ",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/skysport5_nz.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport 6 NZ",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/skysport6_nz.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport 7 NZ",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/skysport7_nz.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport 8 NZ",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/skysport8_nz.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "SPORT.TV ",
+        "logo": "https://archive.org/download/sport-tv-logo/SportTV-logo.png",
+        "visible": true,
+        "links": "pro/Sports-SPORT.TV.json",
+        "is_playlist": false,
+        "link_names": [
+            "SPORT TV 1",
+            "SPORT TV 2",
+            "SPORT TV 3",
+            "SPORT TV 4",
+            "SPORT TV 5"
+        ],
+        "stream_details": [
+            {
+                "name": "SPORT TV 1",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv1.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SPORT TV 2",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv2.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SPORT TV 3",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv3.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SPORT TV 4",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv4.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "SPORT TV 5",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv5.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "DAZN ES",
+        "logo": "https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL_400x400.jpg",
+        "visible": true,
+        "links": "pro/Sports-DAZNES.json",
+        "is_playlist": false,
+        "link_names": [
+            "DAZN 1",
+            "DAZN 2",
+            "DAZN 3",
+            "DAZN 4"
+        ],
+        "stream_details": [
+            {
+                "name": "DAZN 1",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/dazn1spain.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "DAZN 2",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/dazn2spain.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "DAZN 3",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/dazn3spain.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "DAZN 4",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/dazn4spain.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "CANAL SPORT",
+        "logo": "https://yt3.googleusercontent.com/D5h4Q7kTWN_aB6kj8Zzyb6v3hcMU4GgF4XO2kpyudeLMgJFkJc7VcA4EgRTdv6n0Ccs4Ybot1Q=s900-c-k-c0x00ffffff-no-rj",
+        "visible": true,
+        "links": "pro/Sports-CANALSPORT.json",
+        "is_playlist": false,
+        "link_names": [
+            "CANAL SPORT 1",
+            "CANAL SPORT 2",
+            "CANAL SPORT 3",
+            "CANAL SPORT 4"
+        ],
+        "stream_details": [
+            {
+                "name": "CANAL SPORT 1",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/canalsport1.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "CANAL SPORT 2",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/canalsport2.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "CANAL SPORT 3",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/canalsport3.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "CANAL SPORT 4",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/canalsport4.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "BLUE SPORT",
+        "logo": "https://yt3.googleusercontent.com/5DX81LNokh0OaPhqKR2hjsbDVtwTmWb_xBc7JUIrBStXdEvXLgqXJ6qTG6_LPdDVXxufMOel=s900-c-k-c0x00ffffff-no-rj",
+        "visible": true,
+        "links": "pro/Sports-BLUESPORT.json",
+        "is_playlist": false,
+        "link_names": [
+            "BLUE SPORT 1",
+            "BLUE SPORT 2"
+        ],
+        "stream_details": [
+            {
+                "name": "BLUE SPORT 1",
+                "link": "https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "BLUE SPORT 2",
+                "link": "https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Polsat Sport",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/500px-Polsat_Sport_2021_gradient.svg.png",
+        "visible": true,
+        "links": "pro/Sports-PolsatSport.json",
+        "is_playlist": false,
+        "link_names": [
+            "POLSAT SPORT 1",
+            "POLSAT SPORTS 2",
+            "POLSAT SPORT 3",
+            "POLSAT SPORT PREMIUM 1",
+            "POLSAT SPORT PREMIUM 2"
+        ],
+        "stream_details": [
+            {
+                "name": "POLSAT SPORT 1",
+                "link": "https://fadhillah.serv00.net/scripts/Proxy.php/https://lb2-e1-81.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd",
+                "api": "590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e",
+                "tokenApi": ""
+            },
+            {
+                "name": "POLSAT SPORTS 2",
+                "link": "https://fadhillah.serv00.net/scripts/Proxy.php/https://lb2-e1-82.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd",
+                "api": "3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23",
+                "tokenApi": ""
+            },
+            {
+                "name": "POLSAT SPORT 3",
+                "link": "https://fadhillah.serv00.net/scripts/Proxy.php/https://lb2-e2-21.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd",
+                "api": "03ddf71c8dae4e8d8b171fb81ecfe609:fc80cf8969cf1b3c2c061eadb94e1330",
+                "tokenApi": ""
+            },
+            {
+                "name": "POLSAT SPORT PREMIUM 1",
+                "link": "https://fadhillah.serv00.net/scripts/Proxy.php/https://lb2-e2-16.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd",
+                "api": "8eb4a9586edf4b0cade4b5725fd55209:54caa4e2142cf691af9bb6028545afc6",
+                "tokenApi": ""
+            },
+            {
+                "name": "POLSAT SPORT PREMIUM 2",
+                "link": "https://fadhillah.serv00.net/scripts/Proxy.php/https://lb2-e1-81.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd",
+                "api": "6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "Sport 1 TV",
+        "logo": "https://7sport.sk/wp-content/uploads/2023/02/sport1.png",
+        "visible": true,
+        "links": "pro/Sports-Sport1TV.json",
+        "is_playlist": false,
+        "link_names": [
+            "SPORT 1 AQ",
+            "SPORT 2 AQ"
+        ],
+        "stream_details": [
+            {
+                "name": "SPORT 1 AQ",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "tokenApi": ""
+            },
+            {
+                "name": "SPORT 2 AQ",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "name": "DAZN DE",
+        "logo": "https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL_400x400.jpg",
+        "visible": true,
+        "links": "pro/Sports-DAZNDE.json",
+        "is_playlist": false,
+        "link_names": [
+            "DAZN 1 DE",
+            "DAZN 2 DE"
+        ],
+        "stream_details": [
+            {
+                "name": "DAZN 1 DE",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/dazn1germany.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "DAZN 2 DE",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/dazn2germany.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    }
+]
