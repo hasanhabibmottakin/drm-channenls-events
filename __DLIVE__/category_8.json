@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "South American Sports",
-        "logo": "https://allsportdb.com/img/logo.png",
-        "type": "m3u",
-        "api": "https://raw.githubusercontent.com/rafamorenove2023/listarafa.m3u/refs/heads/main/LISTARAFA.m3u"
-    }
-]

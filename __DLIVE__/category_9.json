@@ -1,9 +1,0 @@
-[
-    {
-        "visible": false,
-        "name": "FSTV",
-        "logo": "https://topstream.space/fstv/files/logo_fstv.png",
-        "type": "m3u",
-        "api": "https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/FSTV24.m3u8"
-    }
-]

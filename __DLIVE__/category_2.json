@@ -1,9 +1,0 @@
-[
-    {
-        "visible": false,
-        "name": "Sports",
-        "logo": "#",
-        "type": "custom",
-        "api": "channels/Sports.json"
-    }
-]

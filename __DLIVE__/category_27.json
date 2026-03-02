@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "Pakistani TV",
-        "logo": "https://flagstore.com.ua/wp-content/uploads/2019/03/Pakistan-262x175.jpg",
-        "type": "m3u",
-        "api": "https://raw.githubusercontent.com/abid58b/ShoqPlaylist/refs/heads/main/shoq.m3u"
-    }
-]

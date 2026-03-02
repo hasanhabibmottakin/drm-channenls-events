@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "SAMSUNG TV +",
-        "logo": "https://cdn.brandfetch.io/id-G61_1i8/w/1080/h/1080/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752142042502",
-        "type": "m3u",
-        "api": "https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/samsungtvplus_all.m3u"
-    }
-]

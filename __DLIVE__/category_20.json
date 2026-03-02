@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "Zee5",
-        "logo": "https://cdn.brandfetch.io/idG83-n-Gw/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751286701261",
-        "type": "m3u",
-        "api": "https://github.com/alex4528/m3u/raw/refs/heads/main/z5.m3u"
-    }
-]

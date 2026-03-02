@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "ROKU",
-        "logo": "https://i.pinimg.com/564x/32/b2/9c/32b29c51b752088d736ef626ee38ff26.jpg",
-        "type": "m3u",
-        "api": "https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/roku_all.m3u"
-    }
-]

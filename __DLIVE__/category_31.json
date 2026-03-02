@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "TheTVApp",
-        "logo": "https://guruhitech.com/wp-content/uploads/2023/05/thetvapp-icon.webp",
-        "type": "m3u",
-        "api": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8"
-    }
-]

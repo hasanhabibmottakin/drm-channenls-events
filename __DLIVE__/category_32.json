@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "PLEX",
-        "logo": "https://cdn.brandfetch.io/id6OgdnqKb/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1736438079801",
-        "type": "m3u",
-        "api": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_all.m3u"
-    }
-]

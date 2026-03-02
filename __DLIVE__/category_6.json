@@ -1,9 +1,0 @@
-[
-    {
-        "visible": false,
-        "name": "WW TV",
-        "logo": "cs",
-        "type": "m3u",
-        "api": "https://github.com/bugsfreeweb/LiveTVCollector/raw/refs/heads/main/LiveTV/Worldwide/LiveTV.m3u"
-    }
-]
