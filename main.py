@@ -14,9 +14,13 @@ if not all([MAIN_API_URL, DECODE_API_URL, STREAM_BASE_URL]):
     print("Error: Missing Environment ")
     exit(1)
 
-def fetch_and_decode_stream(slug, links_id):
-    stream_url = f"{STREAM_BASE_URL}{slug}"
-    print(f"    -> Fetching stream info for ID: {links_id}...")
+
+if not STREAM_BASE_URL.endswith('/'):
+    STREAM_BASE_URL += '/'
+
+def fetch_and_decode_stream(slug, identifier):
+    stream_url = slug if slug.startswith("http") else f"{STREAM_BASE_URL}{slug}"
+    print(f"    -> Fetching stream info for: {identifier}...")
     
     try:
         res = requests.get(stream_url, timeout=15)
@@ -36,7 +40,7 @@ def fetch_and_decode_stream(slug, links_id):
         return dec_res.json()
         
     except Exception as e:
-        print(f" Error for stream {links_id}: {e}")
+        print(f"Error for stream {identifier}: {e}")
         return None
 
 def process_and_merge_events(encoded_str_list):
@@ -58,7 +62,7 @@ def process_and_merge_events(encoded_str_list):
         safe_url_param = urllib.parse.quote(encoded_item.strip())
         decode_api = f"{DECODE_API_URL}{safe_url_param}"
         
-        print(f"\n")
+        print(f"\nDecoding event chunk {i + 1}...")
         try:
             res = requests.get(decode_api, timeout=15)
             res.raise_for_status()
@@ -82,7 +86,58 @@ def process_and_merge_events(encoded_str_list):
         final_file_path = os.path.join(FOLDER_NAME, "all_events.json")
         with open(final_file_path, "w", encoding="utf-8") as f:
             json.dump(all_merged_events, f, indent=4, ensure_ascii=False)
-        print(f"\n")
+        print(f"\nSuccessfully saved all merged events!")
+
+
+def process_and_merge_sports(sports_slug):
+    sports_url = sports_slug if sports_slug.startswith("http") else f"{STREAM_BASE_URL}{sports_slug}"
+    all_merged_sports = []
+    
+    print(f"\nFetching sports data from: {sports_url}")
+    try:
+        res = requests.get(sports_url, timeout=15)
+        res.raise_for_status()
+        sports_list = res.json()
+        
+        if not isinstance(sports_list, list):
+            print("Sports data is not a list.")
+            return
+
+        for i, item in enumerate(sports_list):
+            encoded_channel = item.get("channel", "")
+            if not encoded_channel:
+                continue
+                
+            clean_channel = encoded_channel.replace('\n', '').replace('\r', '').strip()
+            safe_url_param = urllib.parse.quote(clean_channel)
+            decode_api = f"{DECODE_API_URL}{safe_url_param}"
+            
+            print(f"⏳ Decoding sports channel chunk {i + 1}...")
+            dec_res = requests.get(decode_api, timeout=15)
+            dec_res.raise_for_status()
+            decoded_channels = dec_res.json()
+            
+        
+            if isinstance(decoded_channels, list):
+                for channel_obj in decoded_channels:
+                    
+                    slug = channel_obj.get("links")
+                    channel_name = channel_obj.get("name", f"Sport_{i}")
+                    
+                    if slug:
+                        stream_data = fetch_and_decode_stream(slug, channel_name)
+                        if stream_data:
+                            channel_obj["stream_details"] = stream_data
+                    all_merged_sports.append(channel_obj)
+            
+        if all_merged_sports:
+            sports_file_path = os.path.join(FOLDER_NAME, "sports_channels.json")
+            with open(sports_file_path, "w", encoding="utf-8") as f:
+                json.dump(all_merged_sports, f, indent=4, ensure_ascii=False)
+            print(f"\nSuccessfully saved all merged sports channels to: {sports_file_path}")
+
+    except Exception as e:
+        print(f"Error processing sports data: {e}")
 
 def process_categories(encoded_str_list):
     try:
@@ -117,7 +172,7 @@ def find_target_dictionary(data):
 
 def main():
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
     print("Fetching main API...")
     try:
@@ -130,9 +185,14 @@ def main():
         if app_data:
             events_str = app_data.get("events", "[]")
             categories_str = app_data.get("categories", "[]")
+            sports_slug = app_data.get("sports_slug", "")
             
             print("\n")
             process_and_merge_events(events_str)
+            
+            if sports_slug:
+                print("\n")
+                process_and_merge_sports(sports_slug)
             
             print("\n")
             process_categories(categories_str)
