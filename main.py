@@ -79,7 +79,7 @@ def process_and_merge_events(encoded_str_list):
             print(f"Error decoding event chunk {i + 1}: {e}")
 
     if all_merged_events:
-        final_file_path = os.path.join(FOLDER_NAME, "all_events_merged.json")
+        final_file_path = os.path.join(FOLDER_NAME, "all_events.json")
         with open(final_file_path, "w", encoding="utf-8") as f:
             json.dump(all_merged_events, f, indent=4, ensure_ascii=False)
         print(f"\n")
