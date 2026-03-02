@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "Jio - IN",
+        "logo": "https://cdn.brandfetch.io/id6G3nI3KU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1750851429838",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/AstroSmarty/JioTv/refs/heads/main/channels.m3u"
+    }
+]

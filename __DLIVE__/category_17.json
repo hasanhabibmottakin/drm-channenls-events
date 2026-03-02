@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "Airtel TV",
+        "logo": "https://cdn.brandfetch.io/airtel.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed",
+        "type": "m3u",
+        "api": "https://github.com/alex4528/m3u/raw/refs/heads/main/artl.m3u"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "Combo IPTV",
+        "logo": "#",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u"
+    }
+]

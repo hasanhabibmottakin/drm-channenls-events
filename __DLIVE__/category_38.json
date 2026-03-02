@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "XUMO",
+        "logo": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltcc58876878fa21d4/64a3bdaa537b901ea450f3b4/869.jpg?width=1280&auto=webp&quality=80&format=jpg&disable=upscale",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u"
+    }
+]

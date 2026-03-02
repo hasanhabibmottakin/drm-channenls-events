@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "Bangladeshi",
+        "logo": "#",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/aalmaruf1702/ecntv-m3u-checker/refs/heads/main/ECNTV_Validated_Playlist.m3u"
+    }
+]

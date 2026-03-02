@@ -1,0 +1,9 @@
+[
+    {
+        "visible": false,
+        "name": "IP TV",
+        "logo": "https://downloadr2.apkmirror.com/wp-content/uploads/2024/10/97/66fdec25310c8_ai.metaverse.iptv.smartplayer.onlinetv.png",
+        "type": "m3u",
+        "api": "http://portal.alliptvapp.com:8080/get.php?username=494613293978&password=342065706159&type=m3u_plus&output=ts"
+    }
+]

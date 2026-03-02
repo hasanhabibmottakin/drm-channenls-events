@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "STIRR",
+        "logo": "https://cdn.brandfetch.io/idznlLttX-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1749330043266",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/stirr_all.m3u"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "PLUTO TV",
+        "logo": "https://static-homepage-en.pluto.tv/hp-assets/images/og_logo_new-01af615635e0626f2e22a8ee37937c8d.png",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_all.m3u"
+    }
+]

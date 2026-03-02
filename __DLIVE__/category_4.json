@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "WW Movie S2",
+        "logo": "https://cdn-icons-png.flaticon.com/512/11327/11327060.png",
+        "type": "m3u",
+        "api": "https://live-iptv.github.io/iptv/movies.m3u"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "TV Pass",
+        "logo": "#",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.m3u8"
+    }
+]

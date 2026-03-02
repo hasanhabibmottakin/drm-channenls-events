@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "SonyLiv Event WW",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",
+        "type": "m3u",
+        "api": "https://github.com/abid58b/SonyLivPlayList/raw/refs/heads/main/sonyliv-ww.m3u"
+    }
+]
