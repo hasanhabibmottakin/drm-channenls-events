@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "Türkiye ALL",
+        "logo": "#",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/mooncrown04/m3u/refs/heads/main/birlesik.m3u"
+    }
+]

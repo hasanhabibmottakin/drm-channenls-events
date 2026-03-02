@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "TATA PLAY",
+        "logo": "https://play-lh.googleusercontent.com/PTLQRc7a8vRjs8fmM7hRI36s7gGYalxIFd80xZDvYkIl91d709fcl4-UH9vZbxWDGG8",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/rkdyiptv/Playlist/refs/heads/main/Playlist/tata-tv.m3u/index.html"
+    }
+]

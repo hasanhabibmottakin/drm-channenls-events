@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "TUBI",
+        "logo": "https://cdn.brandfetch.io/idJuMIXs2z/w/800/h/800/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1750715962629",
+        "type": "m3u",
+        "api": "https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/tubi_all.m3u"
+    }
+]

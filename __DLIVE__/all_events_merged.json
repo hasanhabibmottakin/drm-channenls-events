@@ -1,0 +1,2771 @@
+[
+    {
+        "visible": true,
+        "category": "Cricket",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/crickettt.png",
+        "eventName": "ICC T20 World Cup",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+        "teamAName": "India",
+        "teamBName": "West Indies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+        "priority": 1,
+        "date": "01/03/2026",
+        "time": "13:30:00",
+        "end_date": "01/03/2026",
+        "end_time": "17:30:00",
+        "link_names": [
+            "Willow FHD AQ",
+            "Prime Video FHD AQ",
+            "Prime HIN AQ",
+            "HOTSTAR HIN",
+            "HUB SPORTS AQ [VPN]",
+            "Willow FHD AQ [S2]",
+            "Sky Sports Cricket FHD",
+            "Sky Sport NZ",
+            "Willow HD"
+        ],
+        "links": "pro/SUNDVDIwV29ybGRDdXAtSW5kaWEtdnMtV2VzdEluZGllcw.json",
+        "slug": "pro/SUNDVDIwV29ybGRDdXAtSW5kaWEtdnMtV2VzdEluZGllcw.json",
+        "links_id": "3934",
+        "stream_details": [
+            {
+                "name": "Willow FHD AQ",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/ecp6xidc5d/out/v1/b8a94677c56e4411aef7ecc2431cec0a/cenc.mpd",
+                "api": "0c1cb3e9514dddd75896a7f60a03decb:963fb175f70769c8d56fc44c843808b3",
+                "tokenApi": ""
+            },
+            {
+                "name": "Prime Video FHD AQ",
+                "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/vdx0scnjmm/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd",
+                "api": "2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9",
+                "tokenApi": ""
+            },
+            {
+                "name": "Prime HIN AQ",
+                "link": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/wese7mithc/out/v1/2f30a0bcdbc64a09b2e101d0b71ed290/cenc.mpd",
+                "api": "98f575d59c64c89f8431d0d8c02d8550:e28cd2cda190f7566520480bff3bca7c",
+                "tokenApi": ""
+            },
+            {
+                "name": "HOTSTAR HIN",
+                "link": "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8|Referer=https://sportslivenow.top/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "HUB SPORTS AQ [VPN]",
+                "link": "https://bks02.starhubgo.com/bpk-token/1aa@i4a5m0w0d2tjlbrq4khifb4zu3shyhtwi2howuca/bpk-tv/HubSports5HD/output/manifest.mpd?bkm-query",
+                "api": "14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0",
+                "tokenApi": ""
+            },
+            {
+                "name": "Willow FHD AQ [S2]",
+                "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/enc/hp0lefwcem/out/v1/925bb83b4490417fa9c536dde0104939/cenc.mpd",
+                "api": "9854668c16b3ef7efe6facbf91fd8af2:fc899a5c275cbb1060d6d9d61cd52ecd",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sports Cricket FHD",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/skysportscricket.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport NZ",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/skysport1_nz.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Willow HD",
+                "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "priority": -1,
+        "category": "MotoGP",
+        "categoryLogo": "x",
+        "eventName": "MotoGP - Grand Prix of Thailand",
+        "eventLogo": "https://raw.githubusercontent.com/xmrt624/logo/6fedc9ee79594fa82ff1671d42de6dd7e96d40c1/MotoGPX.png",
+        "teamAName": "MotoGP",
+        "teamBName": "MotoGP",
+        "teamAFlag": "https://raw.githubusercontent.com/xmrt624/logo/6fedc9ee79594fa82ff1671d42de6dd7e96d40c1/MotoGPX.png",
+        "teamBFlag": "https://raw.githubusercontent.com/xmrt624/logo/6fedc9ee79594fa82ff1671d42de6dd7e96d40c1/MotoGPX.png",
+        "date": "01/03/2026",
+        "time": "08:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "13:00:00",
+        "link_names": [
+            "FANCODE FHD AQ",
+            "SPOTV AQ",
+            "Ziggo Sport AQ"
+        ],
+        "links_id": "4183",
+        "links": "pro/TW90b0dQLUdyYW5kUHJpeG9mVGhhaWxhbmQtTW90b0dQLXZzLU1vdG9HUA.json",
+        "slug": "pro/TW90b0dQLUdyYW5kUHJpeG9mVGhhaWxhbmQtTW90b0dQLXZzLU1vdG9HUA.json",
+        "stream_details": [
+            {
+                "name": "FANCODE FHD AQ",
+                "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+                "tokenApi": ""
+            },
+            {
+                "name": "SPOTV AQ",
+                "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+                "api": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+                "tokenApi": ""
+            },
+            {
+                "name": "Ziggo Sport AQ",
+                "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621",
+                "api": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Cricket",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/crickettt.png",
+        "eventName": "ICC T20 World Cup",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+        "teamAName": "Zimbabwe",
+        "teamBName": "South Africa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
+        "teamBFlag": "https://image-service.onefootball.com/transform?w=256&dpr=2&image=https://images.onefootball.com/icons/teams/164/39.png",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "09:30:00",
+        "end_date": "01/03/2026",
+        "end_time": "13:15:00",
+        "link_names": [
+            "Willow FHD AQ",
+            "Sky Sports AQ",
+            "Jio Hotstar",
+            "Willow HD",
+            "Sky Cricket FHD"
+        ],
+        "links": "pro/SUNDVDIwV29ybGRDdXAtWmltYmFid2UtdnMtU291dGhBZnJpY2E.json",
+        "slug": "pro/SUNDVDIwV29ybGRDdXAtWmltYmFid2UtdnMtU291dGhBZnJpY2E.json",
+        "links_id": "3933",
+        "stream_details": [
+            {
+                "name": "Willow FHD AQ",
+                "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/enc/hp0lefwcem/out/v1/925bb83b4490417fa9c536dde0104939/cenc.mpd",
+                "api": "9854668c16b3ef7efe6facbf91fd8af2:fc899a5c275cbb1060d6d9d61cd52ecd",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sports AQ",
+                "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Jio Hotstar",
+                "link": "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8|Referer=https://sportslivenow.top/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Willow HD",
+                "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Cricket FHD",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/skysportscricket.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Tennis",
+        "categoryLogo": "#",
+        "eventName": "Tennis - ATP World Tour",
+        "eventLogo": "https://r2.thesportsdb.com/images/media/league/badgearchive/5owmuy1674667473.png/tiny",
+        "teamAName": "Tennis",
+        "teamBName": "Tennis",
+        "teamAFlag": "https://www.emoji.co.uk/files/apple-emojis/activity-ios/425-tennis-racquet-and-ball.png",
+        "teamBFlag": "https://www.emoji.co.uk/files/apple-emojis/activity-ios/425-tennis-racquet-and-ball.png",
+        "priority": -1,
+        "date": "21/02/2026",
+        "time": "16:00:00",
+        "link_names": [
+            "beIN ENG AQ",
+            "TV4 Tennis AQ"
+        ],
+        "links": "pro/VGVubmlzLUFUUFdvcmxkVG91ci1UZW5uaXMtdnMtVGVubmlz.json",
+        "slug": "pro/VGVubmlzLUFUUFdvcmxkVG91ci1UZW5uaXMtdnMtVGVubmlz.json",
+        "links_id": "-1",
+        "stream_details": [
+            {
+                "name": "beIN ENG AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+                "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                "tokenApi": ""
+            },
+            {
+                "name": "TV4 Tennis AQ",
+                "link": "https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd",
+                "api": "bd32ad608e8c35368dbb0acbfa94d8e0:957b32508fecaf1a7f842e9d89bc7537",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "English Premier League - Goal Rush",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "teamAName": "Goal Rush",
+        "teamBName": "Goal Rush",
+        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "priority": -1,
+        "date": "24/01/2026",
+        "time": "15:00:00",
+        "end_date": "24/01/2026",
+        "end_time": "17:00:00",
+        "link_names": [
+            "Peacock FHD AQ"
+        ],
+        "links": "pro/RW5nbGlzaFByZW1pZXJMZWFndWUtR29hbFJ1c2gtR29hbFJ1c2gtdnMtR29hbFJ1c2g.json",
+        "slug": "pro/RW5nbGlzaFByZW1pZXJMZWFndWUtR29hbFJ1c2gtR29hbFJ1c2gtdnMtR29hbFJ1c2g.json",
+        "links_id": "3629",
+        "stream_details": [
+            {
+                "name": "Peacock FHD AQ",
+                "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vzh5zxfjs2/out/v1/d6eef3bf295c45bd9fc96adf5140e0c4/cenc.mpd",
+                "api": "4c5d96a4d5bd954afab31b56c118ffa1:eb3da76edb8d2a9ad5e16258914a4da9",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "priority": -1,
+        "category": "WWE",
+        "categoryLogo": "no",
+        "eventName": "WWE  |  AEW Dynamite",
+        "eventLogo": "https://github.com/xmrt624/logo/blob/main/wwe-logo-white-red-render.png?raw=true",
+        "teamAName": "AEW",
+        "teamBName": "AEW",
+        "teamAFlag": "https://i0.wp.com/wrestlenomics.com/wp-content/uploads/2025/03/aew-dynamite-light-background.png?w=1100&ssl=1",
+        "teamBFlag": "https://i0.wp.com/wrestlenomics.com/wp-content/uploads/2025/03/aew-dynamite-light-background.png?w=1100&ssl=1",
+        "date": "08/01/2026",
+        "time": "01:00:00",
+        "end_date": "08/01/2026",
+        "end_time": "03:30:00",
+        "link_names": [
+            "TSN SPORTS AQ",
+            "FOX SPORTS MX AQ",
+            "TFLIX PPV"
+        ],
+        "links_id": "90",
+        "links": "pro/V1dFfEFFV0R5bmFtaXRlLUFFVy12cy1BRVc.json",
+        "slug": "pro/V1dFfEFFV0R5bmFtaXRlLUFFVy12cy1BRVc.json",
+        "stream_details": [
+            {
+                "name": "TSN SPORTS AQ",
+                "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd",
+                "api": "362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42",
+                "tokenApi": ""
+            },
+            {
+                "name": "FOX SPORTS MX AQ",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+                "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+                "tokenApi": ""
+            },
+            {
+                "name": "TFLIX PPV",
+                "link": "https://gg.poocloud.in/wrestling/index.m3u8|referer=https://ppv.to/&origin=https://ppv.to",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "WWE",
+        "categoryLogo": "no",
+        "eventName": "WWE  |  TNA iMPACT!",
+        "eventLogo": "https://github.com/xmrt624/logo/blob/main/wwe-logo-white-red-render.png?raw=true",
+        "teamAName": "TNA iMPACT!",
+        "teamBName": "TNA iMPACT!",
+        "teamAFlag": "https://upload.wikimedia.org/wikipedia/commons/0/02/TNA_Impact%21_2024.png",
+        "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/0/02/TNA_Impact%21_2024.png",
+        "priority": -1,
+        "date": "05/12/2025",
+        "time": "01:00:00",
+        "end_date": "05/12/2025",
+        "end_time": "03:20:00",
+        "link_names": [
+            "Sportsnet 360 AQ",
+            "TFLIX PPV"
+        ],
+        "links": "pro/V1dFfFROQWlNUEFDVCEtVE5BaU1QQUNUIS12cy1UTkFpTVBBQ1Qh.json",
+        "slug": "pro/V1dFfFROQWlNUEFDVCEtVE5BaU1QQUNUIS12cy1UTkFpTVBBQ1Qh.json",
+        "links_id": "144",
+        "stream_details": [
+            {
+                "name": "Sportsnet 360 AQ",
+                "link": "https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-prd-r-v2/dash-ch-06-prd-r-hd/index.mpd",
+                "api": "d770eb2ba9b734d1981671030e1abacd:a472809951c88a96b16d1ff1d449257b",
+                "tokenApi": ""
+            },
+            {
+                "name": "TFLIX PPV",
+                "link": "https://gg.poocloud.in/wrestling/index.m3u8|Referer=https://ppv.to/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "priority": -1,
+        "category": "WWE",
+        "categoryLogo": "no",
+        "eventName": "WWE  |  Monday Night Raw",
+        "eventLogo": "https://github.com/xmrt624/logo/blob/main/wwe-logo-white-red-render.png?raw=true",
+        "teamAName": "Raw",
+        "teamBName": "Raw",
+        "teamAFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/WWE_Raw_Logo_2019.svg/1200px-WWE_Raw_Logo_2019.svg.png",
+        "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/WWE_Raw_Logo_2019.svg/1200px-WWE_Raw_Logo_2019.svg.png",
+        "date": "20/01/2026",
+        "time": "00:00:00",
+        "end_date": "20/01/2026",
+        "end_time": "03:00:00",
+        "link_names": [
+            "TFLIX FHD ",
+            "TFLIX HD ",
+            "TFLIX SD ",
+            "Tap Sport LQ"
+        ],
+        "links_id": "300",
+        "links": "pro/V1dFfE1vbmRheU5pZ2h0UmF3LVJhdy12cy1SYXc.json",
+        "slug": "pro/V1dFfE1vbmRheU5pZ2h0UmF3LVJhdy12cy1SYXc.json",
+        "stream_details": [
+            {
+                "name": "TFLIX FHD ",
+                "link": "https://red1.ignitelaunch.shop/playlist/42722/load-playlist?|Referer=https://gooz.aapmains.net",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "TFLIX HD ",
+                "link": "https://edgestreams.pro/hls/zeuryuegn48.m3u8|Referer=https://streamcenter.live/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "TFLIX SD ",
+                "link": "http://205.237.104.133/hls/TTTT.m3u8|Referer=http://www.fawanews.sc/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Tap Sport LQ",
+                "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+                "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "WWE",
+        "categoryLogo": "no",
+        "eventName": "WWE  |  Friday Night SmackDown",
+        "eventLogo": "https://github.com/xmrt624/logo/blob/main/wwe-logo-white-red-render.png?raw=true",
+        "teamAName": "SmackDown",
+        "teamBName": "SmackDown",
+        "teamAFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/WWE_SmackDown_%282019%29_Logo.svg/2560px-WWE_SmackDown_%282019%29_Logo.svg.png",
+        "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/WWE_SmackDown_%282019%29_Logo.svg/2560px-WWE_SmackDown_%282019%29_Logo.svg.png",
+        "priority": -1,
+        "date": "30/01/2026",
+        "time": "17:00:00",
+        "end_date": "30/01/2026",
+        "end_time": "20:00:00",
+        "link_names": [
+            "TFLIX SD"
+        ],
+        "links": "pro/V1dFfEZyaWRheU5pZ2h0U21hY2tEb3duLVNtYWNrRG93bi12cy1TbWFja0Rvd24.json",
+        "slug": "pro/V1dFfEZyaWRheU5pZ2h0U21hY2tEb3duLVNtYWNrRG93bi12cy1TbWFja0Rvd24.json",
+        "links_id": "167",
+        "stream_details": [
+            {
+                "name": "TFLIX SD",
+                "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "UFC",
+        "categoryLogo": "no",
+        "eventName": "UFC Fight Night - Moreno vs Kavanagh",
+        "eventLogo": "https://github.com/xmrt624/logo/blob/main/UFC.png?raw=true",
+        "teamAName": "Brandon Moreno",
+        "teamBName": "Lone'er Kavanagh",
+        "teamAFlag": "https://raw.githubusercontent.com/xmrt624/logo/refs/heads/main/UFC/Brandon%20Moreno.png",
+        "teamBFlag": "https://raw.githubusercontent.com/xmrt624/logo/refs/heads/main/UFC/Lone'er%20Kavanagh.png",
+        "priority": -1,
+        "date": "28/02/2026",
+        "time": "23:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "05:00:00",
+        "link_names": [
+            "TNT SPORTS HD",
+            "Paramount+ HD",
+            "TFLIX HD",
+            "HD SERVER"
+        ],
+        "links": "pro/VUZDRmlnaHROaWdodC1Nb3Jlbm92c0thdmFuYWdoLUJyYW5kb25Nb3Jlbm8tdnMtTG9uZSdlckthdmFuYWdo.json",
+        "slug": "pro/VUZDRmlnaHROaWdodC1Nb3Jlbm92c0thdmFuYWdoLUJyYW5kb25Nb3Jlbm8tdnMtTG9uZSdlckthdmFuYWdo.json",
+        "links_id": "402",
+        "stream_details": [
+            {
+                "name": "TNT SPORTS HD",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/tntsport1.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Paramount+ HD",
+                "link": "https://602.serverbandel.sbs/para.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "TFLIX HD",
+                "link": "https://edgestreams.pro/hls/zeuryuegn48.m3u8?st=fvv-tu92i-gauXCGDjK_xbz_oQH7yCvbDkKpJ3Ywd8U&e=1772316831|Referer=https://streamcenter.live",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "HD SERVER",
+                "link": "https://cdn1.trrfiles.cfd/live/cdn1/chunks.m3u8|Referer=https://sharkstreams.net/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Formula",
+        "categoryLogo": "#",
+        "eventName": "F1 | Australian Grand Prix",
+        "eventLogo": "https://raw.githubusercontent.com/xmrt624/logo/refs/heads/main/f1.png",
+        "teamAName": "Formula 1",
+        "teamBName": "Formula 1",
+        "teamAFlag": "https://raw.githubusercontent.com/xmrt624/logo/refs/heads/main/f1.png",
+        "teamBFlag": "https://raw.githubusercontent.com/xmrt624/logo/refs/heads/main/f1.png",
+        "priority": -1,
+        "date": "06/03/2026",
+        "time": "01:30:00",
+        "end_date": "06/03/2026",
+        "end_time": "10:00:00",
+        "link_names": [
+            "FANCODE FHD AQ",
+            "beIN Sports AQ",
+            "Sky Sports F1 FHD",
+            "Sky Sport F1 AQ",
+            "Sky Sport IT"
+        ],
+        "links": "pro/RjF8QXVzdHJhbGlhbkdyYW5kUHJpeC1Gb3JtdWxhMS12cy1Gb3JtdWxhMQ.json",
+        "slug": "pro/RjF8QXVzdHJhbGlhbkdyYW5kUHJpeC1Gb3JtdWxhMS12cy1Gb3JtdWxhMQ.json",
+        "links_id": "3936",
+        "stream_details": [
+            {
+                "name": "FANCODE FHD AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports AQ",
+                "link": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd",
+                "api": "d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sports F1 FHD",
+                "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/f1.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport F1 AQ",
+                "link": "https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=cRTSQR0_aAkgSRFZx-X5PQ&e=2071398907&scheme=https",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport IT",
+                "link": "https://bbb.exoadash.com/TVD201/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "LaLiga",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "teamAName": "Elche",
+        "teamBName": "Espanyol",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2814/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "13:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "15:00:00",
+        "link_names": [
+            "LALIGA TV FHD",
+            "beIN ENG AQ",
+            "FANCODE FHD AQ",
+            "ESPN DEPORTS FHD"
+        ],
+        "links": "pro/TGFMaWdhLUVsY2hlLXZzLUVzcGFueW9s.json",
+        "slug": "pro/TGFMaWdhLUVsY2hlLXZzLUVzcGFueW9s.json",
+        "links_id": "3993",
+        "stream_details": [
+            {
+                "name": "LALIGA TV FHD",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+                "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN ENG AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+                "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                "tokenApi": ""
+            },
+            {
+                "name": "FANCODE FHD AQ",
+                "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+                "tokenApi": ""
+            },
+            {
+                "name": "ESPN DEPORTS FHD",
+                "link": "https://daffodil.serverbandel.sbs/dep.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "LaLiga",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "teamAName": "Valencia",
+        "teamBName": "Osasuna",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2820/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "15:15:00",
+        "end_date": "01/03/2026",
+        "end_time": "17:15:00",
+        "link_names": [
+            "LALIGA TV FHD",
+            "beIN ENG AQ",
+            "FANCODE AQ",
+            "ESPN Deports FHD"
+        ],
+        "links": "pro/TGFMaWdhLVZhbGVuY2lhLXZzLU9zYXN1bmE.json",
+        "slug": "pro/TGFMaWdhLVZhbGVuY2lhLXZzLU9zYXN1bmE.json",
+        "links_id": "3994",
+        "stream_details": [
+            {
+                "name": "LALIGA TV FHD",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+                "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN ENG AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "tokenApi": ""
+            },
+            {
+                "name": "FANCODE AQ",
+                "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+                "tokenApi": ""
+            },
+            {
+                "name": "ESPN Deports FHD",
+                "link": "https://daffodil.serverbandel.sbs/dep.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "LaLiga",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "teamAName": "Real Betis",
+        "teamBName": "Sevilla",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2833/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "17:30:00",
+        "end_date": "01/03/2026",
+        "end_time": "19:30:00",
+        "link_names": [
+            "LALIGA TV FHD",
+            "beIN ENG AQ",
+            "DAZN ES AQ",
+            "ESPN Deports FHD"
+        ],
+        "links": "pro/TGFMaWdhLVJlYWxCZXRpcy12cy1TZXZpbGxh.json",
+        "slug": "pro/TGFMaWdhLVJlYWxCZXRpcy12cy1TZXZpbGxh.json",
+        "links_id": "3995",
+        "stream_details": [
+            {
+                "name": "LALIGA TV FHD",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+                "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN ENG AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "tokenApi": ""
+            },
+            {
+                "name": "DAZN ES AQ",
+                "link": "https://bbb.exoadash.com/TVD1529/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ESPN Deports FHD",
+                "link": "https://daffodil.serverbandel.sbs/dep.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "LaLiga",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "teamAName": "Girona",
+        "teamBName": "Celta Vigo",
+        "teamAFlag": "https://image-service.onefootball.com/transform?w=256&dpr=2&image=https://images.onefootball.com/icons/teams/164/685.png",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "20:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "22:00:00",
+        "link_names": [
+            "LALIGA FHD AQ",
+            "beIN ENG AQ",
+            "ESPN Deports FHD"
+        ],
+        "links": "pro/TGFMaWdhLUdpcm9uYS12cy1DZWx0YVZpZ28.json",
+        "slug": "pro/TGFMaWdhLUdpcm9uYS12cy1DZWx0YVZpZ28.json",
+        "links_id": "3969",
+        "stream_details": [
+            {
+                "name": "LALIGA FHD AQ",
+                "link": "https://a122aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+                "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN ENG AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+                "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                "tokenApi": ""
+            },
+            {
+                "name": "ESPN Deports FHD",
+                "link": "https://daffodil.serverbandel.sbs/dep.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Serie A",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "teamAName": "Cremonese",
+        "teamBName": "Milan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2761/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "11:30:00",
+        "end_date": "01/03/2026",
+        "end_time": "13:30:00",
+        "link_names": [
+            "beIN ENG AQ",
+            "DAZN IT FHD",
+            "Sport 1 CZ AQ",
+            "Fox Deportes AQ",
+            "ONE SOCCER"
+        ],
+        "links": "pro/U2VyaWVBLUNyZW1vbmVzZS12cy1NaWxhbg.json",
+        "slug": "pro/U2VyaWVBLUNyZW1vbmVzZS12cy1NaWxhbg.json",
+        "links_id": "3996",
+        "stream_details": [
+            {
+                "name": "beIN ENG AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "tokenApi": ""
+            },
+            {
+                "name": "DAZN IT FHD",
+                "link": "https://liveant.cdnbacklive.xyz/live/3317/index.m3u8|Referer=https://antsports.tv/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sport 1 CZ AQ",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "tokenApi": ""
+            },
+            {
+                "name": "Fox Deportes AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+                "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                "tokenApi": ""
+            },
+            {
+                "name": "ONE SOCCER",
+                "link": "https://lb.buzztip.site/os/tracks-v1a1/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Serie A",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "teamAName": "Sassuolo",
+        "teamBName": "Atalanta",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2793/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "14:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "16:00:00",
+        "link_names": [
+            "beIN ENG AQ",
+            "CBS Golazo AQ",
+            "TV4 Football AQ",
+            "Sport 1 CZ AQ",
+            "Paramount+ HD"
+        ],
+        "links": "pro/U2VyaWVBLVNhc3N1b2xvLXZzLUF0YWxhbnRh.json",
+        "slug": "pro/U2VyaWVBLVNhc3N1b2xvLXZzLUF0YWxhbnRh.json",
+        "links_id": "3997",
+        "stream_details": [
+            {
+                "name": "beIN ENG AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "tokenApi": ""
+            },
+            {
+                "name": "CBS Golazo AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "tokenApi": ""
+            },
+            {
+                "name": "TV4 Football AQ",
+                "link": "https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd",
+                "api": "a518c629bd683a4eba5f2a793bcb48d6:49642d2151ac6c3f8453bbfc4b3fdfc0",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sport 1 CZ AQ",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "tokenApi": ""
+            },
+            {
+                "name": "Paramount+ HD",
+                "link": "https://lb.buzztip.site/it/tracks-v1a1/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Serie A",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "teamAName": "Torino",
+        "teamBName": "Lazio",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2699/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "17:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "19:00:00",
+        "link_names": [
+            "BeIN ENG AQ",
+            "CBS Golazo AQ",
+            "Sport 1 CZ AQ",
+            "Paramount+ HD"
+        ],
+        "links": "pro/U2VyaWVBLVRvcmluby12cy1MYXppbw.json",
+        "slug": "pro/U2VyaWVBLVRvcmluby12cy1MYXppbw.json",
+        "links_id": "3970",
+        "stream_details": [
+            {
+                "name": "BeIN ENG AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "tokenApi": ""
+            },
+            {
+                "name": "CBS Golazo AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+                "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sport 1 CZ AQ",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "tokenApi": ""
+            },
+            {
+                "name": "Paramount+ HD",
+                "link": "https://lb.buzztip.site/it/tracks-v1a1/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Serie A",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "teamAName": "Roma",
+        "teamBName": "Juventus",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2702/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "19:45:00",
+        "end_date": "01/03/2026",
+        "end_time": "21:45:00",
+        "link_names": [
+            "beIN ENG AQ",
+            "Sport 1 CZ AQ",
+            "DAZN IT"
+        ],
+        "links": "pro/U2VyaWVBLVJvbWEtdnMtSnV2ZW50dXM.json",
+        "slug": "pro/U2VyaWVBLVJvbWEtdnMtSnV2ZW50dXM.json",
+        "links_id": "3998",
+        "stream_details": [
+            {
+                "name": "beIN ENG AQ",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+                "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sport 1 CZ AQ",
+                "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "tokenApi": ""
+            },
+            {
+                "name": "DAZN IT",
+                "link": "https://instreams.live/EU/HDTV11/index.m3u8?st=SportzX|Referer=https://instreams.click/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Liga Portugal Betclic",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "teamAName": "FC Porto",
+        "teamBName": "FC Arouca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/25777/image",
+        "priority": -1,
+        "date": "27/02/2026",
+        "time": "18:45:00",
+        "end_date": "27/02/2026",
+        "end_time": "20:45:00",
+        "link_names": [
+            "SportDigital Fussball AQ",
+            "Cosmote Sport",
+            "Eleven Sports "
+        ],
+        "links": "pro/TGlnYVBvcnR1Z2FsQmV0Y2xpYy1GQ1BvcnRvLXZzLUZDQXJvdWNh.json",
+        "slug": "pro/TGlnYVBvcnR1Z2FsQmV0Y2xpYy1GQ1BvcnRvLXZzLUZDQXJvdWNh.json",
+        "links_id": "4234",
+        "stream_details": [
+            {
+                "name": "SportDigital Fussball AQ",
+                "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+                "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                "tokenApi": ""
+            },
+            {
+                "name": "Cosmote Sport",
+                "link": "https://bbb.exoadash.com/TVD4076/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Eleven Sports ",
+                "link": "https://bbb.exoadash.com/TVD6411/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Liga Portugal Betclic",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "teamAName": "Sporting CP",
+        "teamBName": "Estoril Praia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3001/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4500/image",
+        "priority": -1,
+        "date": "27/02/2026",
+        "time": "20:45:00",
+        "end_date": "27/02/2026",
+        "end_time": "22:45:00",
+        "link_names": [
+            "SportDigital AQ",
+            "Cosmote Sport ",
+            "ELEVEN SPORTS"
+        ],
+        "links": "pro/TGlnYVBvcnR1Z2FsQmV0Y2xpYy1TcG9ydGluZ0NQLXZzLUVzdG9yaWxQcmFpYQ.json",
+        "slug": "pro/TGlnYVBvcnR1Z2FsQmV0Y2xpYy1TcG9ydGluZ0NQLXZzLUVzdG9yaWxQcmFpYQ.json",
+        "links_id": "4235",
+        "stream_details": [
+            {
+                "name": "SportDigital AQ",
+                "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+                "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                "tokenApi": ""
+            },
+            {
+                "name": "Cosmote Sport ",
+                "link": "https://bbb.exoadash.com/TVD4077/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ELEVEN SPORTS",
+                "link": "https://bbb.exoadash.com/TVD6411/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Premier League",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "teamAName": "Manchester United",
+        "teamBName": "Crystal Palace",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "14:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "16:00:00",
+        "link_names": [
+            "NOVA PL ",
+            "Sky FHD",
+            "NOW FHD",
+            "ELEVEN AQ",
+            "NOW SPORTS",
+            "Sky Sport NZ",
+            "ESPN SD"
+        ],
+        "links": "pro/UHJlbWllckxlYWd1ZS1NYW5jaGVzdGVyVW5pdGVkLXZzLUNyeXN0YWxQYWxhY2U.json",
+        "slug": "pro/UHJlbWllckxlYWd1ZS1NYW5jaGVzdGVyVW5pdGVkLXZzLUNyeXN0YWxQYWxhY2U.json",
+        "links_id": "4311",
+        "stream_details": [
+            {
+                "name": "NOVA PL ",
+                "link": "https://bbb.exoadash.com/TVD6219/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky FHD",
+                "link": "https://grand-s-v001.faggotsports.tv/out/v1/e25132915cf1e67759051cac80b42275/mix-stream.m3u8|Referer=https://hmembeds.one/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NOW FHD",
+                "link": "https://601.lifesharper.com/now.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ELEVEN AQ",
+                "link": "https://bbb.exoadash.com/TVD6411/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NOW SPORTS",
+                "link": "https://lb.buzztip.site/p1/tracks-v1a1/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport NZ",
+                "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky8.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ESPN SD",
+                "link": "http://195.178.110.37/hls/HMMMQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Premier League",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "teamAName": "Brighton & Hove Albion",
+        "teamBName": "Nottingham Forest",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "14:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "16:00:00",
+        "link_names": [
+            "SKY SPORTS FHD",
+            "Sky Sport NZ",
+            "TFLIX HD",
+            "ESPN SD"
+        ],
+        "links": "pro/UHJlbWllckxlYWd1ZS1CcmlnaHRvbiZIb3ZlQWxiaW9uLXZzLU5vdHRpbmdoYW1Gb3Jlc3Q.json",
+        "slug": "pro/UHJlbWllckxlYWd1ZS1CcmlnaHRvbiZIb3ZlQWxiaW9uLXZzLU5vdHRpbmdoYW1Gb3Jlc3Q.json",
+        "links_id": "4309",
+        "stream_details": [
+            {
+                "name": "SKY SPORTS FHD",
+                "link": "https://601.serverbandel.sbs/brighton.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport NZ",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/skysport5_nz.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "TFLIX HD",
+                "link": "https://lb.buzztip.site/p2/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ESPN SD",
+                "link": "http://195.178.110.25/hls/HMMM.m3u8|Referer=http://www.fawanews.sc/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Premier League",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "teamAName": "Fulham",
+        "teamBName": "Tottenham Hotspur",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/43/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "14:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "16:00:00",
+        "link_names": [
+            "USA NETWORK FHD",
+            "Sky Sport NZ",
+            "ELEVEN",
+            "TFLIX HD",
+            "ESPN SD"
+        ],
+        "links": "pro/UHJlbWllckxlYWd1ZS1GdWxoYW0tdnMtVG90dGVuaGFtSG90c3B1cg.json",
+        "slug": "pro/UHJlbWllckxlYWd1ZS1GdWxoYW0tdnMtVG90dGVuaGFtSG90c3B1cg.json",
+        "links_id": "4310",
+        "stream_details": [
+            {
+                "name": "USA NETWORK FHD",
+                "link": "https://daffodil.serverbandel.sbs/usa.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Sport NZ",
+                "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/skysport4_nz.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ELEVEN",
+                "link": "https://bbb.exoadash.com/TVD6412/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "TFLIX HD",
+                "link": "https://lb.buzztip.site/p3/tracks-v1a1/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ESPN SD",
+                "link": "http://195.178.110.37/hls/HMMMQ.m3u8|Referer=http://www.fawanews.sc/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Bundesliga",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "teamAName": "Eintracht Frankfurt",
+        "teamBName": "SC Freiburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+        "date": "01/03/2026",
+        "time": "16:30:00",
+        "end_date": "01/03/2026",
+        "end_time": "18:30:00",
+        "link_names": [
+            "TFLIX SD"
+        ],
+        "links_id": "4313",
+        "links": "pro/QnVuZGVzbGlnYS1FaW50cmFjaHRGcmFua2Z1cnQtdnMtU0NGcmVpYnVyZw.json",
+        "slug": "pro/QnVuZGVzbGlnYS1FaW50cmFjaHRGcmFua2Z1cnQtdnMtU0NGcmVpYnVyZw.json",
+        "stream_details": [
+            {
+                "name": "TFLIX SD",
+                "link": "http://205.237.104.40/hls/HJHH.m3u8|Referer=http://www.fawanews.sc/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Bundesliga",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "teamAName": "Hamburger SV",
+        "teamBName": "RB Leipzig",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2676/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "18:30:00",
+        "end_date": "01/03/2026",
+        "end_time": "20:30:00",
+        "link_names": [
+            "ELEVEN SPORTS AQ",
+            "Sky Bundesliga",
+            "V Sport SD"
+        ],
+        "links": "pro/QnVuZGVzbGlnYS1IYW1idXJnZXJTVi12cy1SQkxlaXB6aWc.json",
+        "slug": "pro/QnVuZGVzbGlnYS1IYW1idXJnZXJTVi12cy1SQkxlaXB6aWc.json",
+        "links_id": "4314",
+        "stream_details": [
+            {
+                "name": "ELEVEN SPORTS AQ",
+                "link": "https://bbb.exoadash.com/TVD6412/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "Sky Bundesliga",
+                "link": "https://lb.buzztip.site/bu1/tracks-v1a1/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "V Sport SD",
+                "link": "http://205.237.104.40/hls/HJHH.m3u8|Referer=http://www.fawanews.sc/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Bundesliga",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "teamAName": "VfB Stuttgart",
+        "teamBName": "VfL Wolfsburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "14:30:00",
+        "end_date": "01/03/2026",
+        "end_time": "16:30:00",
+        "link_names": [
+            "ELEVEN SPORTS",
+            "TFLIX SD",
+            "beIN Sports"
+        ],
+        "links": "pro/QnVuZGVzbGlnYS1WZkJTdHV0dGdhcnQtdnMtVmZMV29sZnNidXJn.json",
+        "slug": "pro/QnVuZGVzbGlnYS1WZkJTdHV0dGdhcnQtdnMtVmZMV29sZnNidXJn.json",
+        "links_id": "4315",
+        "stream_details": [
+            {
+                "name": "ELEVEN SPORTS",
+                "link": "https://bbb.exoadash.com/TVD6414/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "TFLIX SD",
+                "link": "http://205.237.104.40/hls/HOOOQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports",
+                "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow07/index.mpd?hdntl=exp=1772457085~acl=%2f*~id=42901651~data=hdntl,fp%3d1~hmac=65903f34a59a0dc98b06e68d5203c40113c491015671d37735e226ae28b6db32&hdnts=st%3D1772284280%7Eexp%3D1772370980%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Dd3088010df38b90f7a6dd97673efd60803b08cb5197063f0aed761211cc8150f",
+                "api": "597b1d0fdddb383fd37febd057d3fd1c:a728d9c017f83e3e6e77b7d7c0231b22",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Ligue 1",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "teamAName": "Lorient",
+        "teamBName": "Auxerre",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1646/image",
+        "date": "01/03/2026",
+        "time": "16:15:00",
+        "end_date": "01/03/2026",
+        "end_time": "18:15:00",
+        "link_names": [
+            "TFLIX SD"
+        ],
+        "links_id": "4319",
+        "links": "pro/TGlndWUxLUxvcmllbnQtdnMtQXV4ZXJyZQ.json",
+        "slug": "pro/TGlndWUxLUxvcmllbnQtdnMtQXV4ZXJyZQ.json",
+        "stream_details": [
+            {
+                "name": "TFLIX SD",
+                "link": "http://205.237.104.40/hls/zooooqQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Ligue 1",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "teamAName": "Paris FC",
+        "teamBName": "Nice",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6070/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1661/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "14:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "16:00:00",
+        "link_names": [
+            "Ligue1+ AQ",
+            "beIN Sports",
+            "beIN HD"
+        ],
+        "links": "pro/TGlndWUxLVBhcmlzRkMtdnMtTmljZQ.json",
+        "slug": "pro/TGlndWUxLVBhcmlzRkMtdnMtTmljZQ.json",
+        "links_id": "4320",
+        "stream_details": [
+            {
+                "name": "Ligue1+ AQ",
+                "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN Sports",
+                "link": "https://lb.buzztip.site/l1/tracks-v1a1/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN HD",
+                "link": "https://daffodil.lifesharper.com/beines.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Ligue 1",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "teamAName": "Lille",
+        "teamBName": "Nantes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1643/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1647/image",
+        "date": "01/03/2026",
+        "time": "16:15:00",
+        "end_date": "01/03/2026",
+        "end_time": "18:20:00",
+        "link_names": [
+            "Ligue1+ AQ",
+            "ESPN SD"
+        ],
+        "links_id": "4321",
+        "links": "pro/TGlndWUxLUxpbGxlLXZzLU5hbnRlcw.json",
+        "slug": "pro/TGlndWUxLUxpbGxlLXZzLU5hbnRlcw.json",
+        "stream_details": [
+            {
+                "name": "Ligue1+ AQ",
+                "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ESPN SD",
+                "link": "http://205.237.104.40/hls/zooooqQQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Ligue 1",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "teamAName": "Olympique de Marseille",
+        "teamBName": "Olympique Lyonnais",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "19:45:00",
+        "end_date": "01/03/2026",
+        "end_time": "21:45:00",
+        "link_names": [
+            "Ligue1+ AQ"
+        ],
+        "links": "pro/TGlndWUxLU9seW1waXF1ZWRlTWFyc2VpbGxlLXZzLU9seW1waXF1ZUx5b25uYWlz.json",
+        "slug": "pro/TGlndWUxLU9seW1waXF1ZWRlTWFyc2VpbGxlLXZzLU9seW1waXF1ZUx5b25uYWlz.json",
+        "links_id": "4322",
+        "stream_details": [
+            {
+                "name": "Ligue1+ AQ",
+                "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Ligue 1",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "teamAName": "Metz",
+        "teamBName": "Stade Brestois",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1651/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1715/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "16:15:00",
+        "end_date": "01/03/2026",
+        "end_time": "18:15:00",
+        "link_names": [
+            "Ligue1+ AQ",
+            "ESPN SD"
+        ],
+        "links": "pro/TGlndWUxLU1ldHotdnMtU3RhZGVCcmVzdG9pcw.json",
+        "slug": "pro/TGlndWUxLU1ldHotdnMtU3RhZGVCcmVzdG9pcw.json",
+        "links_id": "4326",
+        "stream_details": [
+            {
+                "name": "Ligue1+ AQ",
+                "link": "https://bbb.exoadash.com/TVD2088/index.mpd",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "ESPN SD",
+                "link": "http://205.237.104.40/hls/zooooqQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Trendyol Süper Lig",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "teamAName": "Antalyaspor",
+        "teamBName": "Fenerbahçe",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3056/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3052/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "17:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "19:00:00",
+        "link_names": [
+            "beIN Sports"
+        ],
+        "links": "pro/VHJlbmR5b2xTw7xwZXJMaWctQW50YWx5YXNwb3ItdnMtRmVuZXJiYWjDp2U.json",
+        "slug": "pro/VHJlbmR5b2xTw7xwZXJMaWctQW50YWx5YXNwb3ItdnMtRmVuZXJiYWjDp2U.json",
+        "links_id": "4327",
+        "stream_details": [
+            {
+                "name": "beIN Sports",
+                "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Football",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+        "eventName": "Trendyol Süper Lig",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "teamAName": "Samsunspor",
+        "teamBName": "Gaziantep FK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3053/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5138/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "17:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "19:00:00",
+        "link_names": [
+            "TFLIX SD"
+        ],
+        "links": "pro/VHJlbmR5b2xTw7xwZXJMaWctU2Ftc3Vuc3Bvci12cy1HYXppYW50ZXBGSw.json",
+        "slug": "pro/VHJlbmR5b2xTw7xwZXJMaWctU2Ftc3Vuc3Bvci12cy1HYXppYW50ZXBGSw.json",
+        "links_id": "4332",
+        "stream_details": [
+            {
+                "name": "TFLIX SD",
+                "link": "http://205.237.104.40/hls/alllqq.m3u8|Referer=http://www.fawanews.sc/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Basketball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
+        "eventName": "NBA",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamAName": "New York Knicks",
+        "teamBName": "San Antonio Spurs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "18:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "20:30:00",
+        "link_names": [
+            "NBA FHD",
+            "NBA SD"
+        ],
+        "links": "pro/TkJBLU5ld1lvcmtLbmlja3MtdnMtU2FuQW50b25pb1NwdXJz.json",
+        "slug": "pro/TkJBLU5ld1lvcmtLbmlja3MtdnMtU2FuQW50b25pb1NwdXJz.json",
+        "links_id": "2277",
+        "stream_details": [
+            {
+                "name": "NBA FHD",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/WABCDT1/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Basketball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
+        "eventName": "NBA",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamAName": "Brooklyn Nets",
+        "teamBName": "Cleveland Cavaliers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "20:30:00",
+        "end_date": "01/03/2026",
+        "end_time": "23:00:00",
+        "link_names": [
+            "NBA FHD",
+            "NBA SD"
+        ],
+        "links": "pro/TkJBLUJyb29rbHluTmV0cy12cy1DbGV2ZWxhbmRDYXZhbGllcnM.json",
+        "slug": "pro/TkJBLUJyb29rbHluTmV0cy12cy1DbGV2ZWxhbmRDYXZhbGllcnM.json",
+        "links_id": "4335",
+        "stream_details": [
+            {
+                "name": "NBA FHD",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/NBA03/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Basketball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
+        "eventName": "NBA",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamAName": "Denver Nuggets",
+        "teamBName": "Minnesota Timberwolves",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "20:30:00",
+        "end_date": "01/03/2026",
+        "end_time": "23:00:00",
+        "link_names": [
+            "NBA FHD",
+            "NBA SD"
+        ],
+        "links": "pro/TkJBLURlbnZlck51Z2dldHMtdnMtTWlubmVzb3RhVGltYmVyd29sdmVz.json",
+        "slug": "pro/TkJBLURlbnZlck51Z2dldHMtdnMtTWlubmVzb3RhVGltYmVyd29sdmVz.json",
+        "links_id": "4336",
+        "stream_details": [
+            {
+                "name": "NBA FHD",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/WABCDT1/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Basketball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
+        "eventName": "NBA",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamAName": "Chicago Bulls",
+        "teamBName": "Milwaukee Bucks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "20:30:00",
+        "end_date": "01/03/2026",
+        "end_time": "23:00:00",
+        "link_names": [
+            "NBA FHD",
+            "NBA SD"
+        ],
+        "links": "pro/TkJBLUNoaWNhZ29CdWxscy12cy1NaWx3YXVrZWVCdWNrcw.json",
+        "slug": "pro/TkJBLUNoaWNhZ29CdWxscy12cy1NaWx3YXVrZWVCdWNrcw.json",
+        "links_id": "4337",
+        "stream_details": [
+            {
+                "name": "NBA FHD",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba3.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/NBA02/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Basketball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
+        "eventName": "NBA",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamAName": "Dallas Mavericks",
+        "teamBName": "Oklahoma City Thunder",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+        "priority": -1,
+        "date": "02/03/2026",
+        "time": "01:00:00",
+        "end_date": "02/03/2026",
+        "end_time": "03:30:00",
+        "link_names": [
+            "NBA FHD",
+            "NBA SD"
+        ],
+        "links": "pro/TkJBLURhbGxhc01hdmVyaWNrcy12cy1Pa2xhaG9tYUNpdHlUaHVuZGVy.json",
+        "slug": "pro/TkJBLURhbGxhc01hdmVyaWNrcy12cy1Pa2xhaG9tYUNpdHlUaHVuZGVy.json",
+        "links_id": "4338",
+        "stream_details": [
+            {
+                "name": "NBA FHD",
+                "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/nba9.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/NBA09/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Basketball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
+        "eventName": "NBA",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamAName": "Indiana Pacers",
+        "teamBName": "Memphis Grizzlies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "22:00:00",
+        "end_date": "02/03/2026",
+        "end_time": "00:30:00",
+        "link_names": [
+            "NBA FHD",
+            "NBA SD"
+        ],
+        "links": "pro/TkJBLUluZGlhbmFQYWNlcnMtdnMtTWVtcGhpc0dyaXp6bGllcw.json",
+        "slug": "pro/TkJBLUluZGlhbmFQYWNlcnMtdnMtTWVtcGhpc0dyaXp6bGllcw.json",
+        "links_id": "4339",
+        "stream_details": [
+            {
+                "name": "NBA FHD",
+                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nba5.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/NBA04/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Basketball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
+        "eventName": "NBA",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamAName": "Boston Celtics",
+        "teamBName": "Philadelphia 76ers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+        "priority": -1,
+        "date": "02/03/2026",
+        "time": "01:00:00",
+        "end_date": "02/03/2026",
+        "end_time": "03:30:00",
+        "link_names": [
+            "NBA FHD",
+            "NBA SD"
+        ],
+        "links": "pro/TkJBLUJvc3RvbkNlbHRpY3MtdnMtUGhpbGFkZWxwaGlhNzZlcnM.json",
+        "slug": "pro/TkJBLUJvc3RvbkNlbHRpY3MtdnMtUGhpbGFkZWxwaGlhNzZlcnM.json",
+        "links_id": "4340",
+        "stream_details": [
+            {
+                "name": "NBA FHD",
+                "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/nba8.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/NBA08/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Basketball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
+        "eventName": "NBA",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamAName": "Orlando Magic",
+        "teamBName": "Detroit Pistons",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "23:00:00",
+        "end_date": "02/03/2026",
+        "end_time": "01:30:00",
+        "link_names": [
+            "NBA FHD",
+            "NBA SD"
+        ],
+        "links": "pro/TkJBLU9ybGFuZG9NYWdpYy12cy1EZXRyb2l0UGlzdG9ucw.json",
+        "slug": "pro/TkJBLU9ybGFuZG9NYWdpYy12cy1EZXRyb2l0UGlzdG9ucw.json",
+        "links_id": "4341",
+        "stream_details": [
+            {
+                "name": "NBA FHD",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/NBA07/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Basketball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
+        "eventName": "NBA",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamAName": "Atlanta Hawks",
+        "teamBName": "Portland Trail Blazers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "23:00:00",
+        "end_date": "02/03/2026",
+        "end_time": "01:30:00",
+        "link_names": [
+            "NBA FHD",
+            "NBA SD"
+        ],
+        "links": "pro/TkJBLUF0bGFudGFIYXdrcy12cy1Qb3J0bGFuZFRyYWlsQmxhemVycw.json",
+        "slug": "pro/TkJBLUF0bGFudGFIYXdrcy12cy1Qb3J0bGFuZFRyYWlsQmxhemVycw.json",
+        "links_id": "4342",
+        "stream_details": [
+            {
+                "name": "NBA FHD",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba6.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/NBA06/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Basketball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
+        "eventName": "NBA",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamAName": "Los Angeles Lakers",
+        "teamBName": "Sacramento Kings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3413/image",
+        "priority": -1,
+        "date": "02/03/2026",
+        "time": "02:30:00",
+        "end_date": "02/03/2026",
+        "end_time": "05:00:00",
+        "link_names": [
+            "NBA FHD",
+            "NBA FHD 2",
+            "NBA SD"
+        ],
+        "links": "pro/TkJBLUxvc0FuZ2VsZXNMYWtlcnMtdnMtU2FjcmFtZW50b0tpbmdz.json",
+        "slug": "pro/TkJBLUxvc0FuZ2VsZXNMYWtlcnMtdnMtU2FjcmFtZW50b0tpbmdz.json",
+        "links_id": "4343",
+        "stream_details": [
+            {
+                "name": "NBA FHD",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba4.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA FHD 2",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba11.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/NBA11/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Basketball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
+        "eventName": "NBA",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "teamAName": "Los Angeles Clippers",
+        "teamBName": "New Orleans Pelicans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+        "priority": -1,
+        "date": "02/03/2026",
+        "time": "02:00:00",
+        "end_date": "02/03/2026",
+        "end_time": "04:30:00",
+        "link_names": [
+            "NBA FHD",
+            "NBA SD"
+        ],
+        "links": "pro/TkJBLUxvc0FuZ2VsZXNDbGlwcGVycy12cy1OZXdPcmxlYW5zUGVsaWNhbnM.json",
+        "slug": "pro/TkJBLUxvc0FuZ2VsZXNDbGlwcGVycy12cy1OZXdPcmxlYW5zUGVsaWNhbnM.json",
+        "links_id": "4344",
+        "stream_details": [
+            {
+                "name": "NBA FHD",
+                "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/nba5.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NBA SD",
+                "link": "http://origin.thetvapp.to/hls/NBA10/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Ice hockey",
+        "categoryLogo": "no",
+        "eventName": "NHL",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamAName": "New York Islanders",
+        "teamBName": "Florida Panthers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "23:30:00",
+        "end_date": "02/03/2026",
+        "end_time": "01:30:00",
+        "link_names": [
+            "NHL HD",
+            "NHL FHD",
+            "NHL SD"
+        ],
+        "links": "pro/TkhMLU5ld1lvcmtJc2xhbmRlcnMtdnMtRmxvcmlkYVBhbnRoZXJz.json",
+        "slug": "pro/TkhMLU5ld1lvcmtJc2xhbmRlcnMtdnMtRmxvcmlkYVBhbnRoZXJz.json",
+        "links_id": "4345",
+        "stream_details": [
+            {
+                "name": "NHL HD",
+                "link": "http://watcharena.xyz/hls/172.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL FHD",
+                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl5.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL SD",
+                "link": "http://origin.thetvapp.to/hls/ESPN/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Ice hockey",
+        "categoryLogo": "no",
+        "eventName": "NHL",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamAName": "Anaheim Ducks",
+        "teamBName": "Calgary Flames",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+        "priority": -1,
+        "date": "02/03/2026",
+        "time": "01:00:00",
+        "end_date": "02/03/2026",
+        "end_time": "03:00:00",
+        "link_names": [
+            "NHL HD",
+            "NHL FHD",
+            "NHL SD"
+        ],
+        "links": "pro/TkhMLUFuYWhlaW1EdWNrcy12cy1DYWxnYXJ5RmxhbWVz.json",
+        "slug": "pro/TkhMLUFuYWhlaW1EdWNrcy12cy1DYWxnYXJ5RmxhbWVz.json",
+        "links_id": "4346",
+        "stream_details": [
+            {
+                "name": "NHL HD",
+                "link": "http://watcharena.xyz/hls/90.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL FHD",
+                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl6.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL SD",
+                "link": "http://origin.thetvapp.to/hls/NHL20/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Ice hockey",
+        "categoryLogo": "no",
+        "eventName": "NHL",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamAName": "Utah Mammoth",
+        "teamBName": "Chicago Blackhawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "21:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "23:00:00",
+        "link_names": [
+            "NHL HD",
+            "NHL FHD",
+            "NHL SD"
+        ],
+        "links": "pro/TkhMLVV0YWhNYW1tb3RoLXZzLUNoaWNhZ29CbGFja2hhd2tz.json",
+        "slug": "pro/TkhMLVV0YWhNYW1tb3RoLXZzLUNoaWNhZ29CbGFja2hhd2tz.json",
+        "links_id": "4347",
+        "stream_details": [
+            {
+                "name": "NHL HD",
+                "link": "http://watcharena.xyz/hls/89.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL FHD",
+                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl2.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL SD",
+                "link": "http://origin.thetvapp.to/hls/NHL03/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Ice hockey",
+        "categoryLogo": "no",
+        "eventName": "NHL",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamAName": "Minnesota Wild",
+        "teamBName": "St. Louis Blues",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "22:00:00",
+        "end_date": "02/03/2026",
+        "end_time": "00:00:00",
+        "link_names": [
+            "NHL HD",
+            "NHL FHD",
+            "NHL SD"
+        ],
+        "links": "pro/TkhMLU1pbm5lc290YVdpbGQtdnMtU3QuTG91aXNCbHVlcw.json",
+        "slug": "pro/TkhMLU1pbm5lc290YVdpbGQtdnMtU3QuTG91aXNCbHVlcw.json",
+        "links_id": "4348",
+        "stream_details": [
+            {
+                "name": "NHL HD",
+                "link": "http://watcharena.xyz/hls/105.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL FHD",
+                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl4.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL SD",
+                "link": "http://origin.thetvapp.to/hls/NHL06/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Ice hockey",
+        "categoryLogo": "no",
+        "eventName": "NHL",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamAName": "Pittsburgh Penguins",
+        "teamBName": "Vegas Golden Knights",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "18:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "20:20:00",
+        "link_names": [
+            "NHL HD",
+            "NHL SD"
+        ],
+        "links": "pro/TkhMLVBpdHRzYnVyZ2hQZW5ndWlucy12cy1WZWdhc0dvbGRlbktuaWdodHM.json",
+        "slug": "pro/TkhMLVBpdHRzYnVyZ2hQZW5ndWlucy12cy1WZWdhc0dvbGRlbktuaWdodHM.json",
+        "links_id": "4349",
+        "stream_details": [
+            {
+                "name": "NHL HD",
+                "link": "http://watcharena.xyz/hls/99.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL SD",
+                "link": "http://origin.thetvapp.to/hls/TNTEast/mono.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Ice hockey",
+        "categoryLogo": "no",
+        "eventName": "NHL",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "teamAName": "San Jose Sharks",
+        "teamBName": "Winnipeg Jets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "21:00:00",
+        "end_date": "02/03/2026",
+        "end_time": "00:00:00",
+        "link_names": [
+            "NHL HD",
+            "NHL FHD",
+            "NHL SD"
+        ],
+        "links": "pro/TkhMLVNhbkpvc2VTaGFya3MtdnMtV2lubmlwZWdKZXRz.json",
+        "slug": "pro/TkhMLVNhbkpvc2VTaGFya3MtdnMtV2lubmlwZWdKZXRz.json",
+        "links_id": "4350",
+        "stream_details": [
+            {
+                "name": "NHL HD",
+                "link": "http://watcharena.xyz/hls/103.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL FHD",
+                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl3.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL SD",
+                "link": "http://origin.thetvapp.to/hls/NHL04/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "New York Mets",
+        "teamBName": "Houston Astros",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "18:10:00",
+        "end_date": "01/03/2026",
+        "end_time": "20:10:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1OZXdZb3JrTWV0cy12cy1Ib3VzdG9uQXN0cm9z.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1OZXdZb3JrTWV0cy12cy1Ib3VzdG9uQXN0cm9z.json",
+        "links_id": "4351",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/109.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB06/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "Philadelphia Phillies",
+        "teamBName": "New York Yankees",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "18:05:00",
+        "end_date": "01/03/2026",
+        "end_time": "20:05:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1QaGlsYWRlbHBoaWFQaGlsbGllcy12cy1OZXdZb3JrWWFua2Vlcw.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1QaGlsYWRlbHBoaWFQaGlsbGllcy12cy1OZXdZb3JrWWFua2Vlcw.json",
+        "links_id": "4352",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/114.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB05/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "Minnesota Twins",
+        "teamBName": "Atlanta Braves",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "18:05:00",
+        "end_date": "01/03/2026",
+        "end_time": "20:05:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1NaW5uZXNvdGFUd2lucy12cy1BdGxhbnRhQnJhdmVz.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1NaW5uZXNvdGFUd2lucy12cy1BdGxhbnRhQnJhdmVz.json",
+        "links_id": "4353",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/121.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB04/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "St. Louis Cardinals",
+        "teamBName": "Pittsburgh Pirates",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "18:05:00",
+        "end_date": "01/03/2026",
+        "end_time": "20:10:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1TdC5Mb3Vpc0NhcmRpbmFscy12cy1QaXR0c2J1cmdoUGlyYXRlcw.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1TdC5Mb3Vpc0NhcmRpbmFscy12cy1QaXR0c2J1cmdoUGlyYXRlcw.json",
+        "links_id": "4354",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/132.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB36/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "Boston Red Sox",
+        "teamBName": "Baltimore Orioles",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "18:05:00",
+        "end_date": "01/03/2026",
+        "end_time": "20:10:00",
+        "link_names": [
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1Cb3N0b25SZWRTb3gtdnMtQmFsdGltb3JlT3Jpb2xlcw.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1Cb3N0b25SZWRTb3gtdnMtQmFsdGltb3JlT3Jpb2xlcw.json",
+        "links_id": "4355",
+        "stream_details": [
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB02/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "Detroit Tigers",
+        "teamBName": "Toronto Blue Jays",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "18:05:00",
+        "end_date": "01/03/2026",
+        "end_time": "20:05:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1EZXRyb2l0VGlnZXJzLXZzLVRvcm9udG9CbHVlSmF5cw.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1EZXRyb2l0VGlnZXJzLXZzLVRvcm9udG9CbHVlSmF5cw.json",
+        "links_id": "4356",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/122.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB03/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "Washington Nationals",
+        "teamBName": "Miami Marlins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "18:05:00",
+        "end_date": "01/03/2026",
+        "end_time": "20:05:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1XYXNoaW5ndG9uTmF0aW9uYWxzLXZzLU1pYW1pTWFybGlucw.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1XYXNoaW5ndG9uTmF0aW9uYWxzLXZzLU1pYW1pTWFybGlucw.json",
+        "links_id": "4357",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/112.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB20/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "Cleveland Guardians",
+        "teamBName": "Colorado Rockies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "20:05:00",
+        "end_date": "28/02/2026",
+        "end_time": "22:10:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1DbGV2ZWxhbmRHdWFyZGlhbnMtdnMtQ29sb3JhZG9Sb2NraWVz.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1DbGV2ZWxhbmRHdWFyZGlhbnMtdnMtQ29sb3JhZG9Sb2NraWVz.json",
+        "links_id": "4363",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/108.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB07/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "Seattle Mariners",
+        "teamBName": "Texas Rangers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "20:10:00",
+        "end_date": "01/03/2026",
+        "end_time": "22:10:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1TZWF0dGxlTWFyaW5lcnMtdnMtVGV4YXNSYW5nZXJz.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1TZWF0dGxlTWFyaW5lcnMtdnMtVGV4YXNSYW5nZXJz.json",
+        "links_id": "4358",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/110.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB11/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "Los Angeles Dodgers",
+        "teamBName": "Los Angeles Angels",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "20:05:00",
+        "end_date": "01/03/2026",
+        "end_time": "22:10:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1Mb3NBbmdlbGVzRG9kZ2Vycy12cy1Mb3NBbmdlbGVzQW5nZWxz.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1Mb3NBbmdlbGVzRG9kZ2Vycy12cy1Mb3NBbmdlbGVzQW5nZWxz.json",
+        "links_id": "4359",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/133.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB08/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "Kansas City Royals",
+        "teamBName": "Milwaukee Brewers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "20:05:00",
+        "end_date": "01/03/2026",
+        "end_time": "22:05:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1LYW5zYXNDaXR5Um95YWxzLXZzLU1pbHdhdWtlZUJyZXdlcnM.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1LYW5zYXNDaXR5Um95YWxzLXZzLU1pbHdhdWtlZUJyZXdlcnM.json",
+        "links_id": "4360",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/117.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB21/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "San Francisco Giants",
+        "teamBName": "San Diego Padres",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "20:05:00",
+        "end_date": "01/03/2026",
+        "end_time": "22:05:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1TYW5GcmFuY2lzY29HaWFudHMtdnMtU2FuRGllZ29QYWRyZXM.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1TYW5GcmFuY2lzY29HaWFudHMtdnMtU2FuRGllZ29QYWRyZXM.json",
+        "links_id": "4362",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/107.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB09/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "Arizona Diamondbacks",
+        "teamBName": "Cleveland Guardians",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "20:10:00",
+        "end_date": "01/03/2026",
+        "end_time": "22:10:00",
+        "link_names": [
+            "MLB HD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1Bcml6b25hRGlhbW9uZGJhY2tzLXZzLUNsZXZlbGFuZEd1YXJkaWFucw.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1Bcml6b25hRGlhbW9uZGJhY2tzLXZzLUNsZXZlbGFuZEd1YXJkaWFucw.json",
+        "links_id": "4365",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/134.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "Chicago Cubs",
+        "teamBName": "Chicago White Sox",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "20:05:00",
+        "end_date": "01/03/2026",
+        "end_time": "22:05:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1DaGljYWdvQ3Vicy12cy1DaGljYWdvV2hpdGVTb3g.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1DaGljYWdvQ3Vicy12cy1DaGljYWdvV2hpdGVTb3g.json",
+        "links_id": "4364",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/131.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB10/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "category": "Baseball",
+        "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/baseballl.png",
+        "eventName": "MLB, Preseason",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11527/image/dark",
+        "teamAName": "Athletics",
+        "teamBName": "Cincinnati Reds",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+        "priority": -1,
+        "date": "01/03/2026",
+        "time": "20:05:00",
+        "end_date": "01/03/2026",
+        "end_time": "22:05:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1BdGhsZXRpY3MtdnMtQ2luY2lubmF0aVJlZHM.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1BdGhsZXRpY3MtdnMtQ2luY2lubmF0aVJlZHM.json",
+        "links_id": "4361",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/128.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB33/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
+    }
+]

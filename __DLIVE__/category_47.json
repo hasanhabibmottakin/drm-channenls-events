@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "Indonesia Movie",
+        "logo": "#",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/Ukie4321/Playlistindo.m3u/refs/heads/main/playlist_film_indonesia.m3u"
+    }
+]

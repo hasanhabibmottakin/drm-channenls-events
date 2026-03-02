@@ -1,0 +1,9 @@
+[
+    {
+        "visible": false,
+        "name": "FANCODE EVENT WW",
+        "logo": "https://github.com/xmrt624/logo/blob/main/sports/fancode.png?raw=true",
+        "type": "m3u",
+        "api": "https://github.com/abid58b/FanCodePlaylist/raw/refs/heads/main/fancode_ww2.m3u"
+    }
+]
