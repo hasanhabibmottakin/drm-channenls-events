@@ -1021,6 +1021,7 @@
     },
     {
         "visible": true,
+        "priority": -1,
         "category": "Basketball",
         "categoryLogo": "https://sportzfy.com/wp-content/uploads/2025/03/basketball.png",
         "eventName": "NBA",
@@ -1031,7 +1032,20 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
         "date": "03/03/2026",
         "time": "03:00:00",
-        "links": "pro/TkJBLUdvbGRlblN0YXRlV2FycmlvcnMtdnMtTG9zQW5nZWxlc0NsaXBwZXJz.json"
+        "end_date": "03/03/2026",
+        "end_time": "05:30:00",
+        "link_names": [
+            "Link 1"
+        ],
+        "links_id": "4374",
+        "links": "pro/TkJBLUdvbGRlblN0YXRlV2FycmlvcnMtdnMtTG9zQW5nZWxlc0NsaXBwZXJz.json",
+        "slug": "pro/TkJBLUdvbGRlblN0YXRlV2FycmlvcnMtdnMtTG9zQW5nZWxlc0NsaXBwZXJz.json",
+        "stream_details": [
+            {
+                "name": "Link 1",
+                "link": "https://no.link"
+            }
+        ]
     },
     {
         "visible": true,
@@ -1085,9 +1099,32 @@
         "teamBName": "Cleveland Guardians",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+        "priority": -1,
         "date": "02/03/2026",
         "time": "20:05:00",
-        "links": "pro/TUxCLFByZXNlYXNvbi1UZXhhc1JhbmdlcnMtdnMtQ2xldmVsYW5kR3VhcmRpYW5z.json"
+        "end_date": "02/03/2026",
+        "end_time": "22:10:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1UZXhhc1JhbmdlcnMtdnMtQ2xldmVsYW5kR3VhcmRpYW5z.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1UZXhhc1JhbmdlcnMtdnMtQ2xldmVsYW5kR3VhcmRpYW5z.json",
+        "links_id": "4378",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/175.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB11/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1099,9 +1136,32 @@
         "teamBName": "Chicago Cubs",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+        "priority": -1,
         "date": "02/03/2026",
         "time": "20:05:00",
-        "links": "pro/TUxCLFByZXNlYXNvbi1DaW5jaW5uYXRpUmVkcy12cy1DaGljYWdvQ3Vicw.json"
+        "end_date": "02/03/2026",
+        "end_time": "22:10:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1DaW5jaW5uYXRpUmVkcy12cy1DaGljYWdvQ3Vicw.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1DaW5jaW5uYXRpUmVkcy12cy1DaGljYWdvQ3Vicw.json",
+        "links_id": "4379",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/116.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB33/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1113,9 +1173,32 @@
         "teamBName": "Washington Nationals",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+        "priority": -1,
         "date": "02/03/2026",
         "time": "18:05:00",
-        "links": "pro/TUxCLFByZXNlYXNvbi1Ib3VzdG9uQXN0cm9zLXZzLVdhc2hpbmd0b25OYXRpb25hbHM.json"
+        "end_date": "02/03/2026",
+        "end_time": "20:10:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1Ib3VzdG9uQXN0cm9zLXZzLVdhc2hpbmd0b25OYXRpb25hbHM.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1Ib3VzdG9uQXN0cm9zLXZzLVdhc2hpbmd0b25OYXRpb25hbHM.json",
+        "links_id": "4380",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/127.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB06/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1127,9 +1210,32 @@
         "teamBName": "Athletics",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+        "priority": -1,
         "date": "02/03/2026",
         "time": "20:10:00",
-        "links": "pro/TUxCLFByZXNlYXNvbi1TYW5EaWVnb1BhZHJlcy12cy1BdGhsZXRpY3M.json"
+        "end_date": "02/03/2026",
+        "end_time": "22:10:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1TYW5EaWVnb1BhZHJlcy12cy1BdGhsZXRpY3M.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1TYW5EaWVnb1BhZHJlcy12cy1BdGhsZXRpY3M.json",
+        "links_id": "4381",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/126.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB09/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1141,9 +1247,32 @@
         "teamBName": "San Francisco Giants",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+        "priority": -1,
         "date": "02/03/2026",
         "time": "20:05:00",
-        "links": "pro/TUxCLFByZXNlYXNvbi1DaGljYWdvV2hpdGVTb3gtdnMtU2FuRnJhbmNpc2NvR2lhbnRz.json"
+        "end_date": "02/03/2026",
+        "end_time": "22:10:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1DaGljYWdvV2hpdGVTb3gtdnMtU2FuRnJhbmNpc2NvR2lhbnRz.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1DaGljYWdvV2hpdGVTb3gtdnMtU2FuRnJhbmNpc2NvR2lhbnRz.json",
+        "links_id": "4382",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/123.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB10/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1155,9 +1284,32 @@
         "teamBName": "Atlanta Braves",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+        "priority": -1,
         "date": "02/03/2026",
         "time": "18:05:00",
-        "links": "pro/TUxCLFByZXNlYXNvbi1EZXRyb2l0VGlnZXJzLXZzLUF0bGFudGFCcmF2ZXM.json"
+        "end_date": "02/03/2026",
+        "end_time": "20:10:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1EZXRyb2l0VGlnZXJzLXZzLUF0bGFudGFCcmF2ZXM.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1EZXRyb2l0VGlnZXJzLXZzLUF0bGFudGFCcmF2ZXM.json",
+        "links_id": "4383",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/122.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB03/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1169,9 +1321,32 @@
         "teamBName": "Miami Marlins",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+        "priority": -1,
         "date": "02/03/2026",
         "time": "18:05:00",
-        "links": "pro/TUxCLFByZXNlYXNvbi1TdC5Mb3Vpc0NhcmRpbmFscy12cy1NaWFtaU1hcmxpbnM.json"
+        "end_date": "02/03/2026",
+        "end_time": "20:10:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1TdC5Mb3Vpc0NhcmRpbmFscy12cy1NaWFtaU1hcmxpbnM.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1TdC5Mb3Vpc0NhcmRpbmFscy12cy1NaWFtaU1hcmxpbnM.json",
+        "links_id": "4384",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/132.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB20/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1183,9 +1358,32 @@
         "teamBName": "Boston Red Sox",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+        "priority": -1,
         "date": "02/03/2026",
         "time": "18:07:00",
-        "links": "pro/TUxCLFByZXNlYXNvbi1Ub3JvbnRvQmx1ZUpheXMtdnMtQm9zdG9uUmVkU294.json"
+        "end_date": "02/03/2026",
+        "end_time": "20:15:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1Ub3JvbnRvQmx1ZUpheXMtdnMtQm9zdG9uUmVkU294.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1Ub3JvbnRvQmx1ZUpheXMtdnMtQm9zdG9uUmVkU294.json",
+        "links_id": "4385",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/125.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB02/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1197,9 +1395,32 @@
         "teamBName": "Kansas City Royals",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+        "priority": -1,
         "date": "02/03/2026",
         "time": "20:10:00",
-        "links": "pro/TUxCLFByZXNlYXNvbi1Mb3NBbmdlbGVzQW5nZWxzLXZzLUthbnNhc0NpdHlSb3lhbHM.json"
+        "end_date": "02/03/2026",
+        "end_time": "22:15:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1Mb3NBbmdlbGVzQW5nZWxzLXZzLUthbnNhc0NpdHlSb3lhbHM.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1Mb3NBbmdlbGVzQW5nZWxzLXZzLUthbnNhc0NpdHlSb3lhbHM.json",
+        "links_id": "4386",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/106.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB08/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1211,9 +1432,32 @@
         "teamBName": "Los Angeles Dodgers",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+        "priority": -1,
         "date": "02/03/2026",
         "time": "20:10:00",
-        "links": "pro/TUxCLFByZXNlYXNvbi1Db2xvcmFkb1JvY2tpZXMtdnMtTG9zQW5nZWxlc0RvZGdlcnM.json"
+        "end_date": "02/03/2026",
+        "end_time": "22:15:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1Db2xvcmFkb1JvY2tpZXMtdnMtTG9zQW5nZWxlc0RvZGdlcnM.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1Db2xvcmFkb1JvY2tpZXMtdnMtTG9zQW5nZWxlc0RvZGdlcnM.json",
+        "links_id": "4387",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/119.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB07/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1225,9 +1469,32 @@
         "teamBName": "Tampa Bay Rays",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+        "priority": -1,
         "date": "02/03/2026",
         "time": "18:05:00",
-        "links": "pro/TUxCLFByZXNlYXNvbi1QaXR0c2J1cmdoUGlyYXRlcy12cy1UYW1wYUJheVJheXM.json"
+        "end_date": "02/03/2026",
+        "end_time": "20:10:00",
+        "link_names": [
+            "MLB HD",
+            "MLB SD"
+        ],
+        "links": "pro/TUxCLFByZXNlYXNvbi1QaXR0c2J1cmdoUGlyYXRlcy12cy1UYW1wYUJheVJheXM.json",
+        "slug": "pro/TUxCLFByZXNlYXNvbi1QaXR0c2J1cmdoUGlyYXRlcy12cy1UYW1wYUJheVJheXM.json",
+        "links_id": "4388",
+        "stream_details": [
+            {
+                "name": "MLB HD",
+                "link": "http://watcharena.xyz/hls/new/113.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "MLB SD",
+                "link": "http://origin.thetvapp.to/hls/MLB36/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1239,9 +1506,39 @@
         "teamBName": "Philadelphia Flyers",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+        "priority": -1,
         "date": "03/03/2026",
         "time": "00:30:00",
-        "links": "pro/TkhMLVRvcm9udG9NYXBsZUxlYWZzLXZzLVBoaWxhZGVscGhpYUZseWVycw.json"
+        "end_date": "03/03/2026",
+        "end_time": "02:45:00",
+        "link_names": [
+            "NHL HD",
+            "NHL FHD",
+            "NHL SD"
+        ],
+        "links": "pro/TkhMLVRvcm9udG9NYXBsZUxlYWZzLXZzLVBoaWxhZGVscGhpYUZseWVycw.json",
+        "slug": "pro/TkhMLVRvcm9udG9NYXBsZUxlYWZzLXZzLVBoaWxhZGVscGhpYUZseWVycw.json",
+        "links_id": "4389",
+        "stream_details": [
+            {
+                "name": "NHL HD",
+                "link": "http://watcharena.xyz/hls/167.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL FHD",
+                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl3.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL SD",
+                "link": "http://origin.thetvapp.to/hls/NHL04/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1253,9 +1550,39 @@
         "teamBName": "Carolina Hurricanes",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+        "priority": -1,
         "date": "03/03/2026",
         "time": "03:00:00",
-        "links": "pro/TkhMLVNlYXR0bGVLcmFrZW4tdnMtQ2Fyb2xpbmFIdXJyaWNhbmVz.json"
+        "end_date": "03/03/2026",
+        "end_time": "05:10:00",
+        "link_names": [
+            "NHL HD",
+            "NHL FHD",
+            "NHL SD"
+        ],
+        "links": "pro/TkhMLVNlYXR0bGVLcmFrZW4tdnMtQ2Fyb2xpbmFIdXJyaWNhbmVz.json",
+        "slug": "pro/TkhMLVNlYXR0bGVLcmFrZW4tdnMtQ2Fyb2xpbmFIdXJyaWNhbmVz.json",
+        "links_id": "4390",
+        "stream_details": [
+            {
+                "name": "NHL HD",
+                "link": "http://watcharena.xyz/hls/97.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL FHD",
+                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl5.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL SD",
+                "link": "http://origin.thetvapp.to/hls/NHL06/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1267,9 +1594,39 @@
         "teamBName": "Columbus Blue Jackets",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+        "priority": -1,
         "date": "03/03/2026",
         "time": "00:00:00",
-        "links": "pro/TkhMLU5ld1lvcmtSYW5nZXJzLXZzLUNvbHVtYnVzQmx1ZUphY2tldHM.json"
+        "end_date": "03/03/2026",
+        "end_time": "02:15:00",
+        "link_names": [
+            "NHL HD",
+            "NHL FHD",
+            "NHL SD"
+        ],
+        "links": "pro/TkhMLU5ld1lvcmtSYW5nZXJzLXZzLUNvbHVtYnVzQmx1ZUphY2tldHM.json",
+        "slug": "pro/TkhMLU5ld1lvcmtSYW5nZXJzLXZzLUNvbHVtYnVzQmx1ZUphY2tldHM.json",
+        "links_id": "4391",
+        "stream_details": [
+            {
+                "name": "NHL HD",
+                "link": "http://watcharena.xyz/hls/175.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL FHD",
+                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl2.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL SD",
+                "link": "http://origin.thetvapp.to/hls/NHL08/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1281,9 +1638,39 @@
         "teamBName": "Dallas Stars",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+        "priority": -1,
         "date": "03/03/2026",
         "time": "03:00:00",
-        "links": "pro/TkhMLVZhbmNvdXZlckNhbnVja3MtdnMtRGFsbGFzU3RhcnM.json"
+        "end_date": "03/03/2026",
+        "end_time": "05:15:00",
+        "link_names": [
+            "NHL HD",
+            "NHL FHD",
+            "NHL SD"
+        ],
+        "links": "pro/TkhMLVZhbmNvdXZlckNhbnVja3MtdnMtRGFsbGFzU3RhcnM.json",
+        "slug": "pro/TkhMLVZhbmNvdXZlckNhbnVja3MtdnMtRGFsbGFzU3RhcnM.json",
+        "links_id": "4392",
+        "stream_details": [
+            {
+                "name": "NHL HD",
+                "link": "http://watcharena.xyz/hls/88.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL FHD",
+                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl4.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL SD",
+                "link": "http://origin.thetvapp.to/hls/NHL07/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1295,9 +1682,39 @@
         "teamBName": "Colorado Avalanche",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+        "priority": -1,
         "date": "03/03/2026",
         "time": "03:30:00",
-        "links": "pro/TkhMLUxvc0FuZ2VsZXNLaW5ncy12cy1Db2xvcmFkb0F2YWxhbmNoZQ.json"
+        "end_date": "03/03/2026",
+        "end_time": "05:45:00",
+        "link_names": [
+            "NHL HD",
+            "NHL FHD",
+            "NHL SD"
+        ],
+        "links": "pro/TkhMLUxvc0FuZ2VsZXNLaW5ncy12cy1Db2xvcmFkb0F2YWxhbmNoZQ.json",
+        "slug": "pro/TkhMLUxvc0FuZ2VsZXNLaW5ncy12cy1Db2xvcmFkb0F2YWxhbmNoZQ.json",
+        "links_id": "4393",
+        "stream_details": [
+            {
+                "name": "NHL HD",
+                "link": "http://watcharena.xyz/hls/95.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL FHD",
+                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl6.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL SD",
+                "link": "http://origin.thetvapp.to/hls/NHL10/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     },
     {
         "visible": true,
@@ -1309,8 +1726,38 @@
         "teamBName": "Detroit Red Wings",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+        "priority": -1,
         "date": "02/03/2026",
         "time": "19:00:00",
-        "links": "pro/TkhMLU5hc2h2aWxsZVByZWRhdG9ycy12cy1EZXRyb2l0UmVkV2luZ3M.json"
+        "end_date": "02/03/2026",
+        "end_time": "21:15:00",
+        "link_names": [
+            "NHL HD",
+            "NHL FHD",
+            "NHL SD"
+        ],
+        "links": "pro/TkhMLU5hc2h2aWxsZVByZWRhdG9ycy12cy1EZXRyb2l0UmVkV2luZ3M.json",
+        "slug": "pro/TkhMLU5hc2h2aWxsZVByZWRhdG9ycy12cy1EZXRyb2l0UmVkV2luZ3M.json",
+        "links_id": "4394",
+        "stream_details": [
+            {
+                "name": "NHL HD",
+                "link": "http://watcharena.xyz/hls/100.m3u8|Referer=http://volokit.xyz",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL FHD",
+                "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/nhl.m3u8|Referer=https://roxiestreams.info/",
+                "api": "",
+                "tokenApi": ""
+            },
+            {
+                "name": "NHL SD",
+                "link": "http://origin.thetvapp.to/hls/NHL02/mono.m3u8",
+                "api": "",
+                "tokenApi": ""
+            }
+        ]
     }
 ]
