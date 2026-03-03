@@ -59,7 +59,16 @@
                 "name": "test",
                 "link": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alinsen",
                 "api": "",
-                "tokenApi": "{\"url\":\"https://www.elahmad.com/tv/mobiletv/glarb.php?id=alinsen\",\"api\":\"https://www.elahmad.com/tv/mobiletv/glarb.php?id=alinsen\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"9HY(#b1q6\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+                "tokenApi": {
+                    "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alinsen",
+                    "api": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alinsen",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "9HY(#b1q6",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
             }
         ]
     },
