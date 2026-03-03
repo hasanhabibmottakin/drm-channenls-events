@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "TV Pass",
-        "logo": "#",
-        "type": "m3u",
-        "api": "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.m3u8"
+        "name": "HBO Channels",
+        "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968611.png",
+        "type": "custom",
+        "api": "channels/HBO-Channels.json"
     }
 ]

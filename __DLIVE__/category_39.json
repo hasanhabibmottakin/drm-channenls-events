@@ -1,9 +1,9 @@
 [
     {
         "visible": false,
-        "name": "39",
-        "logo": "F",
+        "name": "JIO+ S2",
+        "logo": "https://i.ibb.co/mJPC40y/Jiotv.jpg",
         "type": "m3u",
-        "api": "D"
+        "api": "https://zioplus.saqlainhaider8198.workers.dev/skstar.m3u"
     }
 ]

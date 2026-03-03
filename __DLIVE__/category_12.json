@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "SonyLiv Event WW",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png",
+        "name": "BANGLADESH",
+        "logo": "https://cdn-icons-png.flaticon.com/512/7826/7826304.png",
         "type": "m3u",
-        "api": "https://github.com/abid58b/SonyLivPlayList/raw/refs/heads/main/sonyliv-ww.m3u"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=a82b3259436a"
     }
 ]

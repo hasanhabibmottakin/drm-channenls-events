@@ -1,9 +1,9 @@
 [
     {
-        "visible": false,
-        "name": "Sports",
-        "logo": "#",
-        "type": "custom",
-        "api": "channels/Sports.json"
+        "visible": true,
+        "name": ".LIVE EVENTS",
+        "logo": "https://raw.githubusercontent.com/StreamGoLive/api/refs/heads/main/crichdevents.png",
+        "type": "m3u",
+        "api": "https://sportsbd.top/demo/liveevents.php"
     }
 ]

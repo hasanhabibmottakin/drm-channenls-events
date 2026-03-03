@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "Combo IPTV",
-        "logo": "#",
-        "type": "m3u",
-        "api": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u"
+        "name": ".SPORTS",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxznEjEnKh2y9QVzGUKAjmG_zpKV1ZDFB6gr71oLyDzU9hT7u36LZ9Fs&s=10",
+        "type": "custom",
+        "api": "channels/ashaottsports.json"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "Toffee BD",
-        "logo": "https://yt3.googleusercontent.com/q0CJuxOL2f7Duy3hiM3uKArC_Zvji24XVGNfcf2TMqXMxTW6RO3R3tqwH2XAxbcz5TG-d2p6=s900-c-k-c0x00ffffff-no-rj",
+        "name": "BDIX LIVE",
+        "logo": "https://www.yellownetbd.com/wp-content/uploads/2015/01/BDIX.jpg",
         "type": "m3u",
-        "api": "https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_NS_Player.m3u"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=25feb0d3bbaa"
     }
 ]

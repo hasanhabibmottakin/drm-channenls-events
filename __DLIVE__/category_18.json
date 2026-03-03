@@ -1,9 +1,9 @@
 [
     {
-        "visible": false,
-        "name": "Jio - WW",
-        "logo": "https://cdn.brandfetch.io/id6G3nI3KU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1750851429838",
+        "visible": true,
+        "name": "DANGAL",
+        "logo": "https://upload.wikimedia.org/wikipedia/hi/5/5e/Dangaltv.png",
         "type": "m3u",
-        "api": "https://topstream.space/Jiotv.m3u"
+        "api": "https://3ty8.short.gy/udpf_dangalplus.m3u"
     }
 ]

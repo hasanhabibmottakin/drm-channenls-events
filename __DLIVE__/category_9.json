@@ -1,9 +1,9 @@
 [
     {
-        "visible": false,
-        "name": "FSTV",
-        "logo": "https://topstream.space/fstv/files/logo_fstv.png",
+        "visible": true,
+        "name": "ARABIC",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zIH8S2e0LOayUaiChkdpXc_TiMHu0DpSgQ&usqp=CAU",
         "type": "m3u",
-        "api": "https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/FSTV24.m3u8"
+        "api": "https://iptv-org.github.io/iptv/languages/ara.m3u"
     }
 ]

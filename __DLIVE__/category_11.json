@@ -1,9 +1,9 @@
 [
     {
-        "visible": false,
-        "name": "FANCODE EVENT WW",
-        "logo": "https://github.com/xmrt624/logo/blob/main/sports/fancode.png?raw=true",
+        "visible": true,
+        "name": "AZERBAIJAN",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Roundel_of_Azerbaijan.svg/1200px-Roundel_of_Azerbaijan.svg.png",
         "type": "m3u",
-        "api": "https://github.com/abid58b/FanCodePlaylist/raw/refs/heads/main/fancode_ww2.m3u"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=88b1c3bd791e"
     }
 ]

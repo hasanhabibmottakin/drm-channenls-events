@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "Prime USA",
+        "logo": "https://m.media-amazon.com/images/I/31W9hs7w0JL.png",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/amzusa.m3u"
+    }
+]

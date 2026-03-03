@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "TUBI",
-        "logo": "https://cdn.brandfetch.io/idJuMIXs2z/w/800/h/800/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1750715962629",
+        "name": "JIO HOTSTAR",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz74Tj3aFUVwyX_KmZJLMVwoyVYaLOJOIYHPJZmJE5qQ&s=10",
         "type": "m3u",
-        "api": "https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/tubi_all.m3u"
+        "api": "https://raw.githubusercontent.com/alpha4528/m3u/refs/heads/main/jstar.m3u"
     }
 ]

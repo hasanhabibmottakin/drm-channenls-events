@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "PLEX Tv",
+        "logo": "https://play-lh.googleusercontent.com/F39M_Ce9OBW62qntNOq6jvUH3Nh0N-03eGNFFU14GAU-hCU0RlHBONYYBiS-0SY0kaY",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/Plex-All.m3u"
+    }
+]

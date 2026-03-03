@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "ROKU",
-        "logo": "https://i.pinimg.com/564x/32/b2/9c/32b29c51b752088d736ef626ee38ff26.jpg",
+        "name": "INDONESIA",
+        "logo": "https://img.freepik.com/premium-vector/made-indonesia-flag-vector-logo-icons-trusts-badge_526569-1046.jpg",
         "type": "m3u",
-        "api": "https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/roku_all.m3u"
+        "api": "https://dolanteram.xyz/playlist/global/app/playlist.m3u?id=244e95cd0164"
     }
 ]

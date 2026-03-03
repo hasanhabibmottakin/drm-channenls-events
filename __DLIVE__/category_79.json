@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "SOFAST",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcAWwoNH4Ng5VcC2M1Xfa69pXdI05BwZpMAhrMMicGonAtl1ZM3TFRA&s=10",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/SOFAST.m3u"
+    }
+]
