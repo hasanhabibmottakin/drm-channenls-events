@@ -9,7 +9,6 @@ os.makedirs(FOLDER_NAME, exist_ok=True)
 MAIN_API_URL = os.environ.get("MAIN_API_URL")
 DECODE_API_URL = os.environ.get("DECODE_API_URL")
 STREAM_BASE_URL = os.environ.get("STREAM_BASE_URL")
-
 SECOND_API_URL = os.environ.get("SECOND_API_URL")
 SECOND_STREAM_BASE = os.environ.get("SECOND_STREAM_BASE")
 
@@ -26,7 +25,6 @@ if not SECOND_STREAM_BASE.endswith('/'):
 def fetch_and_decode_stream(slug, identifier, base_url):
     stream_url = slug if slug.startswith("http") else f"{base_url}{slug}"
     print(f"    -> Fetching stream info for: {identifier}...")
-    
     try:
         res = requests.get(stream_url, timeout=15)
         res.raise_for_status()
@@ -34,7 +32,7 @@ def fetch_and_decode_stream(slug, identifier, base_url):
         
         encoded_links = stream_data.get("links", "")
         if not encoded_links:
-            return None
+            return stream_data 
             
         clean_links = encoded_links.replace('\n', '').replace('\r', '').strip()
         safe_url_param = urllib.parse.quote(clean_links)
@@ -50,7 +48,6 @@ def fetch_and_decode_stream(slug, identifier, base_url):
 
 def process_and_merge_events(encoded_str_list, base_url):
     all_merged_events = []
-    
     try:
         if isinstance(encoded_str_list, str):
             cleaned_str = encoded_str_list.replace('\n', '').replace('\r', '')
@@ -76,12 +73,17 @@ def process_and_merge_events(encoded_str_list, base_url):
             if isinstance(decoded_events, list):
                 for event_obj in decoded_events:
                     slug = event_obj.get("slug")
+                    if not slug:
+                        possible_links = event_obj.get("links")
+                        if isinstance(possible_links, str):
+                            slug = possible_links
+                            
                     links_id = event_obj.get("links_id")
                     
                     if slug and links_id:
                         stream_data = fetch_and_decode_stream(slug, links_id, base_url)
                         if stream_data:
-                            event_obj["stream_details"] = stream_data
+                            event_obj["stream_url"] = stream_data
                     all_merged_events.append(event_obj)
                         
         except Exception as e:
@@ -127,7 +129,7 @@ def process_and_merge_sports(sports_slug, base_url):
                     if slug:
                         stream_data = fetch_and_decode_stream(slug, channel_name, base_url)
                         if stream_data:
-                            channel_obj["stream_details"] = stream_data
+                            channel_obj["stream_url"] = stream_data
                     all_merged_sports.append(channel_obj)
             
         return all_merged_sports
