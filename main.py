@@ -40,7 +40,20 @@ def fetch_and_decode_stream(slug, identifier, base_url):
         
         dec_res = requests.get(decode_api, timeout=15)
         dec_res.raise_for_status()
-        return dec_res.json()
+        
+        decoded_data = dec_res.json()
+        
+        if isinstance(decoded_data, list):
+            for stream in decoded_data:
+                if isinstance(stream, dict):
+                    for key, value in stream.items():
+                        if isinstance(value, str) and value.strip().startswith('{') and value.strip().endswith('}'):
+                            try:
+                                stream[key] = json.loads(value)
+                            except Exception:
+                                pass
+                                
+        return decoded_data
         
     except Exception as e:
         print(f"Error for stream {identifier}: {e}")
