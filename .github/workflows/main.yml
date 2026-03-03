@@ -33,6 +33,8 @@ jobs:
           MAIN_API_URL: ${{ secrets.MAIN_API_URL }}
           DECODE_API_URL: ${{ secrets.DECODE_API_URL }}
           STREAM_BASE_URL: ${{ secrets.STREAM_BASE_URL }}
+          SECOND_API_URL: ${{ secrets.SECOND_API_URL }}
+          SECOND_STREAM_BASE: ${{ secrets.SECOND_STREAM_BASE }}
         run: python main.py
 
       - name: Commit and Push generated JSON files
