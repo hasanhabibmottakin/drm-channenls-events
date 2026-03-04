@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "MOVIES S1",
-        "logo": "https://cdn-icons-png.flaticon.com/512/11327/11327060.png",
-        "type": "m3u",
-        "api": "https://github.com/live-iptv/m3u_validator/raw/refs/heads/main/movies_m3u.m3u"
-    }
-]

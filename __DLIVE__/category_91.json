@@ -1,9 +1,0 @@
-[
-    {
-        "visible": false,
-        "name": "SuperSports",
-        "logo": "https://i.ibb.co/nfx7RLg/reduced-20240206-115716.jpg",
-        "type": "custom",
-        "api": "channels/supersport.json"
-    }
-]

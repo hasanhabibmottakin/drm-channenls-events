@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": ".CRIC-EVENTS",
-        "logo": "https://raw.githubusercontent.com/StreamGoLive/api/refs/heads/main/crichdevents.png",
-        "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=2c8ff0eba3e4"
-    }
-]
