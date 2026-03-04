@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "HBO Channels",
+        "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968611.png",
+        "type": "custom",
+        "api": "channels/HBO-Channels.json"
+    }
+]

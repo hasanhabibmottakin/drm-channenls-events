@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "FC Live",
+        "logo": "https://i.ibb.co/pjBZPBSK/fclive.jpg",
+        "type": "m3u",
+        "api": "https://jabra-fan2.saqlainhaider8198.workers.dev/playlist.m3u"
+    }
+]

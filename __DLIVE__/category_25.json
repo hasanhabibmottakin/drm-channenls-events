@@ -1,0 +1,9 @@
+[
+    {
+        "visible": false,
+        "name": "FC Live BD",
+        "logo": "https://i.ibb.co/pjBZPBSK/fclive.jpg",
+        "type": "m3u",
+        "api": "https://ranapk-me-awcu.spidy.online/FCP/playlist.php|User-Agent=Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0"
+    }
+]

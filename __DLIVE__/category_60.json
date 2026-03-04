@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "PALESTINE-TV",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp4G-aiydTvhpcpLPJlF7J_Iim8Zo5xIawTg&s",
+        "type": "m3u",
+        "api": "https://streamgolive.github.io/api/PalestineTV.m3u"
+    }
+]

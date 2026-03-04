@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "SANDBRIX",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlHrP8SfkTOatGkP95mA6nDsOpJHyBqqyDQ&s",
+        "type": "m3u",
+        "api": "https://github.com/abid58b/SandBrixPlaylist/raw/refs/heads/main/sandbrix.m3u"
+    }
+]

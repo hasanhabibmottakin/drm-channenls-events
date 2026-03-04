@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "StarHot Live",
+        "logo": "https://i.ibb.co/vcgVfT2/IMG-20250111-091243.jpg",
+        "type": "m3u",
+        "api": "https://floral-brook-249f.saqlainhaider8198.workers.dev/hs_events"
+    }
+]

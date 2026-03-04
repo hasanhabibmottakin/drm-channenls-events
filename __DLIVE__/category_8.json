@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "ALGERIA",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_YsLWlgecPRK8g8C1YDnaGLz2X-ug32q6GQ&s",
+        "type": "m3u",
+        "api": "https://iptv-org.github.io/iptv/countries/dz.m3u"
+    }
+]
