@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "RUN",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgD_jfEEMUgPVKwggOOAu5I1G6VveZOLd8VWS0X7uVoe4MBUfOwqwnKNQY-Rj9chTqeMc&usqp=CAU",
-        "type": "m3u",
-        "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/runn.m3u"
-    }
-]

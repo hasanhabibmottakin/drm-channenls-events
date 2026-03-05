@@ -1,9 +1,0 @@
-[
-    {
-        "visible": false,
-        "name": "TheTvApp",
-        "logo": "https://play-lh.googleusercontent.com/TnMTftZjXIURmsbYogpkSVKKfZXF4MqmrgF3_PIU9wwKY8kcUj5UfTwTSPRnVoovGHE",
-        "type": "m3u",
-        "api": "https://tvpass.org/playlist/m3u"
-    }
-]

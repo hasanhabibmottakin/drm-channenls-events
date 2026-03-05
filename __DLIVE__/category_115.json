@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "ZONGTV",
-        "logo": "https://play-lh.googleusercontent.com/oQCiWK10q-GcSoHMHxnQ95X7qI2ucXyjZZtMOrQl6qPdJEcuIuGv_W3Nhkb507_T1TqF=w240-h480-rw",
-        "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=5b145afee099"
-    }
-]

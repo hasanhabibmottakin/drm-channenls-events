@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "Discovery",
-        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEEE9PjvLlJAA/company-logo_200_200/company-logo_200_200/0/1630617516037/discovery_channel_logo?e=2147483647&v=beta&t=oSRbhwepLeuKotOAju-ZB3ccb3GO0duxbKh3BbtbMRw",
-        "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=805b86c3333d"
-    }
-]
