@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "WAVES OTT",
+        "logo": "https://play-lh.googleusercontent.com/vJU6A0cUbsHcEzF_Ach6NsF281DjcseRahBf6KPj7a_keiSowNFGkw2hoLeFX5NtlYAf",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/waves.m3u"
+    }
+]

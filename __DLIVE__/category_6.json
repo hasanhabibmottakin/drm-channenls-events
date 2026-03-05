@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "AFGHANISTAN",
+        "logo": "https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Afghanistan_-_Circle-512.png",
+        "type": "m3u",
+        "api": "https://iptv-org.github.io/iptv/countries/af.m3u"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "TAMIL",
+        "logo": "https://i.ibb.co.com/bjjFwLhy/IMG-20260129-152124.jpg",
+        "type": "m3u",
+        "api": "https://m3u.8088y.fun/testing.m3u|User-Agent=TiViMate/4.7 (Linux,Android)"
+    }
+]

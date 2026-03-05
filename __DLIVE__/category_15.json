@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "Brazil Sports",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LwyhiJsHtoelPSuzuJPU9PFHXXe4ZJ-6zg&s",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/ryandntv/lista-m3u-brazil/refs/heads/main/m3u"
+    }
+]

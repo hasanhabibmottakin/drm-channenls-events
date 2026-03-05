@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "FC Live IN",
+        "logo": "https://i.ibb.co/pjBZPBSK/fclive.jpg",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/Jitendra-unatti/fancode/refs/heads/main/data/fancode.m3u"
+    }
+]

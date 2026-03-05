@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "beIN Sports",
+        "logo": "https://i.ibb.co/KpfrWnt3/Beinspo.png",
+        "type": "custom",
+        "api": "channels/beIN-Sports.json"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "SLiv Live [S2]",
+        "logo": "https://i.ibb.co/bQDzYmD/IMG-20250106-014737.jpg",
+        "type": "m3u",
+        "api": "https://sportsbd.top/playlist/sonyliv.php"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "ZENGATV",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/be/ZengaTVLogo.jpg",
+        "type": "m3u",
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=049bbd75b1ec"
+    }
+]

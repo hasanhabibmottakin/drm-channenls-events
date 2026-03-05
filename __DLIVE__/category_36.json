@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "JIO BD",
+        "logo": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jio-logo-icon.png",
+        "type": "m3u",
+        "api": "https://ranapk.short.gy/JIOBD.m3u"
+    }
+]

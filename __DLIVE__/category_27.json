@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "FC Live G",
+        "logo": "https://i.ibb.co/pjBZPBSK/fclive.jpg",
+        "type": "custom",
+        "api": "channels/Fancode.json"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "LG Channel",
+        "logo": "https://i.ibb.co/mVLY7JMS/download-6.png",
+        "type": "m3u",
+        "api": "https://www.apsattv.com/lg.m3u"
+    }
+]

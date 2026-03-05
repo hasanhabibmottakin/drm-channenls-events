@@ -1,0 +1,9 @@
+[
+    {
+        "visible": true,
+        "name": "K-DRAMA",
+        "logo": "https://i.pinimg.com/736x/97/fc/67/97fc67423ba3c91d3587cbe30c1e0b90.jpg",
+        "type": "m3u",
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=3f4c1078c431"
+    }
+]
