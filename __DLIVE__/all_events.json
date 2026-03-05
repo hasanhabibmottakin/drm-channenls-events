@@ -244,6 +244,7 @@
         "end_time": "04:00:00",
         "link_names": [
             "FOX SPORTS PREMIUM",
+            "TSN SPORTS",
             "BACKUP SD SERVER",
             "STREAMEAST HD"
         ],
@@ -480,5 +481,957 @@
                 "tokenApi": ""
             }
         ]
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Cricket",
+        "categoryLogo": "https://ashaott.github.io/ico/crickeettt.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+        "eventName": "ICC T20 World Cup",
+        "teamAName": "IND",
+        "teamBName": "ENG",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "date": "05/03/2026",
+        "time": "13:30:00",
+        "end_date": "05/03/2026",
+        "end_time": "18:00:00",
+        "link_names": [
+            "PRIME VIDEO",
+            "WILLOW Ad Free",
+            "PTV SPORTS AQ",
+            "WILLOW FHD 2",
+            "WILLOW HD",
+            "JIO HOTSTAR",
+            "WILLOW SD",
+            "SKYSPORTS HD",
+            "PTV SPORTS SD",
+            "WILLOW LQ",
+            "PRIME - USE VPN IN PAK",
+            "STAR HINDI",
+            "Star Sport HIN",
+            "GEO SUPER PK",
+            "STAR ENGLISH 🇮🇳",
+            "STAR HINDI 🇮🇳",
+            "STAR TAMIL 🇮🇳",
+            "STAR TELEGU 🇮🇳",
+            "STAR KANNADA 🇮🇳",
+            "PRIME HINDI"
+        ],
+        "links_id": "483",
+        "links": "pro/ICC-T20-World-Cup-IND-vs-ENG.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Cricket",
+        "categoryLogo": "https://ashaott.github.io/ico/crickeettt.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "eventName": "One Day International",
+        "teamAName": "BAN",
+        "teamBName": "PAK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "date": "11/03/2026",
+        "time": "08:15:00",
+        "end_date": "11/03/2026",
+        "end_time": "",
+        "link_names": false,
+        "links_id": false,
+        "links": "pro/One-Day-International-BAN-vs-PAK.json"
+    },
+    {
+        "visible": false,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Cricket",
+        "categoryLogo": "https://ashaott.github.io/ico/crickeettt.png",
+        "eventLogo": "https://i.ibb.co/pvt9ZqMj/f4ca1fcbae03889e77b831f672f47e02-cricket-wicket-semi-flat.png",
+        "eventName": "Pakistan A vs England A in UAE",
+        "teamAName": "PAK-A",
+        "teamBName": "ENG-A",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187808/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "date": "04/03/2026",
+        "time": "05:30:00",
+        "end_date": "04/03/2026",
+        "end_time": "14:30:00",
+        "link_names": [
+            "FANCODE FHD",
+            "FANCODE SD",
+            "SD SERVER"
+        ],
+        "links_id": "295",
+        "links": "pro/Pakistan-A-vs-England-A-in-UAE-PAK-A-vs-ENG-A.json",
+        "stream_url": [
+            {
+                "name": "FANCODE FHD",
+                "link": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "FANCODE SD",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+                "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "SD SERVER",
+                "link": "http://c1.frsports.info/PAKvsENG/index.m3u8",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": false,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Others",
+        "categoryLogo": "",
+        "eventLogo": "https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png",
+        "eventName": "Olympic - Milano Cortina 2026",
+        "teamAName": "Olympic",
+        "teamBName": "Olympic",
+        "teamAFlag": "https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png",
+        "teamBFlag": "https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png",
+        "date": "19/02/2026",
+        "time": "07:00:00",
+        "end_date": "19/02/2026",
+        "end_time": "15:00:00",
+        "link_names": [
+            "LIVE - Olympics",
+            "NBC SPORTS",
+            "Eurosport 1 FHD",
+            "Eurosport 2 FHD",
+            "TNT SPORTS 2",
+            "TNT SPORTS 4"
+        ],
+        "links_id": "110",
+        "links": "pro/Olympic---Milano-Cortina-2026-Olympic-vs-Olympic.json",
+        "stream_url": [
+            {
+                "name": "LIVE - Olympics",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/olympics.m3u8",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "NBC SPORTS",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nbc.m3u8",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "Eurosport 1 FHD",
+                "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "Eurosport 2 FHD",
+                "link": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
+                "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "TNT SPORTS 2",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/olympics.m3u8",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "TNT SPORTS 4",
+                "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt4.m3u8",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Boxing",
+        "categoryLogo": "https://ashaott.github.io/ico/boxingg.png",
+        "eventLogo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
+        "eventName": "Monday Night RAW",
+        "teamAName": "WWE RAW",
+        "teamBName": "WWE RAW",
+        "teamAFlag": "https://i.ibb.co/Vc5CtxMg/20250317-175451.jpg",
+        "teamBFlag": "https://i.ibb.co/Vc5CtxMg/20250317-175451.jpg",
+        "date": "10/03/2026",
+        "time": "01:00:00",
+        "end_date": "10/03/2026",
+        "end_time": "04:00:00",
+        "link_names": [
+            "SD STREAM",
+            "TAP SPORT LQ"
+        ],
+        "links_id": "152",
+        "links": "pro/Monday-Night-RAW-WWE-RAW-vs-WWE-RAW.json",
+        "stream_url": [
+            {
+                "name": "SD STREAM",
+                "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "TAP SPORT LQ",
+                "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+                "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+                "scheme": 0,
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Boxing",
+        "categoryLogo": "https://ashaott.github.io/ico/boxingg.png",
+        "eventLogo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
+        "eventName": "WWE NXT",
+        "teamAName": "WWE NXT",
+        "teamBName": "WWE NXT",
+        "teamAFlag": "https://i.ibb.co/zVyjbpBj/1000010088.jpg",
+        "teamBFlag": "https://i.ibb.co/zVyjbpBj/1000010088.jpg",
+        "date": "04/03/2026",
+        "time": "01:00:00",
+        "end_date": "04/03/2026",
+        "end_time": "04:00:00",
+        "link_names": [
+            "HD SERVER",
+            "SD STREAM",
+            "TAP SPORTS - LQ"
+        ],
+        "links_id": "153",
+        "links": "pro/WWE-NXT-WWE-NXT-vs-WWE-NXT.json",
+        "stream_url": [
+            {
+                "name": "SD STREAM",
+                "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "TAP SPORTS - LQ",
+                "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+                "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+                "scheme": 0,
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Boxing",
+        "categoryLogo": "https://ashaott.github.io/ico/boxingg.png",
+        "eventLogo": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
+        "eventName": "Friday Night SmackDown",
+        "teamAName": "SmackDown",
+        "teamBName": "SmackDown",
+        "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
+        "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
+        "date": "28/02/2026",
+        "time": "01:00:00",
+        "end_date": "28/02/2026",
+        "end_time": "04:00:00",
+        "link_names": [
+            "SD SERVER",
+            "BACKUP HD",
+            "USA TV - USA VPN"
+        ],
+        "links_id": "296",
+        "links": "pro/Friday-Night-SmackDown-SmackDown-vs-SmackDown.json",
+        "stream_url": [
+            {
+                "name": "SD SERVER",
+                "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "BACKUP HD",
+                "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "USA TV - USA VPN",
+                "link": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
+                "api": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
+                "scheme": 0,
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Boxing",
+        "categoryLogo": "https://ashaott.github.io/ico/boxingg.png",
+        "eventLogo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdajzlBlOsuc53TbzZcRVCvLSVU4mbPD9FYrbk2Ks6gYvW4iFvgmMGKru2yhc1xluSoTL7JsQzKm3dIu-0Ht_0nGoZT-1S_25daCAmNjmoo2qDr0oDvBKgyDyeMZ5UQ-x1Z75-bGGKTzIqgpJnM4yBZlFw8NvVSJfdTybX6leTbUVsNecx1Nik_jrtgsc/s1600/1000026291.png",
+        "eventName": "UFC Fight Night Main Card",
+        "teamAName": "B. Moreno",
+        "teamBName": "L. Kavanagh",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/461508/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/461393/image",
+        "date": "28/02/2026",
+        "time": "22:00:00",
+        "end_date": "28/02/2026",
+        "end_time": "04:00:00",
+        "link_names": [
+            "TNT SPORTS",
+            "UFC+ - AQ",
+            "FHD SERVER",
+            "LIVE HD SERVER",
+            "HD SERVER",
+            "FAST SERVER"
+        ],
+        "links_id": "402",
+        "links": "pro/UFC-Fight-Night-Main-Card-B.-Moreno-vs-L.-Kavanagh.json",
+        "stream_url": [
+            {
+                "name": "TNT SPORTS",
+                "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+                "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "UFC+ - AQ",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd",
+                "api": "a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47",
+                "tokenApi": "",
+                "scheme": 0
+            },
+            {
+                "name": "FHD SERVER",
+                "link": "https://cdn1.zafiles.cfd/live/cdn1/playlist.m3u8",
+                "api": "",
+                "tokenApi": "",
+                "scheme": 0
+            },
+            {
+                "name": "LIVE HD SERVER",
+                "link": "https://mainstreams.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+                "api": "",
+                "tokenApi": "",
+                "scheme": 0
+            },
+            {
+                "name": "HD SERVER",
+                "link": "https://instreams.pro/US/NFLHD1/index.m3u8?st=SportzX?|Referer=https://instreams.click/&Origin=https://instreams.click",
+                "api": "",
+                "tokenApi": "",
+                "scheme": 0
+            },
+            {
+                "name": "FAST SERVER",
+                "link": "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
+                "api": "",
+                "tokenApi": "",
+                "scheme": 0
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Boxing",
+        "categoryLogo": "https://ashaott.github.io/ico/boxingg.png",
+        "eventLogo": "https://iili.io/FDjaT1R.md.png",
+        "eventName": "One Friday Fights",
+        "teamAName": "Friday Fights",
+        "teamBName": "Friday Fights",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZy5U9YaV9luR9Nrc4skwpHgwYeSvqcRkiFBlXRJaVog&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZy5U9YaV9luR9Nrc4skwpHgwYeSvqcRkiFBlXRJaVog&s=10",
+        "date": "06/03/2026",
+        "time": "12:30:00",
+        "end_date": "06/03/2026",
+        "end_time": "17:00:00",
+        "link_names": [
+            "ONE FIGHT - AQ",
+            "FHD SERVER 2",
+            "FHD SERVER 3"
+        ],
+        "links_id": "484",
+        "links": "pro/One-Friday-Fights-Friday-Fights-vs-Friday-Fights.json",
+        "stream_url": [
+            {
+                "name": "ONE FIGHT - AQ",
+                "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+                "api": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "FHD SERVER 2",
+                "link": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+                "api": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
+                "tokenApi": "",
+                "scheme": 0
+            },
+            {
+                "name": "FHD SERVER 3",
+                "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+                "api": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
+                "tokenApi": "",
+                "scheme": 0
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "MotoSports",
+        "categoryLogo": "",
+        "eventLogo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
+        "eventName": "MotoGP",
+        "teamAName": "MotoGP",
+        "teamBName": "MotoGP",
+        "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
+        "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
+        "date": "01/03/2026",
+        "time": "05:40:00",
+        "end_date": "01/03/2026",
+        "end_time": "16:00:00",
+        "link_names": [
+            "FANCODE FHD",
+            "SPO TV - AQ"
+        ],
+        "links_id": "485",
+        "links": "pro/MotoGP-MotoGP-vs-MotoGP.json",
+        "stream_url": [
+            {
+                "name": "Server 1",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+                "api": "6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441",
+                "tokenApi": ""
+            },
+            {
+                "name": "Server 2",
+                "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "MotoSports",
+        "categoryLogo": "",
+        "eventLogo": "https://cdn-icons-png.flaticon.com/512/2418/2418779.png",
+        "eventName": "Formula 1",
+        "teamAName": "Formula 1",
+        "teamBName": "Formula 1",
+        "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
+        "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
+        "date": "06/03/2026",
+        "time": "01:30:00",
+        "end_date": "06/03/2026",
+        "end_time": "",
+        "link_names": [
+            "FANCODE FHD",
+            "beIN SPORTS FHD",
+            "SKY SPORT F1 FHD",
+            "SKY SPORTS F1 AQ",
+            "SKY SPORTS F1 HD",
+            "SKY SPORTS F1 SD"
+        ],
+        "links_id": "197",
+        "links": "pro/Formula-1-Formula-1-vs-Formula-1.json",
+        "stream_url": [
+            {
+                "name": "FANCODE FHD",
+                "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "beIN SPORTS FHD",
+                "link": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd",
+                "api": "d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "SKY SPORT F1 FHD",
+                "link": "https://bbb.exoadash.com/TVD201/index.mpd",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "SKY SPORTS F1 AQ",
+                "link": "https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=cRTSQR0_aAkgSRFZx-X5PQ&e=2071398907&scheme=https",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "SKY SPORTS F1 HD",
+                "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/f1.m3u8",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "SKY SPORTS F1 SD",
+                "link": "https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Boxing",
+        "categoryLogo": "https://ashaott.github.io/ico/boxingg.png",
+        "eventLogo": "https://www.wwe.com/f/styles/wwe_show_logo_med/public/2025/11/Unknown.png",
+        "eventName": "WWE Elimination Chamber",
+        "teamAName": "WWE",
+        "teamBName": "WWE",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKx8JqR28IlsEdJWXKXBbDOjDC3Qj42szSOeEQI67RUQ&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKx8JqR28IlsEdJWXKXBbDOjDC3Qj42szSOeEQI67RUQ&s=10",
+        "date": "01/03/2026",
+        "time": "00:00:00",
+        "end_date": "01/03/2026",
+        "end_time": "04:00:00",
+        "link_names": [
+            "Link 1",
+            "Link 2",
+            "Link 3",
+            "Link 4",
+            "Link 5"
+        ],
+        "links_id": "-1",
+        "links": "pro/WWE-Elimination-Chamber-WWE-vs-WWE.json",
+        "stream_url": [
+            {
+                "name": "Link 1",
+                "link": "https://red2.pulselyra.shop/playlist/46031/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net/",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "Link 2",
+                "link": "https://grand-s-v001.faggotsports.tv/out/v1/79a4b5e4a9cbfb432c087f4b0e036247/mix-stream.m3u8|Referer=https://hmembeds.one/",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "Link 3",
+                "link": "https://cdn12.trrfiles.cfd/live/cdn12/chunks.m3u8",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "Link 4",
+                "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            },
+            {
+                "name": "Link 5",
+                "link": "https://mainstreams.pro/hls/hbfhzbfzak46.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+                "api": "",
+                "scheme": 0,
+                "tokenApi": ""
+            }
+        ]
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+        "eventName": "Indian Super League",
+        "teamAName": "East Bengal",
+        "teamBName": "Goa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/40655/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174594/image",
+        "date": "05/03/2026",
+        "time": "11:30:00",
+        "end_date": "05/03/2026",
+        "end_time": "13:50:00",
+        "link_names": [
+            "FANCODE FHD",
+            "FANCODE SD"
+        ],
+        "links_id": "730",
+        "links": "pro/Indian-Super-League-East-Bengal-vs-Goa.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+        "eventName": "Türkiye Kupası",
+        "teamAName": "Bodrum",
+        "teamBName": "Iğdır",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/202390/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/388264/image",
+        "date": "05/03/2026",
+        "time": "17:30:00",
+        "end_date": "05/03/2026",
+        "end_time": "19:40:00",
+        "link_names": [
+            "LQ",
+            "AQ",
+            "FAST SERVER"
+        ],
+        "links_id": "733",
+        "links": "pro/Türkiye-Kupası-Bodrum-vs-Iğdır.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "eventName": "Premier League",
+        "teamAName": "Tottenham",
+        "teamBName": "Crystal Palace",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
+        "date": "05/03/2026",
+        "time": "20:00:00",
+        "end_date": "05/03/2026",
+        "end_time": "23:00:00",
+        "link_names": [
+            "TNT SPORTS",
+            "NOW SPORTS PL",
+            "NBC UNIVERSO"
+        ],
+        "links_id": "734",
+        "links": "pro/Premier-League-Tottenham-vs-Crystal-Palace.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
+        "eventName": "Coupe de France",
+        "teamAName": "Lyon",
+        "teamBName": "Lens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+        "date": "05/03/2026",
+        "time": "20:10:00",
+        "end_date": "05/03/2026",
+        "end_time": "23:00:00",
+        "link_names": [
+            "beIN ENGLISH",
+            "FOX DEPORTES"
+        ],
+        "links_id": "735",
+        "links": "pro/Coupe-de-France-Lyon-vs-Lens.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "eventName": "AFC Champions League Two",
+        "teamAName": "Bangkok Utd",
+        "teamBName": "Tampines Rovers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/85741/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3043/image",
+        "date": "05/03/2026",
+        "time": "12:15:00",
+        "end_date": "05/03/2026",
+        "end_time": "14:30:00",
+        "link_names": [
+            "SD SERVER"
+        ],
+        "links_id": "736",
+        "links": "pro/AFC-Champions-League-Two-Bangkok-Utd-vs-Tampines-Rovers.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+        "eventName": "Türkiye Kupası",
+        "teamAName": "Aliağa",
+        "teamBName": "Gençlerbirliği",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/485443/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7802/image",
+        "date": "05/03/2026",
+        "time": "17:30:00",
+        "end_date": "05/03/2026",
+        "end_time": "19:40:00",
+        "link_names": [
+            "BACKUP SERVER",
+            "SERVER AQ",
+            "LQ SERVER "
+        ],
+        "links_id": "737",
+        "links": "pro/Türkiye-Kupası-Aliağa-vs-Gençlerbirliği.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+        "eventName": "Türkiye Kupası",
+        "teamAName": "Eyüpspor",
+        "teamBName": "Konyaspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3085/image",
+        "date": "05/03/2026",
+        "time": "17:30:00",
+        "end_date": "05/03/2026",
+        "end_time": "19:40:00",
+        "link_names": [
+            "FAST SERVER",
+            "BACKUP ",
+            "LQ"
+        ],
+        "links_id": "738",
+        "links": "pro/Türkiye-Kupası-Eyüpspor-vs-Konyaspor.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1692/image/dark",
+        "eventName": "AFC Women's Asian Cup",
+        "teamAName": "Bangladesh",
+        "teamBName": "North Korea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/214194/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7421/image",
+        "date": "06/03/2026",
+        "time": "02:00:00",
+        "end_date": "06/03/2026",
+        "end_time": "04:20:00",
+        "link_names": [
+            "FANCODE FHD",
+            "FANCODE SD"
+        ],
+        "links_id": "739",
+        "links": "pro/AFC-Women's-Asian-Cup-Bangladesh-vs-North-Korea.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "eventName": "Saudi Pro League",
+        "teamAName": "Al-Kholood",
+        "teamBName": "Al-Qadsiah",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+        "date": "05/03/2026",
+        "time": "19:00:00",
+        "end_date": "05/03/2026",
+        "end_time": "21:30:00",
+        "link_names": [
+            "Thmanyah - FHD"
+        ],
+        "links_id": "740",
+        "links": "pro/Saudi-Pro-League-Al-Kholood-vs-Al-Qadsiah.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "eventName": "Saudi Pro League",
+        "teamAName": "Damac",
+        "teamBName": "Al-Riyadh",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/204126/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image",
+        "date": "05/03/2026",
+        "time": "19:00:00",
+        "end_date": "05/03/2026",
+        "end_time": "21:30:00",
+        "link_names": [
+            "Thmanyah - FHD"
+        ],
+        "links_id": "741",
+        "links": "pro/Saudi-Pro-League-Damac-vs-Al-Riyadh.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+        "eventName": "Türkiye Kupası",
+        "teamAName": "Antalyaspor",
+        "teamBName": "Samsunspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3056/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3053/image",
+        "date": "05/03/2026",
+        "time": "17:30:00",
+        "end_date": "05/03/2026",
+        "end_time": "19:40:00",
+        "link_names": [
+            "FAST",
+            "LQ"
+        ],
+        "links_id": "742",
+        "links": "pro/Türkiye-Kupası-Antalyaspor-vs-Samsunspor.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "eventName": "A-League Men",
+        "teamAName": "Adelaide United",
+        "teamBName": "Wellington",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2946/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7568/image",
+        "date": "06/03/2026",
+        "time": "08:35:00",
+        "end_date": "06/03/2026",
+        "end_time": "",
+        "link_names": false,
+        "links_id": false,
+        "links": "pro/A-League-Men-Adelaide-United-vs-Wellington.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+        "eventName": "Indian Super League",
+        "teamAName": "Odisha",
+        "teamBName": "Mohun Bagan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174592/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/370834/image",
+        "date": "06/03/2026",
+        "time": "11:30:00",
+        "end_date": "06/03/2026",
+        "end_time": "",
+        "link_names": false,
+        "links_id": false,
+        "links": "pro/Indian-Super-League-Odisha-vs-Mohun-Bagan.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1692/image/dark",
+        "eventName": "AFC Women's Asian Cup",
+        "teamAName": "Uzbekistan",
+        "teamBName": "China",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/132956/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7413/image",
+        "date": "06/03/2026",
+        "time": "08:00:00",
+        "end_date": "06/03/2026",
+        "end_time": "",
+        "link_names": false,
+        "links_id": false,
+        "links": "pro/AFC-Women's-Asian-Cup-Uzbekistan-vs-China.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/373/image/dark",
+        "eventName": "Copa Betano do Brasil",
+        "teamAName": "Desportiva",
+        "teamBName": "Sport",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34011/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1959/image",
+        "date": "05/03/2026",
+        "time": "22:00:00",
+        "end_date": "05/03/2026",
+        "end_time": "00:20:00",
+        "link_names": [
+            "sporttv"
+        ],
+        "links_id": "746",
+        "links": "pro/Copa-Betano-do-Brasil-Desportiva-vs-Sport.json"
+    },
+    {
+        "visible": true,
+        "show_noti": false,
+        "priority": -1,
+        "category": "Football",
+        "categoryLogo": "https://ashaott.github.io/ico/Football.png",
+        "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/373/image/dark",
+        "eventName": "Copa Betano do Brasil",
+        "teamAName": "Juventude",
+        "teamBName": "Guaporé",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1980/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/339709/image",
+        "date": "06/03/2026",
+        "time": "00:30:00",
+        "end_date": "06/03/2026",
+        "end_time": "02:50:00",
+        "link_names": [
+            "sportv"
+        ],
+        "links_id": "747",
+        "links": "pro/Copa-Betano-do-Brasil-Juventude-vs-Guaporé.json"
     }
 ]
