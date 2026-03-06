@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "USA",
-        "logo": "https://flagdownload.com/wp-content/uploads/Flag_of_United_States_Flat_Round-128x128.png",
+        "name": "Tubi TV",
+        "logo": "https://m.media-amazon.com/images/I/715irEQPXzL.png",
         "type": "m3u",
-        "api": "https://is.gd/b0W6wZ.m3u"
+        "api": "https://raw.githubusercontent.com/aphrodite747/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
-        "visible": false,
-        "name": "STAR HUB",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nd-rdACpvublWZ2HoxG1MflV2es82yT3EJHwXLSWhKww=s900-c-k-c0x00ffffff-no-rj",
+        "visible": true,
+        "name": "SPAIN",
+        "logo": "https://png.pngtree.com/png-vector/20220506/ourmid/pngtree-round-country-flag-spain-png-image_4563529.png",
         "type": "m3u",
-        "api": "https://new.kryptx47-hub.top/playlist/star.m3u"
+        "api": "https://dolanteram.xyz/playlist/global/app/playlist.m3u?id=cc62a9bdf96b"
     }
 ]

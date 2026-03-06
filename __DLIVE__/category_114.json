@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "ZIO CINEMA V2",
-        "logo": "https://i.ibb.co/PzDKd2D/IMG-20250113-204634.jpg",
+        "name": "ZENGATV",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/be/ZengaTVLogo.jpg",
         "type": "m3u",
-        "api": "https://raw.githubusercontent.com/alpha4528/m3u/refs/heads/main/jcinema.m3u"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=049bbd75b1ec"
     }
 ]

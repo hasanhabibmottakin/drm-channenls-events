@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "NEPAL",
-        "logo": "https://previews.123rf.com/images/butenkow/butenkow1911/butenkow191101406/133873735-nepal-flag-vector-illustration-on-a-white-background.jpg",
+        "name": "MOVIES S2",
+        "logo": "https://cdn-icons-png.flaticon.com/512/11327/11327060.png",
         "type": "m3u",
-        "api": "https://iptv-org.github.io/iptv/countries/np.m3u"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=63e13b8f3b96"
     }
 ]

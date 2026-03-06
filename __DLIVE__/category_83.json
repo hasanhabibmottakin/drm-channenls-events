@@ -1,9 +1,9 @@
 [
     {
-        "visible": false,
-        "name": "SONYLIV 1",
-        "logo": "https://i.ibb.co.com/YBGWzfkD/Sksliv.png",
+        "visible": true,
+        "name": "SONY LIV (IN)",
+        "logo": "https://i.postimg.cc/8PZ2cStc/images-5.jpg",
         "type": "m3u",
-        "api": "https://raw.githubusercontent.com/omarmourmiydghjd/main/refs/heads/main/sonybyrend.m3u"
+        "api": "https://raw.githubusercontent.com/ramnarayan01/data/refs/heads/main/s0nyind.m3u.html"
     }
 ]

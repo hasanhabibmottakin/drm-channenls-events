@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "SLiv Live [S1]",
-        "logo": "https://i.ibb.co/bQDzYmD/IMG-20250106-014737.jpg",
+        "name": "Singpore IP",
+        "logo": "https://static.wikia.nocookie.net/club-penguin-rewritten/images/6/6c/Singapore_Flag.png",
         "type": "m3u",
-        "api": "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"
+        "api": "https://perfecttv.net/PerfecttvFree.m3u"
     }
 ]

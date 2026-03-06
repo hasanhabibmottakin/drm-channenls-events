@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "PALESTINE-TV",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp4G-aiydTvhpcpLPJlF7J_Iim8Zo5xIawTg&s",
+        "name": "OXOLIVE",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgtn260y1IS-fYGpK96WXEvdgBSs5D1TMvNQ&s",
         "type": "m3u",
-        "api": "https://streamgolive.github.io/api/PalestineTV.m3u"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=ae6dae9a14b4"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
-        "visible": false,
-        "name": "Sky Sports NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv6FO5cr9Td_gwW1KKbG1u68znyFYOSX8ybA&s",
-        "type": "custom",
-        "api": "channels/Sky-Sports-NZ.json"
+        "visible": true,
+        "name": "SHOQ TV",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv5XI89LC5fqt1Fs7jKmQQRqP2iX9gw7tmxnw86r4b-e35WTav0QEbBf_Ssenlki6crmY&usqp=CAU",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/abid58b/ShoqPlaylist/refs/heads/main/shoq.m3u"
     }
 ]

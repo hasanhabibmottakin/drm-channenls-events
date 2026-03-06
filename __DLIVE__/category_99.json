@@ -1,9 +1,9 @@
 [
     {
         "visible": false,
-        "name": "TheTvApp",
-        "logo": "https://play-lh.googleusercontent.com/TnMTftZjXIURmsbYogpkSVKKfZXF4MqmrgF3_PIU9wwKY8kcUj5UfTwTSPRnVoovGHE",
+        "name": "TATA PLAY",
+        "logo": "https://i.ibb.co/tM97VG9w/sktp.png",
         "type": "m3u",
-        "api": "https://tvpass.org/playlist/m3u"
+        "api": "http://66.102.120.18:8000/playlist.m3u8"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "MOVIES S1",
-        "logo": "https://cdn-icons-png.flaticon.com/512/11327/11327060.png",
+        "name": "MAXPLAYER (EN)",
+        "logo": "https://play-lh.googleusercontent.com/fTp32YyE-fi7cdG4V6dDR5OCLsx5bRhgMuCQLXroevnHiZWRY72Cxcseb6vlznTEDQ",
         "type": "m3u",
-        "api": "https://github.com/live-iptv/m3u_validator/raw/refs/heads/main/movies_m3u.m3u"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=b86a069137d3"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "MAXPLAYER",
-        "logo": "https://i.ibb.co/Wvb3bF00/5f9add64d91d7.png",
+        "name": "LocalNow",
+        "logo": "https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w",
         "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=a7e8f1ec28a0"
+        "api": "https://www.apsattv.com/localnow.m3u"
     }
 ]

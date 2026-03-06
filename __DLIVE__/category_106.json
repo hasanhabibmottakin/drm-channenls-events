@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "WAVES OTT",
-        "logo": "https://play-lh.googleusercontent.com/vJU6A0cUbsHcEzF_Ach6NsF281DjcseRahBf6KPj7a_keiSowNFGkw2hoLeFX5NtlYAf",
+        "name": "Vietnam",
+        "logo": "https://png.pngtree.com/png-vector/20240909/ourmid/pngtree-vietnam-circle-flag-with-gold-ring-vector-png-image_13761916.png",
         "type": "m3u",
-        "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/waves.m3u"
+        "api": "https://iptv-org.github.io/iptv/countries/vn.m3u"
     }
 ]

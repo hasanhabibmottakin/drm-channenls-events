@@ -1,9 +1,9 @@
 [
     {
-        "visible": false,
-        "name": "SuperSports",
-        "logo": "https://i.ibb.co/nfx7RLg/reduced-20240206-115716.jpg",
-        "type": "custom",
-        "api": "channels/supersport.json"
+        "visible": true,
+        "name": "SUN DIRECT",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Y3bLsyx7DvJw00vPbOyRRw6pQVpgKkeYiQ&s",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/alpha4528/m3u/refs/heads/main/suntv.m3u"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
-        "visible": true,
-        "name": "SRI-LANKA",
-        "logo": "https://e7.pngegg.com/pngimages/639/475/png-clipart-flag-of-sri-lanka-national-flag-flag-of-malaysia-sri-lanka-culture-miscellaneous-flag-thumbnail.png",
+        "visible": false,
+        "name": "SONYLIV 1",
+        "logo": "https://i.ibb.co.com/YBGWzfkD/Sksliv.png",
         "type": "m3u",
-        "api": "https://iptv-org.github.io/iptv/countries/lk.m3u"
+        "api": "https://raw.githubusercontent.com/omarmourmiydghjd/main/refs/heads/main/sonybyrend.m3u"
     }
 ]

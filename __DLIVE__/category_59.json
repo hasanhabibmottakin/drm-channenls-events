@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "PAKISTAN",
-        "logo": "https://img.freepik.com/premium-vector/pakistan-circle-flag-logo-icon-digital-vector-illustration-design_1143296-4750.jpg",
+        "name": "OTT PLAY",
+        "logo": "https://play-lh.googleusercontent.com/QTF9Y5tGgNYod73AHmI1puQFxzU1bU8gPdev0VhfIxH46DTu3LCvXCwX90H8RiPIhkXpF85Z1qO7GmP8qovG1g",
         "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=ec7045b206e0"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=f3b6d6794430"
     }
 ]

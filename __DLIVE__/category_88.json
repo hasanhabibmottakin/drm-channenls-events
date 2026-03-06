@@ -1,9 +1,9 @@
 [
     {
-        "visible": true,
-        "name": "STYXSPORTS",
-        "logo": "https://yt3.googleusercontent.com/-s9hw-sXKxEzkQ5PJelppGHVjQyFl3wbxEaor25njHFiwF-HpDYqAAWA3wiy77oSh3ofuv-J=s900-c-k-c0x00ffffff-no-rj",
+        "visible": false,
+        "name": "STAR HUB",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nd-rdACpvublWZ2HoxG1MflV2es82yT3EJHwXLSWhKww=s900-c-k-c0x00ffffff-no-rj",
         "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=7e854b76b082"
+        "api": "https://new.kryptx47-hub.top/playlist/star.m3u"
     }
 ]

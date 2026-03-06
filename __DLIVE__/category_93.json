@@ -1,9 +1,9 @@
 [
     {
-        "visible": true,
-        "name": "TAMASHA PK (LIVE)",
-        "logo": "https://downloadr2.apkmirror.com/wp-content/uploads/2025/05/45/68304601a9190_com.spbtv.mobilinktv.png",
-        "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=8db266792bd4"
+        "visible": false,
+        "name": "SuperSports",
+        "logo": "https://i.ibb.co/nfx7RLg/reduced-20240206-115716.jpg",
+        "type": "custom",
+        "api": "channels/supersport.json"
     }
 ]

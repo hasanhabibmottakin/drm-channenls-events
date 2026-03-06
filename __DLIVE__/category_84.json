@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "SPAIN",
-        "logo": "https://png.pngtree.com/png-vector/20220506/ourmid/pngtree-round-country-flag-spain-png-image_4563529.png",
+        "name": "SONY LIV (IN) Only",
+        "logo": "https://i.postimg.cc/8PZ2cStc/images-5.jpg",
         "type": "m3u",
-        "api": "https://dolanteram.xyz/playlist/global/app/playlist.m3u?id=cc62a9bdf96b"
+        "api": "https://raw.githubusercontent.com/ramnarayan01/data/refs/heads/main/s0nyind.m3u.html"
     }
 ]

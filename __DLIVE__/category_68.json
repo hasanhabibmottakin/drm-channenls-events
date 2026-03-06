@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "RUN",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgD_jfEEMUgPVKwggOOAu5I1G6VveZOLd8VWS0X7uVoe4MBUfOwqwnKNQY-Rj9chTqeMc&usqp=CAU",
+        "name": "RASI TV",
+        "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg",
         "type": "m3u",
-        "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/runn.m3u"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=0ce6ad712d4f"
     }
 ]

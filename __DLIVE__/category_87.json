@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "StarHot Live",
-        "logo": "https://i.ibb.co/vcgVfT2/IMG-20250111-091243.jpg",
+        "name": "SRI-LANKA",
+        "logo": "https://e7.pngegg.com/pngimages/639/475/png-clipart-flag-of-sri-lanka-national-flag-flag-of-malaysia-sri-lanka-culture-miscellaneous-flag-thumbnail.png",
         "type": "m3u",
-        "api": "https://floral-brook-249f.saqlainhaider8198.workers.dev/hs_events"
+        "api": "https://iptv-org.github.io/iptv/countries/lk.m3u"
     }
 ]

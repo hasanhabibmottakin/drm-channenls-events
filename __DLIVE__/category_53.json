@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "MOVIES S2",
-        "logo": "https://cdn-icons-png.flaticon.com/512/11327/11327060.png",
+        "name": "MBC &ARABICS",
+        "logo": "https://cdn.localized.world/organizations/145/f0e52722-893a-4bae-9e26-1b06127064d5.png",
         "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=63e13b8f3b96"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=8b9cd39546f6"
     }
 ]

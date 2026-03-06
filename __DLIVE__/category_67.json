@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "ROARZONE",
-        "logo": "https://play-lh.googleusercontent.com/7R6HmK2pB5Jdk9HD1KLxcGLqCryh0HCyJ85KlHtzEwwea7Qpgz9_FNDYBWbB9W9oEP0k",
+        "name": "Prime USA",
+        "logo": "https://m.media-amazon.com/images/I/31W9hs7w0JL.png",
         "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=17af68818def"
+        "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/amzusa.m3u"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "SUN DIRECT",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Y3bLsyx7DvJw00vPbOyRRw6pQVpgKkeYiQ&s",
+        "name": "StarHot Live",
+        "logo": "https://i.ibb.co/vcgVfT2/IMG-20250111-091243.jpg",
         "type": "m3u",
-        "api": "https://raw.githubusercontent.com/alpha4528/m3u/refs/heads/main/suntv.m3u"
+        "api": "https://floral-brook-249f.saqlainhaider8198.workers.dev/hs_events"
     }
 ]

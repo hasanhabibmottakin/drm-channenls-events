@@ -1,9 +1,9 @@
 [
     {
-        "visible": false,
-        "name": "TATA PLAY",
-        "logo": "https://i.ibb.co/tM97VG9w/sktp.png",
+        "visible": true,
+        "name": "TAMIL",
+        "logo": "https://i.ibb.co.com/bjjFwLhy/IMG-20260129-152124.jpg",
         "type": "m3u",
-        "api": "http://66.102.120.18:8000/playlist.m3u8"
+        "api": "https://m3u.8088y.fun/testing.m3u|User-Agent=TiViMate/4.7 (Linux,Android)"
     }
 ]
