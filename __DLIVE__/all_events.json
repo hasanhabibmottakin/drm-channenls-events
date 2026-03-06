@@ -2,7 +2,7 @@
     {
         "visible": true,
         "show_noti": false,
-        "priority": -1,
+        "priority": 1,
         "category": "Cricket",
         "categoryLogo": "https://ashaott.github.io/ico/crickeettt.png",
         "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
@@ -16,6 +16,8 @@
         "end_date": "08/03/2026",
         "end_time": "17:55:00",
         "link_names": [
+            "ASHAOTT 1",
+            "ASHAOTT 2",
             "Willow AQ [Fast]",
             "Prime Video AQ",
             "Willow FHD AQ",
@@ -27,6 +29,36 @@
         "links_id": "3934",
         "links": "pro/SUNDVDIwV29ybGRDdXBGaW5hbC1OZXdaZWFsYW5kLXZzLUluZGlh.json",
         "stream_url": [
+            {
+                "name": "ASHAOTT 1",
+                "link": "https://embedsports.top/embed/admin/admin-willow-cricket/3",
+                "api": "",
+                "tokenApi": {
+                    "url": "https://embedsports.top/embed/admin/admin-willow-cricket/3",
+                    "api": "https://embedsports.top/embed/admin/admin-willow-cricket/3",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "9HY(#b1q6",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
+            {
+                "name": "ASHAOTT 2",
+                "link": "https://embedsports.top/embed/admin/admin-willow-cricket/4",
+                "api": "",
+                "tokenApi": {
+                    "url": "https://embedsports.top/embed/admin/admin-willow-cricket/4",
+                    "api": "https://embedsports.top/embed/admin/admin-willow-cricket/4",
+                    "type": "embed",
+                    "link_key": "playback_url",
+                    "default_string": "9HY(#b1q6",
+                    "request_type": "get",
+                    "request_body_type": "text",
+                    "ip_api": "https://api.ipify.org/"
+                }
+            },
             {
                 "name": "Willow AQ [Fast]",
                 "link": "https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash/enc/glqjh8kskc/out/v1/45bfbb3a527944c295223376e0bb6dc0/cenc.mpd",
