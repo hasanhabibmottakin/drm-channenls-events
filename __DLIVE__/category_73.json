@@ -1,9 +1,9 @@
 [
     {
-        "visible": false,
-        "name": "SAMSUNGTV",
-        "logo": "https://i.ibb.co.com/MkZs2LZk/unnamed.png",
+        "visible": true,
+        "name": "SANDBRIX",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlHrP8SfkTOatGkP95mA6nDsOpJHyBqqyDQ&s",
         "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=a3bdba73ca52"
+        "api": "https://github.com/abid58b/SandBrixPlaylist/raw/refs/heads/main/sandbrix.m3u"
     }
 ]

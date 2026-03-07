@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "RUN",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgD_jfEEMUgPVKwggOOAu5I1G6VveZOLd8VWS0X7uVoe4MBUfOwqwnKNQY-Rj9chTqeMc&usqp=CAU",
+        "name": "RUSSIA",
+        "logo": "https://i.postimg.cc/Px4Q7g1C/russia.jpg",
         "type": "m3u",
-        "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/runn.m3u"
+        "api": "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV"
     }
 ]

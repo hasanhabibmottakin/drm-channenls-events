@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "Vizio",
-        "logo": "https://i.ibb.co/B2cq7nbk/download-1.jpg",
+        "name": "WAVES OTT",
+        "logo": "https://play-lh.googleusercontent.com/vJU6A0cUbsHcEzF_Ach6NsF281DjcseRahBf6KPj7a_keiSowNFGkw2hoLeFX5NtlYAf",
         "type": "m3u",
-        "api": "https://www.apsattv.com/vizio.m3u"
+        "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/waves.m3u"
     }
 ]

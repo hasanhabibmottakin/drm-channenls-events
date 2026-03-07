@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "Xiami",
-        "logo": "https://i.ibb.co/B29RWMh1/download-2.png",
+        "name": "Xumo",
+        "logo": "https://i.ibb.co/pjyc2PtX/images.png",
         "type": "m3u",
-        "api": "https://www.apsattv.com/xiaomi.m3u"
+        "api": "https://www.apsattv.com/xumo.m3u"
     }
 ]

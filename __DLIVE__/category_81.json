@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "SOFAST",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcAWwoNH4Ng5VcC2M1Xfa69pXdI05BwZpMAhrMMicGonAtl1ZM3TFRA&s=10",
+        "name": "SONY LIV",
+        "logo": "https://i.postimg.cc/8PZ2cStc/images-5.jpg",
         "type": "m3u",
-        "api": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/SOFAST.m3u"
+        "api": "https://ranapk.short.gy/sonybd/playlist.php|user-agent=Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0& cache-control=no-cache, no-store"
     }
 ]

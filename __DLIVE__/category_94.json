@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "TABLO TV",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZBLkiLlzRsIqA4anA_bMLW4i9ScI-gD85A&s",
+        "name": "TAMASHA PK (LIVE)",
+        "logo": "https://downloadr2.apkmirror.com/wp-content/uploads/2025/05/45/68304601a9190_com.spbtv.mobilinktv.png",
         "type": "m3u",
-        "api": "https://www.apsattv.com/tablo.m3u"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=8db266792bd4"
     }
 ]

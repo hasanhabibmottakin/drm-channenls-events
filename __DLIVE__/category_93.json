@@ -1,9 +1,9 @@
 [
     {
-        "visible": false,
-        "name": "SuperSports",
-        "logo": "https://i.ibb.co/nfx7RLg/reduced-20240206-115716.jpg",
-        "type": "custom",
-        "api": "channels/supersport.json"
+        "visible": true,
+        "name": "TABLO TV",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZBLkiLlzRsIqA4anA_bMLW4i9ScI-gD85A&s",
+        "type": "m3u",
+        "api": "https://www.apsattv.com/tablo.m3u"
     }
 ]

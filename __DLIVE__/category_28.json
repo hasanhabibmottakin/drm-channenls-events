@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "FC Live IN",
-        "logo": "https://i.ibb.co/pjBZPBSK/fclive.jpg",
+        "name": "FIRETV",
+        "logo": "https://raw.githubusercontent.com/bdiptvworld/logo/refs/heads/main/firetv.png",
         "type": "m3u",
-        "api": "https://raw.githubusercontent.com/Jitendra-unatti/fancode/refs/heads/main/data/fancode.m3u"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=ce416fed25ec"
     }
 ]

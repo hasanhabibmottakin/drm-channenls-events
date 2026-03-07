@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "TVWORLDFLIX",
-        "logo": "https://play-lh.googleusercontent.com/l_n1uoJSspqdhI6yShkkAS7LTLigch4JKkQ5QcEaAaMKWMq2R5_45p39jK5v2iAr_ns",
+        "name": "USA",
+        "logo": "https://flagdownload.com/wp-content/uploads/Flag_of_United_States_Flat_Round-128x128.png",
         "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=73451d7d68b3"
+        "api": "https://is.gd/b0W6wZ.m3u"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "ZEE-5 SD",
+        "name": "ZEE5 +",
         "logo": "https://i.ibb.co/39PCKrHv/5Zeesk.png",
         "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=157313b15f93"
+        "api": "https://raw.githubusercontent.com/alpha4528/m3u/refs/heads/main/z5.m3u"
     }
 ]

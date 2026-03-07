@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "ZIO CINEMA",
-        "logo": "https://i.ibb.co/PzDKd2D/IMG-20250113-204634.jpg",
+        "name": "ZONGTV",
+        "logo": "https://play-lh.googleusercontent.com/oQCiWK10q-GcSoHMHxnQ95X7qI2ucXyjZZtMOrQl6qPdJEcuIuGv_W3Nhkb507_T1TqF=w240-h480-rw",
         "type": "m3u",
-        "api": "https://floral-brook-249f.saqlainhaider8198.workers.dev/ziocinema"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=5b145afee099"
     }
 ]

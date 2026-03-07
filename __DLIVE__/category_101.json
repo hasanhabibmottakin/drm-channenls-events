@@ -1,9 +1,9 @@
 [
     {
-        "visible": true,
-        "name": "TATA PLAY V2",
-        "logo": "https://i.ibb.co/tM97VG9w/sktp.png",
+        "visible": false,
+        "name": "TEST LIVE",
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/9d/94/5b/9d945be1-8c09-8ca5-575a-e28e7ae8355e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
         "type": "m3u",
-        "api": "http://58.147.140.106:4000/playlist.m3u"
+        "api": "https://streamgolive.pages.dev/test.m3u"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
-        "visible": false,
-        "name": "Sky Sports NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv6FO5cr9Td_gwW1KKbG1u68znyFYOSX8ybA&s",
-        "type": "custom",
-        "api": "channels/Sky-Sports-NZ.json"
+        "visible": true,
+        "name": "SLiv Live [S1]",
+        "logo": "https://i.ibb.co/bQDzYmD/IMG-20250106-014737.jpg",
+        "type": "m3u",
+        "api": "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"
     }
 ]

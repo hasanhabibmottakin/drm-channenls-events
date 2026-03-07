@@ -1,9 +1,9 @@
 [
     {
-        "visible": false,
-        "name": "STAR HUB",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nd-rdACpvublWZ2HoxG1MflV2es82yT3EJHwXLSWhKww=s900-c-k-c0x00ffffff-no-rj",
+        "visible": true,
+        "name": "StarHot Live",
+        "logo": "https://i.ibb.co/vcgVfT2/IMG-20250111-091243.jpg",
         "type": "m3u",
-        "api": "https://new.kryptx47-hub.top/playlist/star.m3u"
+        "api": "https://floral-brook-249f.saqlainhaider8198.workers.dev/hs_events"
     }
 ]

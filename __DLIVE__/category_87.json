@@ -1,9 +1,9 @@
 [
     {
-        "visible": true,
-        "name": "SRI-LANKA",
-        "logo": "https://e7.pngegg.com/pngimages/639/475/png-clipart-flag-of-sri-lanka-national-flag-flag-of-malaysia-sri-lanka-culture-miscellaneous-flag-thumbnail.png",
+        "visible": false,
+        "name": "STAR HUB",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nd-rdACpvublWZ2HoxG1MflV2es82yT3EJHwXLSWhKww=s900-c-k-c0x00ffffff-no-rj",
         "type": "m3u",
-        "api": "https://iptv-org.github.io/iptv/countries/lk.m3u"
+        "api": "https://new.kryptx47-hub.top/playlist/star.m3u"
     }
 ]

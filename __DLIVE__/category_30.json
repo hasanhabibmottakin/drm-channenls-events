@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "HBO Channels",
-        "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968611.png",
-        "type": "custom",
-        "api": "channels/HBO-Channels.json"
+        "name": "HoiCHoi24",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD1ff_FHv9VqQl0_IHHWN7ngOGK-Eer1xL-A&s",
+        "type": "m3u",
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=083ae23de2ad"
     }
 ]

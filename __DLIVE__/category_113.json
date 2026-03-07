@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "YUPPTV(PRO)",
-        "logo": "https://play-lh.googleusercontent.com/mNX-Fl-1cgwBzuF8m8YFcaF7GGNUQAl5gLtH7eJNrYSZHYnw1GIVgTXSQT5K7OEM_1aE",
+        "name": "ZEE-5 SD",
+        "logo": "https://i.ibb.co/39PCKrHv/5Zeesk.png",
         "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=f4291f2c6262"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=157313b15f93"
     }
 ]

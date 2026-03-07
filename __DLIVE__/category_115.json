@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "ZEE5 +",
-        "logo": "https://i.ibb.co/39PCKrHv/5Zeesk.png",
+        "name": "ZENGATV",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/be/ZengaTVLogo.jpg",
         "type": "m3u",
-        "api": "https://raw.githubusercontent.com/alpha4528/m3u/refs/heads/main/z5.m3u"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=049bbd75b1ec"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "OTT PLAY",
-        "logo": "https://play-lh.googleusercontent.com/QTF9Y5tGgNYod73AHmI1puQFxzU1bU8gPdev0VhfIxH46DTu3LCvXCwX90H8RiPIhkXpF85Z1qO7GmP8qovG1g",
+        "name": "OXOLIVE",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgtn260y1IS-fYGpK96WXEvdgBSs5D1TMvNQ&s",
         "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=f3b6d6794430"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=ae6dae9a14b4"
     }
 ]

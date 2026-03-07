@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "ZENGATV",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/b/be/ZengaTVLogo.jpg",
+        "name": "ZIO CINEMA",
+        "logo": "https://i.ibb.co/PzDKd2D/IMG-20250113-204634.jpg",
         "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=049bbd75b1ec"
+        "api": "https://floral-brook-249f.saqlainhaider8198.workers.dev/ziocinema"
     }
 ]

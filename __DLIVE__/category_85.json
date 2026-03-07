@@ -1,9 +1,9 @@
 [
     {
-        "visible": false,
-        "name": "SONYLIV 1",
-        "logo": "https://i.ibb.co.com/YBGWzfkD/Sksliv.png",
+        "visible": true,
+        "name": "SPAIN",
+        "logo": "https://png.pngtree.com/png-vector/20220506/ourmid/pngtree-round-country-flag-spain-png-image_4563529.png",
         "type": "m3u",
-        "api": "https://raw.githubusercontent.com/omarmourmiydghjd/main/refs/heads/main/sonybyrend.m3u"
+        "api": "https://dolanteram.xyz/playlist/global/app/playlist.m3u?id=cc62a9bdf96b"
     }
 ]

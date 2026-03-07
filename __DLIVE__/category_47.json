@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "LG Channel",
-        "logo": "https://i.ibb.co/mVLY7JMS/download-6.png",
+        "name": "LocalNow",
+        "logo": "https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w",
         "type": "m3u",
-        "api": "https://www.apsattv.com/lg.m3u"
+        "api": "https://www.apsattv.com/localnow.m3u"
     }
 ]

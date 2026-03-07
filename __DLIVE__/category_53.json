@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "MBC &ARABICS",
-        "logo": "https://cdn.localized.world/organizations/145/f0e52722-893a-4bae-9e26-1b06127064d5.png",
+        "name": "MOVIES S1",
+        "logo": "https://cdn-icons-png.flaticon.com/512/11327/11327060.png",
         "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=8b9cd39546f6"
+        "api": "https://github.com/live-iptv/m3u_validator/raw/refs/heads/main/movies_m3u.m3u"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "JIO HOTSTAR",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz74Tj3aFUVwyX_KmZJLMVwoyVYaLOJOIYHPJZmJE5qQ&s=10",
+        "name": "JIO+",
+        "logo": "https://i.ibb.co/mJPC40y/Jiotv.jpg",
         "type": "m3u",
-        "api": "https://allinonereborn.store/jiotv-m3u/playlist789.m3u8"
+        "api": "https://rkdyiptv.pages.dev/Playlist/Gio-plus.m3u"
     }
 ]

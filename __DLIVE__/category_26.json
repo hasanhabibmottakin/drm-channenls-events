@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "FC Live BD",
+        "name": "FC Live G",
         "logo": "https://i.ibb.co/pjBZPBSK/fclive.jpg",
-        "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=34be939d3b0e"
+        "type": "custom",
+        "api": "channels/Fancode.json"
     }
 ]

@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "JIO+",
-        "logo": "https://i.ibb.co/mJPC40y/Jiotv.jpg",
+        "name": "JIO+ S",
+        "logo": "https://i.ibb.co/XJhJ9pd/jioplus.jpg",
         "type": "m3u",
-        "api": "https://rkdyiptv.pages.dev/Playlist/Gio-plus.m3u"
+        "api": "https://streamflex.tarkshya.qzz.io/playlist.m3u"
     }
 ]

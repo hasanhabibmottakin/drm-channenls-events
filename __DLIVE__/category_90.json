@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "STYXSPORTS",
-        "logo": "https://yt3.googleusercontent.com/-s9hw-sXKxEzkQ5PJelppGHVjQyFl3wbxEaor25njHFiwF-HpDYqAAWA3wiy77oSh3ofuv-J=s900-c-k-c0x00ffffff-no-rj",
+        "name": "SUN DIRECT",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Y3bLsyx7DvJw00vPbOyRRw6pQVpgKkeYiQ&s",
         "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=7e854b76b082"
+        "api": "https://raw.githubusercontent.com/alpha4528/m3u/refs/heads/main/suntv.m3u"
     }
 ]

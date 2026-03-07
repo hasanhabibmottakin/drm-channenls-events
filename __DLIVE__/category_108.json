@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "Vietnam",
-        "logo": "https://png.pngtree.com/png-vector/20240909/ourmid/pngtree-vietnam-circle-flag-with-gold-ring-vector-png-image_13761916.png",
+        "name": "Vizio",
+        "logo": "https://i.ibb.co/B2cq7nbk/download-1.jpg",
         "type": "m3u",
-        "api": "https://iptv-org.github.io/iptv/countries/vn.m3u"
+        "api": "https://www.apsattv.com/vizio.m3u"
     }
 ]

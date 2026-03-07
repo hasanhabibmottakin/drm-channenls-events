@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "MAXPLAYER",
-        "logo": "https://i.ibb.co/Wvb3bF00/5f9add64d91d7.png",
+        "name": "MAXPLAYER (All)",
+        "logo": "https://play-lh.googleusercontent.com/fTp32YyE-fi7cdG4V6dDR5OCLsx5bRhgMuCQLXroevnHiZWRY72Cxcseb6vlznTEDQ",
         "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=a7e8f1ec28a0"
+        "api": "https://sportsbd.top/playlist/playlist.m3u?id=41714b5ada21"
     }
 ]

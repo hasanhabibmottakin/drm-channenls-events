@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "LocalNow",
-        "logo": "https://play-lh.googleusercontent.com/nGFNBYhVI7hCYfqPjY9Mb_a8blCpksvK3LSGHj9v9qSvmhi_j-Fcj67_qmXFxAYr7w",
+        "name": "MAXICO IPTV",
+        "logo": "https://img.freepik.com/premium-vector/made-mexico-logo-design-made-mexico-flags-logo_526569-381.jpg",
         "type": "m3u",
-        "api": "https://www.apsattv.com/localnow.m3u"
+        "api": "https://da.gd/nkMDJ"
     }
 ]
