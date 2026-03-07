@@ -1,9 +1,9 @@
 [
     {
         "visible": true,
-        "name": "Vizio",
-        "logo": "https://i.ibb.co/B2cq7nbk/download-1.jpg",
+        "name": "VENEZUELA",
+        "logo": "https://thumbs.dreamstime.com/b/vector-logo-venezuela-country-fridge-magnet-venezuelan-flag-original-brush-typeface-word-national-symbol-lighthouse-122415331.jpg",
         "type": "m3u",
-        "api": "https://www.apsattv.com/vizio.m3u"
+        "api": "https://raw.githubusercontent.com/Awaispirkale/streamifytv/refs/heads/main/ve.json"
     }
 ]
