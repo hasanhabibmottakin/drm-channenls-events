@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "NEPAL",
-        "logo": "https://previews.123rf.com/images/butenkow/butenkow1911/butenkow191101406/133873735-nepal-flag-vector-illustration-on-a-white-background.jpg",
-        "type": "m3u",
-        "api": "https://iptv-org.github.io/iptv/countries/np.m3u"
-    }
-]

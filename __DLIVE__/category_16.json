@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "Combo IPTV",
-        "logo": "https://play-lh.googleusercontent.com/qVBLymJyAWhGFYUKlGS3pvXmKrLRu3D19YnJSumDcYLypXWvKoZ9qceaKJhJwXd3J9A",
-        "type": "m3u",
-        "api": "https://sportsbd.top/playlist/playlist.m3u?id=4d9b2514bf56"
-    }
-]

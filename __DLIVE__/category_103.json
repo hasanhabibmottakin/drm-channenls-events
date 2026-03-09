@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "Tubi TV",
-        "logo": "https://m.media-amazon.com/images/I/715irEQPXzL.png",
-        "type": "m3u",
-        "api": "https://raw.githubusercontent.com/aphrodite747/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u"
-    }
-]

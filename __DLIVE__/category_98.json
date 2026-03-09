@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "TATA PLAY",
-        "logo": "https://i.ibb.co/tM97VG9w/sktp.png",
-        "type": "m3u",
-        "api": "http://163.61.227.29:8000/playlist.m3u"
-    }
-]

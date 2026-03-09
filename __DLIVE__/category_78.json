@@ -1,9 +1,0 @@
-[
-    {
-        "visible": true,
-        "name": "SLiv Live [S1]",
-        "logo": "https://i.ibb.co/bQDzYmD/IMG-20250106-014737.jpg",
-        "type": "m3u",
-        "api": "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"
-    }
-]
